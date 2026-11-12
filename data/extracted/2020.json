@@ -1,0 +1,2422 @@
+[
+ {
+  "id": "2020-01",
+  "number": 1,
+  "code": "2020-AT-03",
+  "year": 2020,
+  "title": "Pesan Rahasia",
+  "country": "AT",
+  "pages": [
+   10
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Big Boss si berang-berang memiliki pesan rahasia untuk enam agennya. Sayangnya, Big Boss tidak mempercayai begitu saja setiap agennya. Jadi Bos Big berang-berang membagi pesan menjadi empat bagian (1 sampai 4) dan menambahkan tingkat kerahasiaan ke setiap bagian."
+   },
+   {
+    "type": "li",
+    "text": "Sepotong pesan dengan segel “-“ hanya dapat dibaca oleh agen yang mendapatkan bagian tersebut."
+   },
+   {
+    "type": "li",
+    "text": "Sepotong pesan dengan segel “#“ dapat dibaca oleh penerima dan bawahannya (pada gambar di bawah ini, arah panah menunjukkan bawahan ke atasannya. A ⇾ B artinya A adalah bawahan B, bukan arah panah garis putus-putus)."
+   },
+   {
+    "type": "li",
+    "text": "Sepotong pesan dengan segel “+“ dapat dibaca oleh setiap agen."
+   },
+   {
+    "type": "p",
+    "text": "Gambar berikut menunjukkan agen dan potongan pesan yang telah mereka terima."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-01-1.webp",
+    "w": 489,
+    "h": 252
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Agen yang mana dapat mengakses semua potongan pesan (1 s.d. 4)?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-01-2.webp",
+    "w": 372,
+    "h": 118
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": ""
+   },
+   {
+    "label": "D",
+    "text": ""
+   }
+  ],
+  "answer": "D",
+  "answerText": "Jawaban yang tepat: D Penjelasan: Rakun putih (D) menerima bagian kedua dari pesan. Atasannya (rakun bertopi) menerima bagian pertama dan ketiga dengan segel “#”. Pesan-pesan ini dapat dibaca juga oleh rakun putih. Pesan bagian keempat bisa dibaca oleh seluruh agen. Jawaban (A) salah karena si rubah tidak dapat membaca pesan pertama dan ketiga. Jawaban (B) salah karena serigala dengan kacamata tidak dapat membaca pesan ketiga. Jawaban (C) salah karena kelinci tidak dapat membaca pesan kedua.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "D"
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan: Rakun putih (D) menerima bagian kedua dari pesan. Atasannya (rakun bertopi) menerima bagian pertama dan ketiga dengan segel “#”. Pesan-pesan ini dapat dibaca juga oleh rakun putih. Pesan bagian keempat bisa dibaca oleh seluruh agen."
+   },
+   {
+    "type": "p",
+    "text": "Jawaban (A) salah karena si rubah tidak dapat membaca pesan pertama dan ketiga."
+   },
+   {
+    "type": "p",
+    "text": "Jawaban (B) salah karena serigala dengan kacamata tidak dapat membaca pesan ketiga."
+   },
+   {
+    "type": "p",
+    "text": "Jawaban (C) salah karena kelinci tidak dapat membaca pesan kedua."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\nFlorentina Voboril (Austria), florentina.voboril@gmx.at, original author\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-01-asli-1.webp",
+    "w": 963,
+    "h": 838
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2020-02",
+  "number": 2,
+  "code": "2020-CA-02",
+  "year": 2020,
+  "title": "Mountain Climber",
+  "country": "CA",
+  "pages": [
+   11,
+   12
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Binsa adalah pendaki gunung. Ia mencintai pegunungan yang mempunyai 11 puncak gunung."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-02-1.webp",
+    "w": 728,
+    "h": 251
+   },
+   {
+    "type": "p",
+    "text": "Jika ia berada di suatu puncak dan ada puncak yang lebih tinggi tepat di kiri atau kanan dari sekarang ia berada, ia akan mendaki lagi ke puncak itu. Jika keduanya lebih tinggi maka ia memilih puncak yang paling tinggi dari keduanya itu. Dia terus mendaki dan mendaki lagi sampai tidak ada gunung yang lebih tinggi tepat di sampingnya."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Ada berapa kemungkinan puncak sebagai posisi awal yang memungkinkan Binsa mencapai puncak tertinggi?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "3"
+   },
+   {
+    "label": "B",
+    "text": "4"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "7"
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban yang tepat: 3 Penjelasan: Jika Binsa mulai pada gunung manapun yang berada tepat di sebelah puncak tertinggi, ia dapat mencapai puncak tertinggi. Jadi, jika kita juga menyertakan gunung dengan puncak tertinggi, ada setidaknya 3 gunung di mana puncak tertingginya dapat Binsa capai. Jika Binsa memulai dari gunung yang berjalan 2 ke kiri dari puncak tertinggi, ia tidak akan dapat mencapai puncak di sebelah kiri puncak tertinggi. Jika Binsa memulai dari gunung yang berjarak 2 ke kanan dari puncak tertinggi, ia tidak akan dapat mencapai puncak di sebelah kanan puncak tertinggi. Diagram di bawah ini menunjukkan puncak yang dapat ia panjat untuk mencapai puncak tertinggi. P1 adalah Puncak 1, P2 adalah Puncak 2, dan P3 adalah Puncak 3. Untuk P1, kedua puncak di sebelah kanan dan kiri P1 lebih tinggi dari P1, maka ia akan memilih yang sebelah kanan karena puncak tersebut adalah yang tertinggi dari kedua puncak. Untuk P2, puncak di sebelah kanan lebih rendah dari P2, maka ia akan memilih puncak di sebelah kiri, yang lebih tinggi dari P2. Untuk P3, P3 adalah puncak tertinggi, maka ia akan memilih puncak ini karena puncak ini adalah tujuan akhirnya. Ini artinya, ada tepat 3 puncak dari mana Binsa dapat mencapai puncak tertinggi.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "3"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Jika Binsa mulai pada gunung manapun yang berada tepat di sebelah puncak tertinggi, ia dapat mencapai puncak tertinggi. Jadi, jika kita juga menyertakan gunung dengan puncak tertinggi, ada setidaknya 3 gunung di mana puncak tertingginya dapat Binsa capai."
+   },
+   {
+    "type": "p",
+    "text": "Jika Binsa memulai dari gunung yang berjalan 2 ke kiri dari puncak tertinggi, ia tidak akan dapat mencapai puncak di sebelah kiri puncak tertinggi."
+   },
+   {
+    "type": "p",
+    "text": "Jika Binsa memulai dari gunung yang berjarak 2 ke kanan dari puncak tertinggi, ia tidak akan dapat mencapai puncak di sebelah kanan puncak tertinggi."
+   },
+   {
+    "type": "p",
+    "text": "Diagram di bawah ini menunjukkan puncak yang dapat ia panjat untuk mencapai puncak tertinggi. P1 adalah Puncak 1, P2 adalah Puncak 2, dan P3 adalah Puncak 3."
+   },
+   {
+    "type": "p",
+    "text": "Untuk P1, kedua puncak di sebelah kanan dan kiri P1 lebih tinggi dari P1, maka ia akan memilih yang sebelah kanan karena puncak tersebut adalah yang tertinggi dari kedua puncak."
+   },
+   {
+    "type": "p",
+    "text": "Untuk P2, puncak di sebelah kanan lebih rendah dari P2, maka ia akan memilih puncak di sebelah kiri, yang lebih tinggi dari P2."
+   },
+   {
+    "type": "p",
+    "text": "Untuk P3, P3 adalah puncak tertinggi, maka ia akan memilih puncak ini karena puncak ini adalah tujuan akhirnya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-02-2.webp",
+    "w": 135,
+    "h": 53
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-02-3.webp",
+    "w": 838,
+    "h": 143
+   },
+   {
+    "type": "p",
+    "text": "Ini artinya, ada tepat 3 puncak dari mana Binsa dapat mencapai puncak tertinggi."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "puncak - sebuah \"maksimum lokal\""
+   },
+   {
+    "type": "p",
+    "text": "\"tepat di samping\" – salah satu dari 2 gunung (peringatan: gunung-gunung di paling ujung hanya memiliki satu tetangga)"
+   }
+  ],
+  "credit": "Authorship\n• J.P. Pretti, jpretti@uwaterloo.ca, Canada\n• 2020-05-20 - Muhammad Faiz, faiz@ardentedu.com, Malaysia\n• 2020-05-20 - Ezra Templonuevo, ejtemplonuevo@gmail.com, Philippines, task revision\nduring workshop\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-02-asli-1.webp",
+    "w": 963,
+    "h": 741
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-03",
+  "number": 3,
+  "code": "2020-CH-03",
+  "year": 2020,
+  "title": "Papan Kode Rahasia",
+  "country": "CH",
+  "pages": [
+   13,
+   14
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Desa bebras mempunyai cara penulisan rahasia yang didasarkan pada pengkodean huruf-huruf alfabet Latin dengan simbol baru. Rahasianya dijelaskan pada papan berikut. Sayangnya beberapa bagian dari papan telah terhapus sehingga beberapa huruf dan kode pada papan tersebut hilang:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-03-1.webp",
+    "w": 599,
+    "h": 314
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Temukan teks orisinil dari teks yang sudah dikode, walaupun kode pada papan tersebut ada yang rusak"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-03-2.webp",
+    "w": 884,
+    "h": 84
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "INFORMATION IS COOL"
+   },
+   {
+    "label": "B",
+    "text": "INFORMATICS IS COOL"
+   },
+   {
+    "label": "C",
+    "text": "MATHEMATICS IS COOL"
+   },
+   {
+    "label": "D",
+    "text": "INFORMATION SECRET"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat: B Penjelasan: Tabel enkripsi lengkap adalah sebagai berikut: Untuk memecahkan soal di atas, kita harus menyadari bahwa simbol baru dibuat dengan mengkombinasikan simbol pada baris dan kolom. Label baris adalah bagian bawah simbol dan label kolom adalah bagian atas simbol. Simbol alfabet Latin yang hilang dapat dengan mudah dimasukkan. Yang perlu dilakukan adalah mengetahui urutan huruf alfabet Latin. Hanya label simbol untuk baris pertama yang hilang. Dengan melihat teks sandi, anda dapat mengenali bagian bawah simbol mana yang hilang. Untuk beberapa karakter Latin anda sudah tahu simbol rahasianya. Dengan memasukkan ini ke dalam teks sandi anda sudah mendapatkan bagian dari teks orisinil. Dengan melakukan coba-coba, kekosongan yang tersisa dapat terisi. Cara alternatif untuk memecahkan soal tersebut tanpa membangun kembali tabel: Dengan melihat simbol pertama berkoresponden dengan huruf I, maka jawaban C sudah pasti salah. Simbol kesebelas sesuai dengan huruf S, tetapi simbol ini berbeda dalam opsi A dan D. Jadi satu-satunya jawaban yang mungkin dari empat opsi adalah opsi B.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "B"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Tabel enkripsi lengkap adalah sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-03-3.webp",
+    "w": 444,
+    "h": 330
+   },
+   {
+    "type": "p",
+    "text": "Untuk memecahkan soal di atas, kita harus menyadari bahwa simbol baru dibuat dengan mengkombinasikan simbol pada baris dan kolom. Label baris adalah bagian bawah simbol dan label kolom adalah bagian atas simbol."
+   },
+   {
+    "type": "p",
+    "text": "Simbol alfabet Latin yang hilang dapat dengan mudah dimasukkan. Yang perlu dilakukan adalah mengetahui urutan huruf alfabet Latin. Hanya label simbol untuk baris pertama yang hilang. Dengan melihat teks sandi, anda dapat mengenali bagian bawah simbol mana yang hilang."
+   },
+   {
+    "type": "p",
+    "text": "Untuk beberapa karakter Latin anda sudah tahu simbol rahasianya. Dengan memasukkan ini ke dalam teks sandi anda sudah mendapatkan bagian dari teks orisinil. Dengan melakukan coba-coba, kekosongan yang tersisa dapat terisi."
+   },
+   {
+    "type": "p",
+    "text": "Cara alternatif untuk memecahkan soal tersebut tanpa membangun kembali tabel: Dengan melihat simbol pertama berkoresponden dengan huruf I, maka jawaban C sudah pasti salah. Simbol kesebelas sesuai dengan huruf S, tetapi simbol ini berbeda dalam opsi A dan D. Jadi satu-satunya jawaban yang mungkin dari empat opsi adalah opsi B."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Teks orisinil: teks sebelum diubah menjadi kode simbol Teks sandi: teks yang sudah diubah menjadi kode simbol"
+   }
+  ],
+  "credit": "Authorship\n• 2020-02-07 Juraj Hromkovič (Switzerland), juraj.hromkovic@inf.ethz.ch\n• 2020-02-07 Regula Lacher (Switzerland), regula.lacher@inf.ethz.ch\n• 2020-02-12 Susanne Datzko (Switzerland), susanne.datzko@inf.ethz.ch\n• 2020-05-19 Alisher Ikramov (ikramov.alisher@list.ru), Vipul Shah (v.shah@tcs.com),\nValentina Dagiene (valentina.dagiene@mif.vu.lt)\n• 2020-05-20 Ungyeol Jung (Korea), purnagi@gmail.com, Kwangsik Moon (Korea),\nnewnnewer@gmail.com\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-03-asli-1.webp",
+    "w": 963,
+    "h": 790
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-04",
+  "number": 4,
+  "code": "2020-CH-07",
+  "year": 2020,
+  "title": "Pintar Menukar Barang",
+  "country": "CH",
+  "pages": [
+   15,
+   16,
+   17
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-1.webp",
+    "w": 221,
+    "h": 108
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-2.webp",
+    "w": 916,
+    "h": 142
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-3.webp",
+    "w": 769,
+    "h": 355
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-4.webp",
+    "w": 899,
+    "h": 56
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "DGE"
+   },
+   {
+    "label": "B",
+    "text": "GGE"
+   },
+   {
+    "label": "C",
+    "text": "AGE"
+   },
+   {
+    "label": "D",
+    "text": "DBC"
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban yang tepat: A. DGE Penjelasan: menukar cincin dengan pohon cemara Strategi kedua lebih pendek alurnya, berbasis pada prinsip “kebalikan”. Mulai dari Ruang-E yang ruang-D adalah ruang yang tepat. Jadi, ini proses mendapatkan yang dibutuhkan, yaitu arah untuk Struktur jalur pada tabel dapat dipresentasikan dalam bentuk diagram graph. Setiap simpul merepresentasikan objek penukaran dan setiap sisi mewakili ruangan yang dikunjungi. Representasi",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "A. DGE"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-5.webp",
+    "w": 328,
+    "h": 196
+   },
+   {
+    "type": "p",
+    "text": "menukar cincin dengan pohon cemara"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-6.webp",
+    "w": 380,
+    "h": 274
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-7.webp",
+    "w": 918,
+    "h": 217
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-8.webp",
+    "w": 941,
+    "h": 258
+   },
+   {
+    "type": "p",
+    "text": "Strategi kedua lebih pendek alurnya, berbasis pada prinsip “kebalikan”. Mulai dari Ruang-E yang"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-9.webp",
+    "w": 472,
+    "h": 298
+   },
+   {
+    "type": "p",
+    "text": "ruang-D adalah ruang yang tepat. Jadi, ini proses mendapatkan yang dibutuhkan, yaitu arah untuk"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-10.webp",
+    "w": 300,
+    "h": 61
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-11.webp",
+    "w": 483,
+    "h": 395
+   },
+   {
+    "type": "p",
+    "text": "Struktur jalur pada tabel dapat dipresentasikan dalam bentuk diagram graph. Setiap simpul merepresentasikan objek penukaran dan setiap sisi mewakili ruangan yang dikunjungi. Representasi"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-04-12.webp",
+    "w": 702,
+    "h": 111
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Jonas Winckler, jonas.winckler@vd.educanet2.ch, Switzerland\n• Serge Adam, serge.adam@vd.educanet2.ch, Switzerland\n• Jean-Philippe Pellet, jean-philippe.pellet@hepl.ch, Switzerland\n• Contributor: Lidia Feklistova, lidia@ut.ee, Estonia (Bebras workshop), Vu Luan,\nvuvanluanftuk50@gmail.com, Vietnam (Bebras workshop)\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-04-asli-1.webp",
+    "w": 963,
+    "h": 873
+   }
+  ],
+  "figureCount": 12,
+  "flags": []
+ },
+ {
+  "id": "2020-05",
+  "number": 5,
+  "code": "2020-CZ-05",
+  "year": 2020,
+  "title": "Enkripsi",
+  "country": "CZ",
+  "pages": [
+   18,
+   19
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-05-1.webp",
+    "w": 921,
+    "h": 66
+   },
+   {
+    "type": "p",
+    "text": "Tahukah kamu bagaimana caranya melakukan penjumlahan dua huruf? Gampang sekali! Semua huruf dijadikan angka sesuai urutan alphabetnya, hasil penjumlahan adalah angka yang menunjukkan urutannya."
+   },
+   {
+    "type": "p",
+    "text": "Misalnya, A+A=B, A+B=C, C+E=H. Jika hasil penjumlahan melebihi dari banyaknya huruf alphabet, kita dapat mulai lagi dari awal, misalnya: Z+A=A, Y+C=B."
+   },
+   {
+    "type": "p",
+    "text": "Lenka menggunakan prinsip penjumlahan huruf tersebut untuk bermain enkripsi kata. Begini caranya: mula-mula, dia memikirkan sebuah bilangan, yang dinamakannya sebagai “geser”. Dia menulis sebuah kata, kemudian menulis sebuah kata lain dengan menggesernya ke kanan sebesar bilangan yang dipikirkannya sebagai “geser” tersebut. Lalu menjumlahkan kata semula dengan kata hasil pergeseran pada setiap posisi hurufnya."
+   },
+   {
+    "type": "p",
+    "text": "Misalnya, jika geser=1 maka kata akan digeser 1 posisi ke kanan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-05-2.webp",
+    "w": 354,
+    "h": 142
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Lenka mengenkripsi kata COMPUTER menjadi kata COMSJGUMTER. Bilangan berapa yang dipakai menggeser kata semula?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "1"
+   },
+   {
+    "label": "B",
+    "text": "2"
+   },
+   {
+    "label": "C",
+    "text": "3"
+   },
+   {
+    "label": "D",
+    "text": "4"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Cara mendapatkan solusi yang tepat dengan mudah: 1. Kata terenkripsi lebih panjang 3 huruf dari kata aslinya. 2. Tiga huruf pertama sama pada kedua kata, asli dan terenkripsi.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Cara mendapatkan solusi yang tepat dengan mudah:"
+   },
+   {
+    "type": "p",
+    "text": "1. Kata terenkripsi lebih panjang 3 huruf dari kata aslinya."
+   },
+   {
+    "type": "p",
+    "text": "2. Tiga huruf pertama sama pada kedua kata, asli dan terenkripsi."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-05-3.webp",
+    "w": 438,
+    "h": 131
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Jiří Vaníček, Czechia, vanicek@pf.jcu.cz\n• Arnheidur Gudmundsdottir, arnheidur@sky.is, Iceland and Victor Koleszar,\nvkoleszar@ceibal.edu.uy\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-05-asli-1.webp",
+    "w": 963,
+    "h": 935
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-06",
+  "number": 6,
+  "code": "2020-HU-01",
+  "year": 2020,
+  "title": "Bermain Batu",
+  "country": "HU",
+  "pages": [
+   20
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Hansel dan Gretel sedang bermain sebuah permainan menggunakan 3 batu hitam dan 7 batu putih. Pada setiap giliran, pemain dapat mengambil 1 atau 2 batu hitam, atau 1 atau 2 atau 3 batu putih. Pemain yang mengambil batu terakhir dari warna apa pun memenangkan permainan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-06-1.webp",
+    "w": 700,
+    "h": 93
+   },
+   {
+    "type": "p",
+    "text": "Gretel bermain pada giliran pertama."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyak batu yang diambilnya saat pertama bermain agar ia pasti menang?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "1 batu putih"
+   },
+   {
+    "label": "B",
+    "text": "2 batu hitam"
+   },
+   {
+    "label": "C",
+    "text": "3 batu putih"
+   },
+   {
+    "label": "D",
+    "text": "tidak peduli berapapun batu"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Untuk 3 batu hitam, jika Gretel mengeluarkan 1 atau 2 batu, maka Hansel dapat mengeluarkan batu yang tersisa (yaitu jika Gretel mengeluarkan 1 batu hitam, Hansel dapat mengeluarkan 2 batu, dan sebaliknya). Ini membuat Hansel menjadi pemain terakhir yang mengeluarkan batu. Jadi, strategi menang dalam warna hitam adalah meninggalkan 3 batu. Untuk batu putih, pemain hanya bisa mengeluarkan 1, 2, atau 3 batu. Dengan kelompok 4 batu putih, pemain kedua akan selalu dapat menghapus batu yang tersisa (yaitu jika 1 batu putih dihilangkan, pemain lain dapat menghapus 3 batu, dan seterusnya). Strategi kemenangan dalam warna putih adalah meninggalkan 4 batu. Agar Gretel menang, dia harus meninggalkan 3 batu hitam dan 4 batu putih. Ini hanya mungkin dengan menghilangkan 3 batu putih pada langkah pertama. Jika Gretel gagal menerapkan strategi pada langkah pertamanya, Hansel dapat mencuri strateginya, sehingga opsi lain tidak akan menjadi langkah kemenangan bagi Gretel.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan: Untuk 3 batu hitam, jika Gretel mengeluarkan 1 atau 2 batu, maka Hansel dapat mengeluarkan batu yang tersisa (yaitu jika Gretel mengeluarkan 1 batu hitam, Hansel dapat mengeluarkan 2 batu, dan sebaliknya). Ini membuat Hansel menjadi pemain terakhir yang mengeluarkan batu. Jadi, strategi menang dalam warna hitam adalah meninggalkan 3 batu."
+   },
+   {
+    "type": "p",
+    "text": "Untuk batu putih, pemain hanya bisa mengeluarkan 1, 2, atau 3 batu. Dengan kelompok 4 batu putih, pemain kedua akan selalu dapat menghapus batu yang tersisa (yaitu jika 1 batu putih dihilangkan, pemain lain dapat menghapus 3 batu, dan seterusnya). Strategi kemenangan dalam warna putih adalah meninggalkan 4 batu."
+   },
+   {
+    "type": "p",
+    "text": "Agar Gretel menang, dia harus meninggalkan 3 batu hitam dan 4 batu putih. Ini hanya mungkin dengan menghilangkan 3 batu putih pada langkah pertama."
+   },
+   {
+    "type": "p",
+    "text": "Jika Gretel gagal menerapkan strategi pada langkah pertamanya, Hansel dapat mencuri strateginya, sehingga opsi lain tidak akan menjadi langkah kemenangan bagi Gretel."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Zsuzsa Pluhár, HU, pluharzs@caesar.elte.hu\n• Susanne Datzko, HU, susanne@datzko.ch\n• Ezra Templonuevo, PH, ejtemplonuevo@gmail.com, task revision during workshop\n• Rechilda Villame, PH, rechievillame@yahoo.com, task revision during workshop\n• Henry ong, SG, henryo@simcc.org: Task revision during workshop\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-06-asli-1.webp",
+    "w": 963,
+    "h": 499
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2020-07",
+  "number": 7,
+  "code": "2020-ID-03",
+  "year": 2020,
+  "title": "Virus Berbahaya",
+  "country": "ID",
+  "pages": [
+   21,
+   22
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Pulau Alpha adalah pulau utama negara yang terdiri dari enam pulau. Nama pulau lainnya adalah Gamma, Beta, Delta, Eta, dan Kappa. Virus berbahaya sedang menyebar di pulau Kappa sehingga dibutuhkan obat dan perlengkapan, yang hanya diproduksi di pulau Alpha. Untuk mencegah penyebaran virus, pemerintah membatasi semua jalur transportasi seperti ditunjukkan pada gambar. Jumlah pada setiap trayek merupakan bobot maksimal obat dan perlengkapan yang dibawa (dalam kg) yang dapat dikirim melalui trayek tersebut dalam satu hari. Setiap rute hanya dapat dilewati satu kali per hari."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-07-1.webp",
+    "w": 470,
+    "h": 425
+   },
+   {
+    "type": "p",
+    "text": "Misalnya dari Pulau Beta, obat dan perlengkapan yang dapat dikirim adalah 2 kg ke Pulau Gamma, 3 kg ke Pulau Delta, dan 5 kg ke Pulau Eta."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa kilogram (kg) maksimum yang dapat diperoleh pulau Kappa per hari?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "12"
+   },
+   {
+    "label": "B",
+    "text": "15"
+   },
+   {
+    "label": "C",
+    "text": "18"
+   },
+   {
+    "label": "D",
+    "text": "20"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Dari Alpha, 10 kg obat dan perlengkapan dikirim ke Pulau Gamma dan 10 kg ke pulau Beta. Dari Gamma, 10 kg obat dan perlengkapan dikirim ke pulau Delta. Dari Beta, 3 kg obat dan perlengkapan dikirim ke pulau Delta dan 5 kg ke pulau Eta. Berat obat dan perlengkapan saat ini di pulau Delta adalah 13 kg. Dari Delta, hanya 10 kg yang bisa dikirim ke pulau Kappa. Sisa obat dan perlengkapan 3 kg di Pulau Delta dikirim ke Pulau Eta. Ada 8 kg di Pulau Eta sekarang. Dari Pulau Eta, 8 kg dikirim ke Pulau Kappa. Total obat dan perlengkapan yang didapat Pulau Kappa adalah 18 kg.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Dari Alpha, 10 kg obat dan perlengkapan dikirim ke Pulau Gamma dan 10 kg ke pulau Beta. Dari Gamma, 10 kg obat dan perlengkapan dikirim ke pulau Delta. Dari Beta, 3 kg obat dan perlengkapan dikirim ke pulau Delta dan 5 kg ke pulau Eta. Berat obat dan perlengkapan saat ini di pulau Delta adalah 13 kg. Dari Delta, hanya 10 kg yang bisa dikirim ke pulau Kappa. Sisa obat dan perlengkapan 3 kg di Pulau Delta dikirim ke Pulau Eta. Ada 8 kg di Pulau Eta sekarang. Dari Pulau Eta, 8 kg dikirim ke Pulau Kappa. Total obat dan perlengkapan yang didapat Pulau Kappa adalah 18 kg."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Natalia, natalia@unpar.ac.id, Indonesia\n• Mariskha Tri Adithia, mariskha@unpar.ac.id, Indonesia\n• J.P. Pretti, jpretti@uwaterloo.ca, Canada\n• Eslam Wageed, Egypt\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-07-asli-1.webp",
+    "w": 963,
+    "h": 1012
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2020-08",
+  "number": 8,
+  "code": "2020-JP-02",
+  "year": 2020,
+  "title": "Mengecat Rumah",
+  "country": "JP",
+  "pages": [
+   23,
+   24
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Penghuni di jalan Be-Taro berpikir bahwa rumah warna warni akan jauh lebih menarik! Mereka ingin mengecat rumah masing-masing sehingga berwarna-warni. Mereka memutuskan untuk mengecat rumah sesuai dengan aturan berikut:"
+   },
+   {
+    "type": "li",
+    "text": "Setiap rumah harus dicat merah, hijau atau biru."
+   },
+   {
+    "type": "li",
+    "text": "Dua rumah yang bersebelahan tidak boleh memiliki warna yang sama."
+   },
+   {
+    "type": "li",
+    "text": "Warna rumah tidak boleh sama dengan rumah yang berada tepat di seberang jalan."
+   },
+   {
+    "type": "p",
+    "text": "Pada gambar di bawah, kamu dapat melihat beberapa rumah sudah dicat."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-08-1.webp",
+    "w": 689,
+    "h": 309
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Tentukanlah warna Rumah Be-Taro."
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Harus dicat warna merah"
+   },
+   {
+    "label": "B",
+    "text": "Harus dicat warna biru"
+   },
+   {
+    "label": "C",
+    "text": "Harus dicat warna hijau"
+   },
+   {
+    "label": "D",
+    "text": "Boleh memilih biru atau hijau"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat: B Penjelasan: Warna yang benar dapat ditentukan dengan cara di bawah ini:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "B"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Warna yang benar dapat ditentukan dengan cara di bawah ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-08-2.webp",
+    "w": 917,
+    "h": 246
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-08-3.webp",
+    "w": 917,
+    "h": 937
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\nThis quiz was originally created by the student in Hakuyo High School, Japan\n• 2020-03-26 Takeharu Ishizuka(Japan), isizukat@ishizukalab.net: Translated into English\n• 2020-05-19 Marielle Léonard (France), marielleleonard59@gmail.com: update graphics, add\nspecifications for an interactive version, update answer explanation, change \"It's informatic\nsection\"\n• 2020-05-20 Carlo Belletini, carlo.bellettini@unimi.it : add interactivity on svg file\n• 2020-05-20 Kris Coolsaet, kris.coolsaet@ugent.be : update texts\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-08-asli-1.webp",
+    "w": 963,
+    "h": 798
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-09",
+  "number": 9,
+  "code": "2020-JP-03",
+  "year": 2020,
+  "title": "Panel Berkilau",
+  "country": "JP",
+  "pages": [
+   25,
+   26
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Raja Kerajaan Bebras memutuskan untuk membuat karya seni berupa panel lantai bercahaya dan memajangnya di alun-alun untuk merayakan Hari Kemerdekaan. Karya seni dibuat dengan menggunakan panel dengan 36 sel, yang masing-masing seukuran ubin, seperti yang ditunjukkan di bawah ini pada Gambar 1. Setiap sel beralih antara hidup (nyala) dan mati saat diinjak. Raja mulai menginjak sel \"Masuk\" pada gambar, kemudian menginjak sel berikutnya yang berdekatan ke atas, bawah, kiri atau kanan (tidak secara diagonal), dan melanjutkan ke panel \"Keluar\" untuk membuat berbagai pola bercahaya. Dia bisa menginjak sel yang sama lebih dari satu kali."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-09-1.webp",
+    "w": 580,
+    "h": 240
+   },
+   {
+    "type": "p",
+    "text": "Mula-mula Raja membuat pola seperti di atas, namun ia tidak menyukai pola itu dan ia ingin membuat pola lain. Untuk itu Raja akan mengembalikan panel terlebih dahulu agar semua sel dalam keadaan hidup/nyala."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Pilih mana dari rute-rute berikut untuk menyalakan semua panel (dari pola panel di atas):"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-09-2.webp",
+    "w": 554,
+    "h": 360
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "A"
+   },
+   {
+    "label": "B",
+    "text": "B"
+   },
+   {
+    "label": "C",
+    "text": "C"
+   },
+   {
+    "label": "D",
+    "text": "D"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Jika kamu memilih sebuah rute yang melalui panel berkilau dua kali dan yang lain sekali, semua panel dapat berkilau. Periksa semua panel dan arsir panel yang dilalui dua kali.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-09-3.webp",
+    "w": 916,
+    "h": 157
+   },
+   {
+    "type": "p",
+    "text": "Jika kamu memilih sebuah rute yang melalui panel berkilau dua kali dan yang lain sekali, semua panel dapat berkilau. Periksa semua panel dan arsir panel yang dilalui dua kali."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Kuis ini awalnya dibuat oleh siswa di SMA Hakuyo, Jepang\n• 2020-03-26 Tomohiro Nishida (Japan), it-nisida@satsuki.net: Menerjemahkan ke Bahasa\nInggris.\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-09-asli-1.webp",
+    "w": 963,
+    "h": 1215
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-10",
+  "number": 10,
+  "code": "2020-JP-04",
+  "year": 2020,
+  "title": "Kotak Terberat",
+  "country": "JP",
+  "pages": [
+   27
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Ada 5 kotak, setiap kotak ada gambarnya. Dengan menggunakan timbangan, kita dapat membandingkan berat dua buah kotak."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-10-1.webp",
+    "w": 596,
+    "h": 66
+   },
+   {
+    "type": "p",
+    "text": "Bebras Bebe melakukan 5 kali perbandingan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-10-2.webp",
+    "w": 531,
+    "h": 100
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-10-3.webp",
+    "w": 353,
+    "h": 100
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Kotak mana yang paling berat?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-10-4.webp",
+    "w": 247,
+    "h": 86
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": ""
+   },
+   {
+    "label": "D",
+    "text": ""
+   },
+   {
+    "label": "E",
+    "text": ""
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Apa yang dapat kita ketahui dari kotak yang paling berat? Kotak tersebut harus lebih berat pada seluruh perbandingan kotak (ditandai dengan berada lebih bawah di sisi kiri timbangan). Dengan melihat perbandingan tersebut, kotak segi lima adalah satu- satunya kotak yang tidak pernah berada di atas pada sisi timbangan. Kotak yang lain setidaknya pernah 1 kali berada di atas pada sisi timbangan yang menandakan bukan merupakan kotak yang paling berat.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Apa yang dapat kita ketahui dari kotak yang paling berat?"
+   },
+   {
+    "type": "p",
+    "text": "Kotak tersebut harus lebih berat pada seluruh perbandingan kotak (ditandai dengan berada lebih bawah di sisi kiri timbangan). Dengan melihat perbandingan tersebut, kotak segi lima adalah satu-satunya kotak yang tidak pernah berada di atas pada sisi timbangan. Kotak yang lain setidaknya pernah 1 kali berada di atas pada sisi timbangan yang menandakan bukan merupakan kotak yang paling berat."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\nKuis ini awalnya dibuat oleh siswa di SMA Hakuyo, Jepang\n• 2020-03-26 Hiroyuki Nagataki (Japan), nagataki@osakac.ac.jp: Menerjemahkan ke Bahasa\nInggris\n• 2020-05-19 Wolfgang Pohl (Germany), pohl@bwinf.de: Diadaptasi pada Bebras workshop\n2020.\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-10-asli-1.webp",
+    "w": 963,
+    "h": 636
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2020-11",
+  "number": 11,
+  "code": "2020-NZ-01",
+  "year": 2020,
+  "title": "Penata Objek",
+  "country": "NZ",
+  "pages": [
+   28,
+   29
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bora menggunakan diagram alir (flow chart) untuk menata pakaian ke dalam tiga laci berbeda. Dia memulai dari bagian paling atas diagram alir dengan memilih sebuah pakaian. Lalu, dia mengikuti panah itu sampai mencapai sebuah pertanyaan. Kemudian, ia memutuskan apakah jawabannya adalah \"ya\" atau \"tidak\" dan mengikuti panah yang cocok jawabannya. Dia melanjutkan bertanya dan mengikuti anak panah sampai diagram alir tiba di laci. Dia menempatkan pakaian di dalam laci dan memulai lagi di bagian atas diagram alir dengan sebuah pakaian lain sampai semua pakaiannya tertata dalam laci."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-11-1.webp",
+    "w": 913,
+    "h": 520
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Jika pada akhirnya semua pakaiannya tertata dalam laci seperti pada gambar, pertanyaan apa (?) yang kurang pada diagram alir di atas?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Apakah lengan panjang?"
+   },
+   {
+    "label": "B",
+    "text": "Apakah ada kancingnya?"
+   },
+   {
+    "label": "C",
+    "text": "Apakah ada resletingnya?"
+   },
+   {
+    "label": "D",
+    "text": "Apakah ada sakunya?"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat: B Penjelasan: Jika jawabannya “A. Apakah ada lengan panjangnya?”, maka celana pendek di laci tengah tidak akan ada. Jika jawabannya “C. Apakah ada resletingnya?”, maka kemeja di laci tengah tidak akan ada. Jika jawabannya “D. Apakah ada sakunya?”, maka gaun di laci tengah tidak akan ada. Jawaban “B. Apakah ada kancingnya?” benar. Hal ini dapat diverifikasi dengan membandingkan item di laci tengah dan paling kanan. Setiap item di laci tengah memiliki kancing, dan setiap item di laci paling kanan tidak memiliki kancing.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "B"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Jika jawabannya “A. Apakah ada lengan panjangnya?”, maka celana pendek di laci tengah tidak akan ada."
+   },
+   {
+    "type": "p",
+    "text": "Jika jawabannya “C. Apakah ada resletingnya?”, maka kemeja di laci tengah tidak akan ada. Jika jawabannya “D. Apakah ada sakunya?”, maka gaun di laci tengah tidak akan ada."
+   },
+   {
+    "type": "p",
+    "text": "Jawaban “B. Apakah ada kancingnya?” benar. Hal ini dapat diverifikasi dengan membandingkan item di laci tengah dan paling kanan. Setiap item di laci tengah memiliki kancing, dan setiap item di laci paling kanan tidak memiliki kancing."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Mengatur/menata – berbeda dari menyortir. Dalam ilmu komputer sorting memiliki arti yang tegas yaitu mengatur barang-barang secara berurutan. Pakaian dalam tugas ini tidak diatur secara berurutan, melainkan dikelompokkan."
+   }
+  ],
+  "credit": "Authorship\n• Thomas James, thomas.james.nz@gmail.com, New Zealand.\n• Helen Huang, 16591@student.macleans.school.nz, New Zealand.\n• John Shea, jsheaandcats@gmail.com, New Zealand.\n• Ivan Solovyev, solovyevi2607@gmail.com, New Zealand.\n• Margot Phillipps, margot.phillipps@gmail.com, New Zealand.\n• Kyra Willekens, k.willekens@eljakim.nl, The Netherlands.\n• Christian Datzko, christian@bebras.services, Hungary.\n• Susanne Datzko, susanne@datzko.ch, Hungary.\n• Sarah Chan, sarah.chan@uwaterloo.ca, Canada.\n• Vaidotas Kinčius, vaidotas.kincius@bebras.lt, Lithuania.\n• Tom Naughton, tomn@cs.nuim.ie, Ireland.\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-11-asli-1.webp",
+    "w": 963,
+    "h": 1020
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2020-12",
+  "number": 12,
+  "code": "2020-PT-02",
+  "year": 2020,
+  "title": "Menara Balok",
+  "country": "PT",
+  "pages": [
+   30,
+   31
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sam, si berang-berang kecil, sedang bermain dengan balok mainannya. Dia membangun tujuh menara yang indah, masing-masing dibuat dengan balok berukuran sama."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-12-1.webp",
+    "w": 622,
+    "h": 300
+   },
+   {
+    "type": "p",
+    "text": "Ada dua cara untuk mengubah ketinggian menara: menambahkan balok ke balok paling atas, atau mengambil balok paling atas. Menambahkan atau mengambil balok masing-masing dihitung sebagai sebuah langkah. Misalnya, jika Sam mengubah tinggi menara paling kiri menjadi 2, dibutuhkan 3 gerakan (mengambil 3 balok), dan jika dia mengubahnya menjadi 7, dibutuhkan 2 langkah (menambahkan 2 balok)."
+   },
+   {
+    "type": "p",
+    "text": "Sam juga dapat menambahkan balok lain selain dari balok-balok yang sudah tersedia pada tumpukan menara-menara yang ada. Sam ingin semua menara memiliki ketinggian yang sama, dan dia ingin melakukan dengan langkah yang sesedikit mungkin."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyaknya langkah yang paling sedikit yang dibutuhkan Sam untuk membuat semua menara tingginya sama?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "6"
+   },
+   {
+    "label": "B",
+    "text": "7"
+   },
+   {
+    "label": "C",
+    "text": "8"
+   },
+   {
+    "label": "D",
+    "text": "9"
+   },
+   {
+    "label": "E",
+    "text": "10"
+   },
+   {
+    "label": "F",
+    "text": "11"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: 8 Penjelasan: semua menara menjadi 4 balok: Seperti yang dihitung dalam tabel di bawah, semua kemungkinan ketinggian lainnya akan membutuhkan lebih banyak langkah:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "8"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-12-2.webp",
+    "w": 414,
+    "h": 70
+   },
+   {
+    "type": "p",
+    "text": "semua menara menjadi 4 balok:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-12-3.webp",
+    "w": 579,
+    "h": 259
+   },
+   {
+    "type": "p",
+    "text": "Seperti yang dihitung dalam tabel di bawah, semua kemungkinan ketinggian lainnya akan membutuhkan lebih banyak langkah:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-12-4.webp",
+    "w": 830,
+    "h": 209
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "toy blocks: tumpukan balok langkah: meletakkan atau mengambil sebuah kotak"
+   }
+  ],
+  "credit": "Authorship\n• Pedro Ribeiro, pribeiro@dcc.fc.up.pt, Portugal\n• Judith Lin (Taiwan), judithlin@csie.ntnu.edu.tw\n• Meng-ting Tsai (Taiwan), mengting7tw@gmail.com\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-12-asli-1.webp",
+    "w": 963,
+    "h": 1016
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2020-13",
+  "number": 13,
+  "code": "2020-TH-01",
+  "year": 2020,
+  "title": "Berang-berang di Pasar",
+  "country": "TH",
+  "pages": [
+   32,
+   33,
+   34
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Kim si berang-berang pergi ke pasar yang hanya dibuka sekali seminggu. Saat berbelanja, dia bertemu dengan dua berang-berang lainnya, yaitu b1 dan b2 secara terpisah. b1 dan b2 juga masing-masing bertemu dengan dua berang-berang (termasuk Kim) di pasar. Berapa banyak berang-berang bisa berada di pasar sehingga berang-berang Kim, b1 dan b2 masing-masing bisa bertemu dua berang-berang? Kim, b1, b2 dan calon berang-berang lainnya dapat digambarkan dalam gambar berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-13-1.webp",
+    "w": 917,
+    "h": 433
+   },
+   {
+    "type": "p",
+    "text": "Dalam kasus ini, paling tidak ada 5 berang-berang di pasar. Namun, ada 2 kemungkinan lainnya:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-13-2.webp",
+    "w": 866,
+    "h": 438
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Minggu berikutnya, berang-berang Kim pergi ke pasar lagi dan bertemu dengan tiga berang-berang lainnya di sana. Jumlah berang-berang yang ditemui ketiga berang-berang lainnya di pasar masing-masing adalah dua, lima, dan lima. Paling sedikit ada berapa banyak berang-berang yang ada di pasar?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "5"
+   },
+   {
+    "label": "B",
+    "text": "6"
+   },
+   {
+    "label": "C",
+    "text": "7"
+   },
+   {
+    "label": "D",
+    "text": "8"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Hanya dengan menghitung berang-berang Kim dan yang berang-berang yang dia temui, yaitu berang- berang b1, berang-berang b2 dan berang-berang b3, kita sudah sampai pada 4 berang-berang. Mari kita lihat berang-berang b1. Berang-berang b1 bertemu 2 berang-berang. Kita perlu menghitung jumlah berang-berang terkecil, jadi kita harus mengasumsikan bahwa b1 bertemu berang-berang Kim ditambah berang-berang b2 atau b3. Dengan demikian, asumsi jumlah minimal berang-berang di pasar akan tetap 4. Sekarang kita melihat berang-berang b2 yang bertemu lima berang-berang. Kita tahu bahwa berang- berang b2 bertemu dengan berang-berang Kim dan berpotensi bertemu berang-berang b1. Jika kita berasumsi bahwa b2 bertemu b1 dan b3, pasti setidaknya ada tambahan dua berang-berang b4 dan b5 yang bertemu b2. Dengan demikian, asumsi jumlah minimal berang-berang di pasar meningkat menjadi setidaknya 6. Jumlah totalnya tidak boleh 6, karena berang-berang b1 hanya bertemu 2 berang-berang dan oleh karena itu hanya bisa bertemu berang-berang b2 atau berang-berang b3, atau tidak satupun dari mereka. Kita berasumsi bahwa berang-berang b1 bertemu dengan berang-berang Kim dan b2, jadi dia tidak bisa bertemu b3. Dalam hal ini, berang-berang b3 dapat bertemu dengan berang-berang Kim dan b2 serta dua berang-berang b4 dan b5 (yang juga bertemu dengan b2). Untuk bertemu 5 berang- berang, b3 harus bertemu berang-berang lebih lanjut, b6. Jadi jawabannya minimal 7. Anda dapat menggambar graf dengan tujuh simpul untuk membantu memecahkan masalah ini dan untuk membuktikan bahwa ada solusi dengan tujuh berang-berang.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Hanya dengan menghitung berang-berang Kim dan yang berang-berang yang dia temui, yaitu berang-berang b1, berang-berang b2 dan berang-berang b3, kita sudah sampai pada 4 berang-berang."
+   },
+   {
+    "type": "p",
+    "text": "Mari kita lihat berang-berang b1. Berang-berang b1 bertemu 2 berang-berang. Kita perlu menghitung jumlah berang-berang terkecil, jadi kita harus mengasumsikan bahwa b1 bertemu berang-berang Kim ditambah berang-berang b2 atau b3. Dengan demikian, asumsi jumlah minimal berang-berang di pasar akan tetap 4."
+   },
+   {
+    "type": "p",
+    "text": "Sekarang kita melihat berang-berang b2 yang bertemu lima berang-berang. Kita tahu bahwa berang-berang b2 bertemu dengan berang-berang Kim dan berpotensi bertemu berang-berang b1. Jika kita berasumsi bahwa b2 bertemu b1 dan b3, pasti setidaknya ada tambahan dua berang-berang b4 dan b5 yang bertemu b2. Dengan demikian, asumsi jumlah minimal berang-berang di pasar meningkat menjadi setidaknya 6."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-13-3.webp",
+    "w": 435,
+    "h": 350
+   },
+   {
+    "type": "p",
+    "text": "Jumlah totalnya tidak boleh 6, karena berang-berang b1 hanya bertemu 2 berang-berang dan oleh karena itu hanya bisa bertemu berang-berang b2 atau berang-berang b3, atau tidak satupun dari mereka. Kita berasumsi bahwa berang-berang b1 bertemu dengan berang-berang Kim dan b2, jadi dia tidak bisa bertemu b3. Dalam hal ini, berang-berang b3 dapat bertemu dengan berang-berang Kim dan b2 serta dua berang-berang b4 dan b5 (yang juga bertemu dengan b2). Untuk bertemu 5 berang-berang, b3 harus bertemu berang-berang lebih lanjut, b6."
+   },
+   {
+    "type": "p",
+    "text": "Jadi jawabannya minimal 7."
+   },
+   {
+    "type": "p",
+    "text": "Anda dapat menggambar graf dengan tujuh simpul untuk membantu memecahkan masalah ini dan untuk membuktikan bahwa ada solusi dengan tujuh berang-berang."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Task created by Nol Premasathian (nol@it.kmitl.ac.th), Thailand\n• Graphics created by Bundit Thanasopon (bundit@it.kmitl.ac.th), Thailand\n• New graphics on Bebras tasks workshop 2020:\n• Milan Rajković (Serbia), miksam22000@gmail.com\n• Luân Vũ Văn (Vietnam), vuvanluanftuk50@gmail.com\n• Willem van der Vegt (Netherlands), w.van.der.vegt@windesheim.nl 2020-05-18 changed the\nwording a bit and the age level, based on discussions within the working group at the virtual\nworkshop.\n• Gerald Futschek (Austria), gerald.futschek@tuwien.ac.at, changed wording of body a bit and\nadded a more detailed explanation why the solution is 7; removed two further graphical solu-\ntions, because they were isomorphic to the given one.\n• Nora A. Escherle (Switzerland), nora.escherle@senarclens.com 2020-05-20 changed wording of\nthe task body and the answer explanation; expanded the “It’s informatics”-section\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-13-asli-1.webp",
+    "w": 963,
+    "h": 1318
+   },
+   {
+    "src": "/soal/2020/2020-13-asli-2.webp",
+    "w": 963,
+    "h": 290
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-14",
+  "number": 14,
+  "code": "2020-LT-16",
+  "year": 2020,
+  "title": "Mengingat Kata sandi",
+  "country": "LT",
+  "pages": [
+   35,
+   36
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Pfifikus si berang-berang ingin membuat kata sandi yang mudah diingat, tapi tidak mudah ditebak orang lain. Maka, ia membuat metoda untuk membuat kata sandinya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-14-1.webp",
+    "w": 248,
+    "h": 234
+   },
+   {
+    "type": "p",
+    "text": "Jika Pfifikus berkata: I like goulash made by Chef Wilhelm Maka kata sandinya adalah: I1l4g7m4b2C4W7."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Menggunakan metoda yang sama, kata sandi apa yang akan diperoleh dari kalimat ini:"
+   },
+   {
+    "type": "p",
+    "text": "I learn informatics from Miss Hannah"
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban yang tepat: I1l5i11f4M4H6 Penjelasan: Berang-berang menggunakan metode khusus untuk membuat kata sandinya. Metode ini mengambil huruf pertama dari masing-masing kata, diikuti dengan panjang kata (jumlah huruf dalam kata): I → I1 like → l4 goulash → g7 made → m4 by → b2 Chef → C4 Wilhelm → W7 Dengan menggunakan metode yang sama, kita juga dapat membuat kata sandi untuk kalimat baru: I → I1 learn → l5 informatics → i11 from → f4 Miss → M4 Hannah → H6 Jadi kata sandi untuk kalimat baru adalah: I1l5i11f4M4H6 Perhatikan bahwa dalam contoh yang diberikan, huruf I, C dan W keduanya dikapitalisasi dalam kata sandi. Ini berarti bahwa jika sebuah huruf dikapitalisasi dalam kalimat, itu juga dikapitalisasi dalam kata sandi. Oleh karena itu huruf I, M dan H juga harus ditulis dengan huruf kapital dalam jawabannya.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "I1l5i11f4M4H6"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang menggunakan metode khusus untuk membuat kata sandinya. Metode ini mengambil huruf pertama dari masing-masing kata, diikuti dengan panjang kata (jumlah huruf dalam kata): I → I1"
+   },
+   {
+    "type": "p",
+    "text": "like → l4"
+   },
+   {
+    "type": "p",
+    "text": "goulash → g7"
+   },
+   {
+    "type": "p",
+    "text": "made → m4"
+   },
+   {
+    "type": "p",
+    "text": "by → b2"
+   },
+   {
+    "type": "p",
+    "text": "Chef → C4"
+   },
+   {
+    "type": "p",
+    "text": "Wilhelm → W7"
+   },
+   {
+    "type": "p",
+    "text": "Dengan menggunakan metode yang sama, kita juga dapat membuat kata sandi untuk kalimat baru: I → I1"
+   },
+   {
+    "type": "p",
+    "text": "learn → l5"
+   },
+   {
+    "type": "p",
+    "text": "informatics → i11"
+   },
+   {
+    "type": "p",
+    "text": "from → f4"
+   },
+   {
+    "type": "p",
+    "text": "Miss → M4"
+   },
+   {
+    "type": "p",
+    "text": "Hannah → H6"
+   },
+   {
+    "type": "p",
+    "text": "Jadi kata sandi untuk kalimat baru adalah: I1l5i11f4M4H6"
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan bahwa dalam contoh yang diberikan, huruf I, C dan W keduanya dikapitalisasi dalam kata sandi."
+   },
+   {
+    "type": "p",
+    "text": "Ini berarti bahwa jika sebuah huruf dikapitalisasi dalam kalimat, itu juga dikapitalisasi dalam kata sandi."
+   },
+   {
+    "type": "p",
+    "text": "Oleh karena itu huruf I, M dan H juga harus ditulis dengan huruf kapital dalam jawabannya."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• 2020-02-16 Juraj Hromkovič, Switzerland, juraj.hromkovic@inf.ethz.ch\n• 2020-02-16 Regula Lacher, Switzerland, regula.lacher@inf.ethz.ch\n• 2020-02-19 Valentina Dagienė, Lithuania, valentina.dagiene@mif.vu.lt\n• 2020-05-19 Khairul Anwar Mohamad Zaki, Malaysia, khairul@aidan.com.my\n• 2020-05-20: Meng-ting Tsai, Taiwan, mengting7tw@gmail.com\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-14-asli-1.webp",
+    "w": 963,
+    "h": 518
+   }
+  ],
+  "figureCount": 1,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2020-15",
+  "number": 15,
+  "code": "2020-PT-03",
+  "year": 2020,
+  "title": "Membuat Bilangan",
+  "country": "PT",
+  "pages": [
+   37,
+   38
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Olivia, si berang-berang, sedang bermain balok. Setiap balok memiliki satu angka. Dia suka membuat menara besar lalu membentuk barisan angka dengan mengambil balok mulai dari yang paling atas. Setiap dia mengambil satu balok paling atas, dia bisa meletakkannya di kanan atau kiri bilangan yang sudah terbentuk. Gambar berikut menunjukkan menara dengan 4 balok dan dua bilangan yang mungkin dapat dibentuk dari menara tersebut (2534 dan 4352):"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-15-1.webp",
+    "w": 928,
+    "h": 163
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-15-2.webp",
+    "w": 945,
+    "h": 160
+   },
+   {
+    "type": "p",
+    "text": "Olivia baru membangun menara dengan 6 balok, dan dia ingin membentuk bilangan sekecil mungkin dari menara tersebut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-15-3.webp",
+    "w": 64,
+    "h": 240
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa bilangan terkecil yang dapat dibentuk dari 6 balok di atas, dengan menggunakan aturan yang sudah dijelaskan?"
+   },
+   {
+    "type": "p",
+    "text": "Isi jawaban dengan sebuah bilangan bulat, terdiri dari 6 digit angka saja."
+   }
+  ],
+  "options": [],
+  "answer": "347565",
+  "answerText": "Jawaban yang tepat: 347565 Penjelasan: Untuk membentuk bilangan terkecil dari balok-balok yang ada, kita dapat mengambil satu per satu balok mulai dari posisi yang paling atas. Jika balok yang diambil memiliki angka lebih besar dari angka paling depan (paling kiri) dari deretan balok yang ada, letakkan balok baru tersebut di sebelah kanan deretan balok. Jika sebaliknya, letakkan balok di sebelah kiri deretan balok-balok yang ada. Berikut adalah tahap pembentukan angka:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "347565"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Untuk membentuk bilangan terkecil dari balok-balok yang ada, kita dapat mengambil satu per satu balok mulai dari posisi yang paling atas. Jika balok yang diambil memiliki angka lebih besar dari angka paling depan (paling kiri) dari deretan balok yang ada, letakkan balok baru tersebut di sebelah kanan deretan balok. Jika sebaliknya, letakkan balok di sebelah kiri deretan balok-balok yang ada. Berikut adalah tahap pembentukan angka:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-15-4.webp",
+    "w": 917,
+    "h": 210
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Digit – bilangan antara 0 s.d. 9"
+   }
+  ],
+  "credit": "Authorship\n• Pedro Ribeiro, pribeiro@dcc.fc.up.pt, Portugal (Original author)\n• Omran Kouba, kouba.omran@gmail.com, Syria\n• Madhavan Mukund, madhavan@cmi.ac.in, India\n• Ungyeol Jung, purnagi@gmail.com, Kwangsik Moon, newnnewer@gmail.com, Korea\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-15-asli-1.webp",
+    "w": 963,
+    "h": 1037
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2020-16",
+  "number": 16,
+  "code": "2020-AT-02",
+  "year": 2020,
+  "title": "Pulau Harta Karun",
+  "country": "AT",
+  "pages": [
+   39,
+   40
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bajak Laut Piratus hidup di pulau nomor 1 yang ditunjukkan pada gambar. Dia menerima sebuah kode rahasia B-A-C-A-A-B. Kode ini memberitahukan jembatan mana untuk menuju harta karun tersembunyi, yaitu pulau di mana ia berhenti menelusuri dengan kode yang diberikan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-16-1.webp",
+    "w": 364,
+    "h": 307
+   },
+   {
+    "type": "p",
+    "text": "Kadang-kadang, kode mengandung sebuah huruf yang tak dapat dicapai dari pulau di mana Piratus sedang berada. Pada kasus ini, ia harus mengabaikan huruf tersebut, dan menuju huruf berikutnya. Misalnya jika kodenya A-B-A, Piratus akan menyeberangi jembatan A, dari Pulau 1 ke Pulau 2. Karena di Pulau 2 tidak ada jembatan B maka dia melewati jembatan A untuk kembali ke Pulau 1."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Dengan kode B-A-C-A-A-B, Piratus mencapai pulau manakah? Di Pulau itulah harta karun tersembunyi."
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "2"
+   },
+   {
+    "label": "C",
+    "text": "3"
+   },
+   {
+    "label": "D",
+    "text": "1"
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban yang tepat: A Penjelasan: Dimulai dari Pulau 1: • B … Piratus menyebrangi Jembatan B untuk pergi dari Pulau 1 ke Pulau 3 • A … Ia tetap di Pulau 3 karena tidak ada Jembatan A • C … Ia menyeberangi Jembatan C untuk pergi dari Pulau 3 ke Pulau 4 • A … Ia menyeberangi Jembatan A untuk pergi dari Pulau 4 ke Pulau 5 • A … Ia menyeberangi Jembatan A untuk pergi dari Pulau 5 ke Pulau 4 • B … Ia tetap di Pulau 4 karena tidak ada Jembatan B",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "A"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-16-2.webp",
+    "w": 341,
+    "h": 287
+   },
+   {
+    "type": "p",
+    "text": "Dimulai dari Pulau 1:"
+   },
+   {
+    "type": "li",
+    "text": "B … Piratus menyebrangi Jembatan B untuk pergi dari Pulau 1 ke Pulau 3"
+   },
+   {
+    "type": "li",
+    "text": "A … Ia tetap di Pulau 3 karena tidak ada Jembatan A"
+   },
+   {
+    "type": "li",
+    "text": "C … Ia menyeberangi Jembatan C untuk pergi dari Pulau 3 ke Pulau 4"
+   },
+   {
+    "type": "li",
+    "text": "A … Ia menyeberangi Jembatan A untuk pergi dari Pulau 4 ke Pulau 5"
+   },
+   {
+    "type": "li",
+    "text": "A … Ia menyeberangi Jembatan A untuk pergi dari Pulau 5 ke Pulau 4"
+   },
+   {
+    "type": "li",
+    "text": "B … Ia tetap di Pulau 4 karena tidak ada Jembatan B"
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Florentina Voboril (Austria), florentina.voboril@gmx.at\n• Chris Roffey (UK), chris@codingclub.co.uk\n• Pedro Marcelino (Portugal), pedro.marcelino@treetree2.org\n• Maciej Sysło (Poland), syslo@ii.uni.wroc.pl\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-16-asli-1.webp",
+    "w": 963,
+    "h": 821
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2020-17",
+  "number": 17,
+  "code": "2020-SI-02",
+  "year": 2020,
+  "title": "Pengantar Roti",
+  "country": "SI",
+  "pages": [
+   41
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bori si berang-berang adalah pengantar roti dari Toko Roti “Bakery on Wheels”. Ia bertugas mengirimkan roti ke rumah-rumah di desa Bebras. Bori mempelajari peta rumah para langganan. Ia ingin mendapatkan urutan kunjungan yang akan membawanya hanya satu kali mengunjungi setiap rumah, dan hanya melewati sebuah jalan satu kali saja. Selain itu Bori harus berangkat dari lingkaran merah dan kembali ke lingkaran merah."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-17-1.webp",
+    "w": 364,
+    "h": 341
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Urutan kunjungan manakah yang sesuai keinginan Bori?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4-2-55-18-47-13-24-9-4"
+   },
+   {
+    "label": "B",
+    "text": "4-9-33-2-55-18-47-13-9-4"
+   },
+   {
+    "label": "C",
+    "text": "13-47-18-55-24-9-33-2-4"
+   },
+   {
+    "label": "D",
+    "text": "13-9-24-47-18-55-2-33-4"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban yang tepat: C Penjelasan: Pada pilihan A (4-2-55-18-47-13-24-9-4), 4 diulang dua kali dan tidak ada 33. Pada pilihan B (4-9-33-2-55-18-47-13-9-4), tidak ada 24 dan 9 dan 4 diulang dua kali. Pada pilihan D (13-9-24-47-18-55- 2-33-4), tidak ada jalan antara 24 dan 47 atau 33 dan 4.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Pada pilihan A (4-2-55-18-47-13-24-9-4), 4 diulang dua kali dan tidak ada 33."
+   },
+   {
+    "type": "p",
+    "text": "Pada pilihan B (4-9-33-2-55-18-47-13-9-4), tidak ada 24 dan 9 dan 4 diulang dua kali."
+   },
+   {
+    "type": "p",
+    "text": "Pada pilihan D (13-9-24-47-18-55- 2-33-4), tidak ada jalan antara 24 dan 47 atau 33 dan 4."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Blaž Abram, blaz.abram@gmail.com, Slovenia.\n• Špela Cerar, spela.cerar@pef.uni-lj.si, Slovenia.\n• Jinbao Zhang, Zhangjb@bnu.edu.cn, China.\n• Rechilda Villame, rechievillame@yahoo.com, Philippines.\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-17-asli-1.webp",
+    "w": 963,
+    "h": 760
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2020-18",
+  "number": 18,
+  "code": "2020-SI-01",
+  "year": 2020,
+  "title": "Bepergian Naik Kereta Api",
+  "country": "SI",
+  "pages": [
+   42,
+   43
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Delapan keluarga bebras ingin bepergian dengan kereta api. Berikut ini adalah daftar keluarga -keluarga itu (A sampai dengan H) beserta jumlah anggota keluarga dan berat bagasi yang dibawanya."
+   },
+   {
+    "type": "p",
+    "text": "Keluarga Jumlah Anggota Berat Bagasi Avsec (A) 3 50"
+   },
+   {
+    "type": "p",
+    "text": "Bizjak (B) 4 80"
+   },
+   {
+    "type": "p",
+    "text": "Cerar (C) 5 110"
+   },
+   {
+    "type": "p",
+    "text": "Dolenc (D) 4 80"
+   },
+   {
+    "type": "p",
+    "text": "Erjavec (E) 2 40"
+   },
+   {
+    "type": "p",
+    "text": "Furlan (F) 3 70"
+   },
+   {
+    "type": "p",
+    "text": "Gabric (G) 6 130"
+   },
+   {
+    "type": "p",
+    "text": "Hacin (H) 5 100"
+   },
+   {
+    "type": "p",
+    "text": "Perusahaan Kereta Api mempunyai gerbong-gerbong dengan aneka kapasitas penumpang dan kapasitas bagasi. Gerbong-gerbong dengan kapasitas penumpang dan bagasi adalah sebagai pada gambar berikut (jumlah penumpang dan kapasitas bagasi yang dapat diangkut dituliskan pada papan di kereta api)"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-18-1.webp",
+    "w": 786,
+    "h": 232
+   },
+   {
+    "type": "p",
+    "text": "Ke-8 keluarga bebras ini selalu bepergian dengan aturan:"
+   },
+   {
+    "type": "li",
+    "text": "setiap bebras harus duduk di satu kursi"
+   },
+   {
+    "type": "li",
+    "text": "seluruh anggota satu keluarga harus bepergian dalam gerbong yang sama,"
+   },
+   {
+    "type": "li",
+    "text": "bagasi harus dibawa dalam gerbong yang sama dengan bebras pemiliknya, dan"
+   },
+   {
+    "type": "li",
+    "text": "berat bagasinya yang diangkut gerbong tidak boleh lebih dari kapasitas bagasi gerbong tersebut."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa keluarga paling banyak dapat bepergian dengan pengaturan gerbong di atas? Isikan sebuah bilangan antara 0 s.d. 8!"
+   }
+  ],
+  "options": [],
+  "answer": "7",
+  "answerText": "Jawaban yang tepat: 7 Penjelasan: Ada 32 orang dalam semua keluarga, sementara kereta hanya memiliki 31 tempat duduk. Oleh sebab itu, tidak mungkin keseluruhan delapan keluarga bepergian menggunakan kereta api. Salah satu opsi agar tujuh keluarga dapat menggunakan kereta untuk bepergian dan sekaligus memenuhi batasan-batasan di atas adalah: Gerbong pertama: keluarga G, 6 beaver dan 130 kg bagasi. Gerbong kedua: keluarga A, C, dan E, 10 beaver dan 200 kg bagasi. Gerbong ketiga: keluarga B, D, H, 13 beaver dan 260 kg bagasi.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "7"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Ada 32 orang dalam semua keluarga, sementara kereta hanya memiliki 31 tempat duduk. Oleh sebab itu, tidak mungkin keseluruhan delapan keluarga bepergian menggunakan kereta api."
+   },
+   {
+    "type": "p",
+    "text": "Salah satu opsi agar tujuh keluarga dapat menggunakan kereta untuk bepergian dan sekaligus memenuhi batasan-batasan di atas adalah:"
+   },
+   {
+    "type": "p",
+    "text": "Gerbong pertama: keluarga G, 6 beaver dan 130 kg bagasi."
+   },
+   {
+    "type": "p",
+    "text": "Gerbong kedua: keluarga A, C, dan E, 10 beaver dan 200 kg bagasi."
+   },
+   {
+    "type": "p",
+    "text": "Gerbong ketiga: keluarga B, D, H, 13 beaver dan 260 kg bagasi."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Dejan Ozebek, dejan.ozebek@gmail.com, Slovenia.\n• Špela Cerar, spela.cerar@pef.uni-lj.si, Slovenia (English translation).\n• Vaidotas Kinčius, vaidotas.kincius@bebras.lt, Lithuania (Graphics).\n• Margot Phillipps, margot.phillipps@gmail.com, New Zealand (Working Group 1)\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-18-asli-1.webp",
+    "w": 963,
+    "h": 996
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2020-19",
+  "number": 19,
+  "code": "2018-CA-05",
+  "year": 2020,
+  "title": "Menghubungkan Lingkaran",
+  "country": "CA",
+  "pages": [
+   44,
+   45
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Tugas anda adalah mewarnai lingkaran-lingkaran pada gambar berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-19-1.webp",
+    "w": 310,
+    "h": 317
+   },
+   {
+    "type": "p",
+    "text": "Lingkaran-lingkaran tersebut dihubungkan dengan lingkaran tetangganya (yang terhubung langsung dengan garis). Terdapat 9 lingkaran dan 16 hubungan antara dua buah lingkaran. Angka yang dituliskan dalam lingkaran menunjukkan jumlah tetangga yang harus diwarnai. Misalnya sebuah lingkaran dengan tulisan “=3”, maka 3 dari 4 tetangganya harus diwarnai. Sebuah lingkaran dengan tulisan “<4” artinya banyaknya lingkaran-lingkaran tetangganya yang harus diwarnai harus kurang dari 4."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyak lingkaran yang harus Anda warnai?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "7"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat: B Penjelasan: Perhatikan lingkaran di paling kanan bawah pada gambar. Karena isinya adalah “=2”, kita tahu bahwa kedua tetangganya harus diwarnai sehingga kita mendapatkan keadaan seperti di bawah ini. Perhatikan pula lingkaran di tengah atas dengan label “=4”. Berarti keempat tetangganya harus diwarnai dan menghasilkan: Sampai saat ini, semua lingkaran sudah memenuhi syarat yang ada di labelnya. Jika kita perhatikan lingkaran tersisa, kita tahu bahwa lingkaran-lingkaran tersebut tidak dapat diwarnai, karena: • jika lingkaran dengan label \"=1\" diwarnai, maka lingkaran \"=3\" akan salah • jika lingkaran dengan label \"=2\" diwarnai, maka lingkaran \"<4\" akan salah • jika lingkaran dengan label \"=3\" diwarnai, maka lingkaran \"<2\" di atasnya akan salah • jika lingkaran dengan label \"=4\" diwarnai, maka lingkaran \"=1\" di sebelah kanannya akan salah Perhatikan bahwa kita bisa juga memulai dari lingkaran “=4” dan akan menemukan solusi yang sama menggunakan pemikiran yang sama.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "B"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan lingkaran di paling kanan bawah pada gambar. Karena isinya adalah “=2”, kita tahu bahwa kedua tetangganya harus diwarnai sehingga kita mendapatkan keadaan seperti di bawah ini."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-19-2.webp",
+    "w": 310,
+    "h": 301
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan pula lingkaran di tengah atas dengan label “=4”. Berarti keempat tetangganya harus diwarnai dan menghasilkan:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-19-3.webp",
+    "w": 311,
+    "h": 295
+   },
+   {
+    "type": "p",
+    "text": "Sampai saat ini, semua lingkaran sudah memenuhi syarat yang ada di labelnya. Jika kita perhatikan lingkaran tersisa, kita tahu bahwa lingkaran-lingkaran tersebut tidak dapat diwarnai, karena:"
+   },
+   {
+    "type": "li",
+    "text": "jika lingkaran dengan label \"=1\" diwarnai, maka lingkaran \"=3\" akan salah"
+   },
+   {
+    "type": "li",
+    "text": "jika lingkaran dengan label \"=2\" diwarnai, maka lingkaran \"<4\" akan salah"
+   },
+   {
+    "type": "li",
+    "text": "jika lingkaran dengan label \"=3\" diwarnai, maka lingkaran \"<2\" di atasnya akan salah"
+   },
+   {
+    "type": "li",
+    "text": "jika lingkaran dengan label \"=4\" diwarnai, maka lingkaran \"=1\" di sebelah kanannya akan salah"
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan bahwa kita bisa juga memulai dari lingkaran “=4” dan akan menemukan solusi yang sama menggunakan pemikiran yang sama."
+   }
+  ],
+  "informatics": [],
+  "credit": "Authorship\n• Troy Vasiga (Canada), troy.vasiga@uwaterloo.ca\nLicense\nCopyright © 2018 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-19-asli-1.webp",
+    "w": 963,
+    "h": 799
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2020-20",
+  "number": 20,
+  "code": "2020-KR-07",
+  "year": 2020,
+  "title": "Mencari Jamur",
+  "country": "KR",
+  "pages": [
+   46,
+   47
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bebras Kobi pergi ke hutan untuk mencari jamur! Museum mengoleksi jamur yang langka, yang dinilai berdasarkan total skor-nya. Skor jamur ditentukan oleh \"payung\" dan batang jamur, sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-20-1.webp",
+    "w": 922,
+    "h": 286
+   },
+   {
+    "type": "p",
+    "text": "Skor jamur ditentukan oleh total skor payung dan batangnya:"
+   },
+   {
+    "type": "li",
+    "text": "Jika pada rentang 0 sampai dengan 3: biasa saja"
+   },
+   {
+    "type": "li",
+    "text": "Jika skor=4 atau lebih: langka"
+   },
+   {
+    "type": "p",
+    "text": "Tentu, Kobi ingin memungut jamur langka."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Jamur mana saja yang harus dipilih oleh Kobi?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-20-2.webp",
+    "w": 861,
+    "h": 247
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": ""
+   },
+   {
+    "label": "D",
+    "text": ""
+   },
+   {
+    "label": "E",
+    "text": ""
+   }
+  ],
+  "answer": null,
+  "answerText": "Jawaban yang tepat: B; C; D Penjelasan: Berdasarkan dari menganalisis setiap jenis dari jamur, soal ini dapat mudah diselesaikan dengan membuat tabel skor sebagai berikut.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "B; C; D"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Berdasarkan dari menganalisis setiap jenis dari jamur, soal ini dapat mudah diselesaikan dengan membuat tabel skor sebagai berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-20-3.webp",
+    "w": 927,
+    "h": 166
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-20-4.webp",
+    "w": 922,
+    "h": 421
+   }
+  ],
+  "informatics": [
+   {
+    "type": "li",
+    "text": "jamur: jenis tumbuhan yang tidak berdaun dan tidak berbuah, berkembang biak dengan spora, biasanya berbentuk payung, tumbuh di daerah berair atau lembap atau batang busuk; cendawan; kulat"
+   },
+   {
+    "type": "li",
+    "text": "langka: jarang didapat; jarang ditemukan; jarang terjadi"
+   }
+  ],
+  "credit": "Authorship\n• Jihye Kim, anaki@korea.kr, South Korea\n• Doyong Kim, emelmuse@gmail.com, South Korea\n• Ungyeol Jung, purnagi@gmail.com, South Korea\n• Kwangsik Moon, newnnewer@gmail.com, South Korea\n• Anton Chukhnov (Russia), septembreange@gmail.com\n• João Rico (Portugal), joao.rico@treetree2.org\n• Jonatan Pipping (Sweden), jonatan.pipping@vetenskapenshus.se\n• Christian Datzko, christian@bebras.services, Hungary\n• Eljakim Schrijvers, eljakim@cuttle.org, USA\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-20-asli-1.webp",
+    "w": 963,
+    "h": 926
+   }
+  ],
+  "figureCount": 4,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2020-21",
+  "number": 21,
+  "code": "2020-PK-02",
+  "year": 2020,
+  "title": "Penyortir Balok",
+  "country": "PK",
+  "pages": [
+   48,
+   49
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Balok kayu di desa Bebras dikelompokkan berdasarkan tiga ciri: jumlah cincin bagian dalam, jumlah garis kulit kayu dan jumlah simpul, seperti pada gambar di bawah ini."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-21-1.webp",
+    "w": 341,
+    "h": 150
+   },
+   {
+    "type": "p",
+    "text": "Pada gambar ini, terlihat bagaimana berang-berang menyortir batang kayu berdasarkan cincin bagian dalam, garis kulit kayu, dan simpulnya, dengan meneruskan batang kayu, mulai dari berang-berang paling atas hingga ke tumpukan di bagian bawah."
+   },
+   {
+    "type": "p",
+    "text": "Batang kayu yang ditunjukkan di atas akan ditempatkan di tumpukan D, karena batang kayu memiliki tiga cincin bagian dalam (dari berang-berang 1 menuju berang-berang 3), tiga garis kulit kayu (dari berang-berang 3 menuju berang-berang 7) dan dua simpul (dari berang-berang 7 menuju tumpukan D)."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-21-2.webp",
+    "w": 578,
+    "h": 416
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Ke tumpukan yang mana balok ini akan dikirim?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-21-3.webp",
+    "w": 175,
+    "h": 86
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban yang tepat: C Penjelasan: Balok kayu pada pertanyaan ini memiliki dua cincin bagian dalam, tiga garis kulit kayu, dan satu simpul, yang berarti akan berakhir pada tumpukan C. Perhatikan gambar berikut: Batang kayu ini tidak dapat diletakkan pada Tumpukan A, B, dan D, karena alasan berikut ini.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban yang tepat"
+   },
+   {
+    "type": "p",
+    "text": "C"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Balok kayu pada pertanyaan ini memiliki dua cincin bagian dalam, tiga garis kulit kayu, dan satu simpul, yang berarti akan berakhir pada tumpukan C. Perhatikan gambar berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-21-4.webp",
+    "w": 564,
+    "h": 421
+   },
+   {
+    "type": "p",
+    "text": "Batang kayu ini tidak dapat diletakkan pada Tumpukan A, B, dan D, karena alasan berikut ini."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2020/2020-21-5.webp",
+    "w": 621,
+    "h": 252
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Lingkaran dalam: tanda melingkar di bagian dalam batang pohon, yang menunjukkan usia pohon. Garis kulit kayu: garis-garis pada 'kulit' luar pohon."
+   },
+   {
+    "type": "p",
+    "text": "Klasifikasi: proses memisahkan entitas ke dalam kelas."
+   },
+   {
+    "type": "p",
+    "text": "Tanda simpul: tanda yang ditinggalkan oleh cabang pohon setelah dipotong/ditebang."
+   }
+  ],
+  "credit": "Authorship\n• Marios O. Choudary, marios.choudary@gmail.com, Pakistan.\n• Alisher Ikramov (ikramov.alisher@list.ru),\n• Vipul Shah (v.shah@tcs.com),\n• Valentina Dagiene (valentina.dagiene@mif.vu.lt),\n• Vaidotas Kincius, vaidotas.kincius@gmail.com, 2020-05-19\nLicense\nCopyright © 2020 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2020/2020-21-asli-1.webp",
+    "w": 963,
+    "h": 1077
+   }
+  ],
+  "figureCount": 5,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ }
+]

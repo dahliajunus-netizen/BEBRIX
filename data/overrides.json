@@ -1,0 +1,30 @@
+{
+  "_readme": "Koreksi manual atas hasil ekstraksi PDF. Kunci jawaban di sini dibaca langsung dari buku sumber (teks atau gambar jawaban), bukan dibuat sendiri. 'classify' = topik berpikir komputasional (D dekomposisi, P pola, A abstraksi, G algoritma, R representasi data, L penalaran logis) dan perkiraan tingkat kesulitan 1-4 (klasifikasi editorial platform, bukan dari buku).",
+  "classify": "2016-01:R:1 2016-02:L:2 2016-03:G:2 2016-04:L:2 2016-05:G:2 2016-06:R:3 2016-07:G:3 2016-08:R:2 2016-09:P:2 2016-10:L:2 2017-01:G:2 2017-02:P:1 2017-03:P:2 2017-04:R:2 2017-05:L:4 2017-06:G:3 2017-07:G:3 2017-08:R:2 2017-09:L:2 2017-10:G:3 2017-11:G:2 2017-12:R:1 2017-13:G:4 2017-14:P:3 2017-15:A:3 2017-16:R:2 2017-17:D:3 2017-18:G:2 2017-19:G:3 2018-01:R:3 2018-02:L:3 2018-03:A:2 2018-04:G:2 2018-05:L:3 2018-06:A:3 2018-07:G:1 2018-08:D:3 2018-09:A:2 2018-10:R:2 2018-11:G:3 2018-12:D:3 2018-13:A:3 2018-14:P:3 2018-15:L:3 2018-16:P:2 2018-17:G:3 2018-18:G:3 2018-19:R:2 2018-20:P:2 2018-21:A:2 2018-22:G:4 2018-23:L:1 2018-24:G:2 2018-25:L:2 2018-26:G:2 2018-27:R:2 2018-28:L:3 2018-29:G:2 2019-01:R:2 2019-02:L:2 2019-03:G:2 2019-04:G:3 2019-05:G:3 2019-06:G:3 2019-07:P:2 2019-08:L:3 2019-09:A:3 2019-10:L:3 2019-11:P:2 2019-12:D:4 2019-13:A:4 2019-14:G:4 2019-15:P:3 2020-01:L:1 2020-02:G:2 2020-03:R:2 2020-04:A:2 2020-05:P:2 2020-06:L:3 2020-07:A:3 2020-08:L:2 2020-09:L:3 2020-10:L:2 2020-11:D:2 2020-12:G:3 2020-13:L:3 2020-14:P:2 2020-15:G:3 2020-16:G:2 2020-17:L:2 2020-18:D:3 2020-19:L:3 2020-20:D:3 2020-21:D:1",
+  "questions": {
+    "2016-01": { "optionLabels": "ABCD", "answer": ["B"] },
+    "2016-02": { "optionLabels": "ABCDEF", "answer": ["D"] },
+    "2016-06": { "code": null, "codeNote": "Buku sumber mencetak kode 2016-RU-07 pada dua soal; daftar soal buku tidak mencantumkan kode untuk soal ini.", "optionLabels": "ABCD", "answer": ["D"], "dropStemText": ["A. C.", "B. D."] },
+    "2016-09": { "accepted": ["12,8,5"] },
+    "2016-10": { "code": "2016-JP-02", "codeNote": "Kode pada halaman soal tercetak 2016-IR-01a; daftar soal buku mencantumkan 2016-JP-02." },
+    "2017-05": { "review": "Soal menjodohkan (foto 1-7 ke ruang A-G). Kunci hanya tersedia sebagai gambar dan perlu ditranskripsi manual." },
+    "2017-06": { "options": ["2 dan 7", "3 dan 7", "1 dan 2", "1 dan 4"], "answer": ["A"], "dropStemText": ["Ο 2 dan 7", "Ο 3 dan 7", "Ο 1 dan 2", "Ο 1 dan 4"] },
+    "2017-07": { "format": "multiple_choice", "review": "Buku tidak menuliskan kunci secara eksplisit. Dari tabel jarak pada pembahasan (Blyth = 18, Holt = 19) kunci yang diusulkan adalah D dan F. Mohon verifikasi sebelum diterbitkan.", "proposed": ["D", "F"] },
+    "2017-14": { "optionLabels": "ABCD", "answer": ["D"] },
+    "2017-19": { "optionLabels": "ABCD", "answer": ["A"], "dropTrailingImages": { "informatics": 2 } },
+    "2018-02": { "answer": ["B"], "answerNote": "Pembahasan 2018 tidak menyebut huruf pilihan; kunci B (5) dikonfirmasi oleh buku 2020 yang memuat ulang soal 2018-CA-05." },
+    "2018-05": { "optionLabels": "ABCD", "answer": ["B"] },
+    "2018-15": { "review": "Soal interaktif (seret kartu ke kamar). Kunci hanya tersedia sebagai gambar dan perlu ditranskripsi manual." },
+    "2018-16": { "format": "multiple_choice", "optionLabels": "ABCDEF", "answer": ["A", "E", "F"] },
+    "2018-20": { "optionLabels": "ABCD", "answer": ["B"] },
+    "2018-21": { "format": "multiple_choice", "optionLabels": "ABCD", "answer": ["A", "B"] },
+    "2018-22": { "accepted": ["2,5", "5,2", "2 dan 5", "5 dan 2"], "inputHint": "Tulis dua nomor lokasi, pisahkan dengan koma. Contoh: 1,3" },
+    "2018-28": { "accepted": ["A,B,J", "ABJ", "A, B dan J", "A B J"], "inputHint": "Tulis huruf rumah sesuai urutan kunjungan, pisahkan dengan koma. Contoh: C,D,E" },
+    "2019-02": { "answer": ["F"] },
+    "2019-04": { "optionLabels": "ABCD", "answer": ["A"] },
+    "2020-14": { "accepted": ["I1l5i11f4M4H6"], "caseSensitive": true },
+    "2020-19": { "code": "2018-CA-05", "codeNote": "Soal Bebras 2018 (2018-CA-05) yang dimuat ulang dalam buku 2020." },
+    "2020-20": { "format": "multiple_choice", "answer": ["B", "C", "D"] },
+    "2020-21": { "optionLabels": "ABCD", "answer": ["C"] }
+  }
+}

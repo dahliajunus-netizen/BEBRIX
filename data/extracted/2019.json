@@ -1,0 +1,1908 @@
+[
+ {
+  "id": "2019-01",
+  "number": 1,
+  "code": "2019-CN-03",
+  "year": 2019,
+  "title": "Huruf Cina Warna Warni",
+  "country": "CN",
+  "pages": [
+   10,
+   11,
+   12
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Upi si berang-berang sangat tertarik untuk mempelajari struktur huruf China. Ia membuat sebuah papan warna-warni dengan simbol sebagai berikut sebagai pedoman:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-01-1.webp",
+    "w": 266,
+    "h": 263
+   },
+   {
+    "type": "p",
+    "text": "Mengacu ke papan tersebut, tulisan China dapat diekspresikan sebagai:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-01-2.webp",
+    "w": 870,
+    "h": 359
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Yang mana akan menyatakan \"三\", \"二\", \"八\"dengan cara yang benar?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "",
+    "image": {
+     "src": "/soal/2019/2019-01-3.webp",
+     "w": 481,
+     "h": 105
+    }
+   },
+   {
+    "label": "B",
+    "text": "",
+    "image": {
+     "src": "/soal/2019/2019-01-4.webp",
+     "w": 481,
+     "h": 103
+    }
+   },
+   {
+    "label": "C",
+    "text": "",
+    "image": {
+     "src": "/soal/2019/2019-01-5.webp",
+     "w": 487,
+     "h": 106
+    }
+   },
+   {
+    "label": "D",
+    "text": "",
+    "image": {
+     "src": "/soal/2019/2019-01-6.webp",
+     "w": 464,
+     "h": 99
+    }
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang benar adalah: b. Penjelasan: bawah berwarna merah muda . kanan berwarna hijau . Maka jawaban benar adalah B. Pilihan A: Karakter \"二\" representasinya benar, tetapi \"三\" dan \"八\" representasinya salah. Pilihan C: semua representasi salah. Pilihan D: Karakter \"八\" representasinya benar, tetapi \"二\" dan \"三\" salah representasinya.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-01-7.webp",
+    "w": 445,
+    "h": 101
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah: b."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-01-8.webp",
+    "w": 611,
+    "h": 147
+   },
+   {
+    "type": "p",
+    "text": "bawah berwarna merah muda ."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-01-9.webp",
+    "w": 550,
+    "h": 76
+   },
+   {
+    "type": "p",
+    "text": "kanan berwarna hijau ."
+   },
+   {
+    "type": "p",
+    "text": "Maka jawaban benar adalah B."
+   },
+   {
+    "type": "p",
+    "text": "Pilihan A: Karakter \"二\" representasinya benar, tetapi \"三\" dan \"八\" representasinya salah. Pilihan C: semua representasi salah."
+   },
+   {
+    "type": "p",
+    "text": "Pilihan D: Karakter \"八\" representasinya benar, tetapi \"二\" dan \"三\" salah representasinya."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Data, Struktur Data dan Representasi:"
+   },
+   {
+    "type": "p",
+    "text": "Data dapat direpresentasi menjadi berbagai bentuk, misalnya gambar, teks atau angka. Pada kasus ini, kita harus memilih deretan gambar yang akan membantu kita memecahkan persoalannya. Dengan mengidentifikasi, kita dapat memprediksi, membuat aturan dan menyelesaikan persoalan yang lebih umum."
+   },
+   {
+    "type": "p",
+    "text": "Huruf Chinese mempunyai struktur yang seperti \"building blocks”, yang disusun dalam sebuah struktur dua dimensi. Blok ini, pada umumnya, muncul dalam bentuk “kiri-kanan”, “atas-bawah” untuk membentuk sebuah huruf dua dimensi."
+   },
+   {
+    "type": "p",
+    "text": "http://www.littlechinesechannel.com/"
+   },
+   {
+    "type": "p",
+    "text": "Keywords representation, structure-pattern"
+   },
+   {
+    "type": "p",
+    "text": "Wording"
+   },
+   {
+    "type": "li",
+    "text": "Chinese character: a way to write down a letter or word in the Chinese language."
+   },
+   {
+    "type": "p",
+    "text": "Comments"
+   },
+   {
+    "type": "li",
+    "text": "2019-05-15 Syslo Maciej, syslo@ii.uni.wroc.pl, Poland, Stratis Nikolaos, nstratis@hotmail.com, Cyprus, – Augmenting colors with patterns to be suitable for color blinded students."
+   },
+   {
+    "type": "li",
+    "text": "2019-05-15, Victor Schmidt (the Netherlands), victor@beverwedstrijd.nl: Did some final editing."
+   },
+   {
+    "type": "p",
+    "text": "Graphics and Other Files"
+   },
+   {
+    "type": "li",
+    "text": "22019-CN-03a-Colorful Chinese Character.odt (this file)"
+   },
+   {
+    "type": "li",
+    "text": "2019-CN-03a_taskbody.svg, 2019-CN-03a_example01.svg, 2019-CN-03a_example02.svg, 2019-CN-03a_example03.svg, 2019-CN-03a_answerA.svg, 2019-CN-03a_answerB.svg, 2019- CN-03a_answerC.svg, 2019-CN-03a_answerD.svg, 2019-CN-03a_explanation_bottom.svg, 2019-CN-03a_explanation_center.svg, 2019-CN-03a_explanation_left.svg, 2019-CN- 03a_explanation_right.svg, 2019-CN-03a_explanation_top.svg Original graphics from Yang Xing, xywzy468129@163.com replaced by graphics created by Datzko Susanne, susanne@datzko.ch, Switzerland."
+   },
+   {
+    "type": "p",
+    "text": "Authors and Contributors (incl. Graphics)"
+   },
+   {
+    "type": "li",
+    "text": "Yang Xing, xywzy468129@163.com, China"
+   },
+   {
+    "type": "li",
+    "text": "Lanping Deng, 1192256382@qq.com, China"
+   },
+   {
+    "type": "li",
+    "text": "Syslo Maciej, syslo@ii.uni.wroc.pl, Poland,"
+   },
+   {
+    "type": "li",
+    "text": "Stratis Nikolaos, nstratis@hotmail.com, Cyprus"
+   },
+   {
+    "type": "li",
+    "text": "Datzko Susanne, susanne@datzko.ch, Switzerland, Changes to the graphics"
+   }
+  ],
+  "credit": "License\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-01-asli-1.webp",
+    "w": 963,
+    "h": 1317
+   },
+   {
+    "src": "/soal/2019/2019-01-asli-2.webp",
+    "w": 963,
+    "h": 439
+   }
+  ],
+  "figureCount": 9,
+  "flags": []
+ },
+ {
+  "id": "2019-02",
+  "number": 2,
+  "code": "2019-DE-02",
+  "year": 2019,
+  "title": "Parkir Mobil",
+  "country": "DE",
+  "pages": [
+   13,
+   14
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Pada sebuah tempat parkir, mobil dapat diparkir pada ruang yang disediakan, atau di depannya seperti ditunjukkan pada gambar berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-02-1.webp",
+    "w": 716,
+    "h": 295
+   },
+   {
+    "type": "p",
+    "text": "Mobil yang diparkir di depan ruang parkir dapat didorong maju atau mundur agar mobil yang terhalang dapat keluar. Misalnya, pada gambar di atas, mobil A tidak terhalang sehingga dapat keluar. Mobil C terhalang mobil P. Mobil M harus didorong sebelum L atau K dapat keluar."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Mobil apa yang membutuhkan dua mobil lainnya didorong sebelum bisa keluar?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Mobil B"
+   },
+   {
+    "label": "B",
+    "text": "Mobil C"
+   },
+   {
+    "label": "C",
+    "text": "Mobil F"
+   },
+   {
+    "label": "D",
+    "text": "Mobil G"
+   },
+   {
+    "label": "E",
+    "text": "Mobil H"
+   },
+   {
+    "label": "F",
+    "text": "Mobil I"
+   },
+   {
+    "label": "G",
+    "text": "Mobil K"
+   },
+   {
+    "label": "H",
+    "text": "Mobil L"
+   }
+  ],
+  "answer": null,
+  "answerText": "Jawaban yang benar adalah: f) Mobil I. Mobil I terhalang oleh mobil N. Kita tidak dapat mendorong mobil N supaya mobil I dapat meninggalkan tempat parkirnya. Maka, mobil O harus didorong ke kiri atau mobil M harus didorong ke kanan agar mobil N dapat keluar dari tempat parkirnya. Tak ada mobil lain yang untuk meninggalkan tempatnya harus mendorong 2 mobil: mobil A, D, E, J dan Q dapat langsung meninggalkan tempat parkit. Mobil B, C, F, G, H, K dan L dapat meninggalkan tempat parkir jika mobil P, O, N, atau M didorong.",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah: f) Mobil I."
+   },
+   {
+    "type": "p",
+    "text": "Mobil I terhalang oleh mobil N. Kita tidak dapat mendorong mobil N supaya mobil I dapat meninggalkan tempat parkirnya. Maka, mobil O harus didorong ke kiri atau mobil M harus didorong ke kanan agar mobil N dapat keluar dari tempat parkirnya."
+   },
+   {
+    "type": "p",
+    "text": "Tak ada mobil lain yang untuk meninggalkan tempatnya harus mendorong 2 mobil: mobil A, D, E, J dan Q dapat langsung meninggalkan tempat parkit. Mobil B, C, F, G, H, K dan L dapat meninggalkan tempat parkir jika mobil P, O, N, atau M didorong."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Soal ini berkaitan dengan dua aspek penting informatika:"
+   },
+   {
+    "type": "p",
+    "text": "1. Pencarian menyeluruh, satu per satu mobil, dengan algoritma “brute-force” untuk mengecek setiap mobil apakah memenuhi kriteria, i.e. “mobil mana yang dapat keluar setelah 2 mobil lainnya didorong” https://en.wikipedia.org/wiki/Brute-force_search 2. Algoritma parkir mobil tanpa awak, yang makin banyak dibuat saat ini:"
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Automatic_parking Banyak penelitian dilakukan dalam bidang transportasi publik dan sistem perparkiran mobil, yang melayani mobil tanpa awak. Salah satu keuntungannya adalah membuat sistem menjadi sangat efisien."
+   }
+  ],
+  "credit": "Authorship\n• 2019-03-14 Kirsten Schlüter (DE), kirsten.schlueter@sonnwendjoch.de:\nTask Proposal\n• 2019-05-14 Sophie Koh (Singapore, sophiek@simcc.org), Inggriani Liem(Indonesia,\ninge@informatika.org), Marios Choudary (Pakistan, marios.choudary@gmail.com):\nSimplified introductory text. Updated It’s informatics text to link the task to the concepts of\nexhaustive search and autonomous parking. Updated wording part (delete last sentence\nabout “to push away a car”). Updated title.\n• 2019-05-15 Christian Datzko, christian.datzko@informatik-biber.ch, Switzerland:\nReview\n• 2019-05-16 Identified ambiguity in original graphics and final language edits. Thomas\nNaughton (Ireland) tomn@cs.nuim.ie\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: http://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-02-asli-1.webp",
+    "w": 963,
+    "h": 838
+   }
+  ],
+  "figureCount": 1,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2019-03",
+  "number": 3,
+  "code": "2019-DE-04",
+  "year": 2019,
+  "title": "Robot Pembersih Sampah",
+  "country": "DE",
+  "pages": [
+   15,
+   16
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Setelah acara pentas musik, banyak sampah di lapangan. Robot Pembersih mengambil sampah yang ditinggalkan penonton:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-1.webp",
+    "w": 608,
+    "h": 413
+   },
+   {
+    "type": "p",
+    "text": "Robot pembersih akan bergerak mengambil sampah paling dekat. Kemudian ia bergerak dan mengambil sampah paling dekat berikutnya. Robot mengulang langkah sampai semua sampah dipungutnya."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Benda apa yang dipungut paling akhir oleh robot?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-2.webp",
+    "w": 851,
+    "h": 240
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-3.webp",
+    "w": 69,
+    "h": 91
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": ""
+   },
+   {
+    "label": "D",
+    "text": ""
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat: B. Gambar menunjukkan rute yang diambil robot sesuai dengan instruksi. Dimulai dengan mengambil",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat: B."
+   },
+   {
+    "type": "p",
+    "text": "Gambar menunjukkan rute yang diambil robot sesuai dengan instruksi. Dimulai dengan mengambil"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-4.webp",
+    "w": 649,
+    "h": 71
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-5.webp",
+    "w": 918,
+    "h": 112
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-03-6.webp",
+    "w": 662,
+    "h": 450
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Perilaku si robot dikendalikan oleh program komputer, yang dibangun di dalam robot. Program komputer terdiri dari instruksi yang ditulis dalam bahasa yang dapat dimengerti oleh sang komputer. Robot memiliki kamera dan sensor yang memungkinkan mereka untuk mengidentifikasi objek di lingkungan mereka dan menghitung jarak ke objek-objek ini. Program kontrol robot memproses input dari sensor-sensor ini dan memungkinkan robot untuk berperilaku secara otonom, yaitu tanpa campur tangan manusia."
+   },
+   {
+    "type": "p",
+    "text": "Robot pengumpul sampah melakukan pekerjaan yang bisa berbahaya bagi manusia. Demikian pula, robot otonom dapat membantu dalam banyak skenario berbahaya lainnya juga, seperti bencana yang disebabkan oleh halangan atau cuaca."
+   }
+  ],
+  "credit": "Authorship\n• 2019-03-01 Task proposal: Michael Weigend (Germany), mw@creative-informatics.de\n• 2019-05-15: Eslam AbdElAal (Egypt) (eslam@aast.edu), Georgios Fesakis (Greece)\n(gfesakis@aegean.gr), Vipul Shah (India), v.shah@tcs.com\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computer Fluency.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: http://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-03-asli-1.webp",
+    "w": 963,
+    "h": 1097
+   }
+  ],
+  "figureCount": 6,
+  "flags": []
+ },
+ {
+  "id": "2019-04",
+  "number": 4,
+  "code": "2019-DE-05",
+  "year": 2019,
+  "title": "Pulau Jebakan",
+  "country": "DE",
+  "pages": [
+   17,
+   18,
+   19
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sebuah kapal tanpa awak bergerak dari selatan menuju ke utara sungai. Kapal harus melewati pulau-pulau yang ada pada sungai tersebut. Kapal bergerak dari satu petak ke petak berikutnya. Kapal hanya dapat bergerak jika tidak terhalang pulau."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-04-1.webp",
+    "w": 496,
+    "h": 353
+   },
+   {
+    "type": "p",
+    "text": "Kapal tersebut bergerak mengikuti instruksi sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-04-2.webp",
+    "w": 747,
+    "h": 460
+   },
+   {
+    "type": "p",
+    "text": "Seorang bajak laut membuat sebuah pulau buatan, yang akan dipakai menjebak kapal tanpa awak tersebut. Jika kapal mendekati pulau buatan tersebut, maka kapal akan berhenti (\"stuck\"🙟) sebelum mencapai tepi utara sungai."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Pulau yang mana dapat menjebak kapal tanpa awak tersebut?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-04-3.webp",
+    "w": 843,
+    "h": 194
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban yang tepat adalah: A. Jika kapal tanpa awak mendekati pulau yang di kiri seperti pada gambar, maka akan berhenti tanpa mencapai tepi utara sungai sebab kapal terhalang pulau sehingga tak dapat pergi ke utara atau ke barat. Kapal tak mungkin terhalang pulau lainnya karena saat mendekati pulau selalu bisa bergerak ke arah barat dan melanjutkan perjalanan ke utara. Catatan: dari algoritma, kapal hanya akan bergerak ke utara dan ke barat.",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah: A."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-04-4.webp",
+    "w": 608,
+    "h": 193
+   },
+   {
+    "type": "p",
+    "text": "Jika kapal tanpa awak mendekati pulau yang di kiri seperti pada gambar, maka akan berhenti tanpa mencapai tepi utara sungai sebab kapal terhalang pulau sehingga tak dapat pergi ke utara atau ke barat. Kapal tak mungkin terhalang pulau lainnya karena saat mendekati pulau selalu bisa bergerak ke arah barat dan melanjutkan perjalanan ke utara."
+   },
+   {
+    "type": "p",
+    "text": "Catatan: dari algoritma, kapal hanya akan bergerak ke utara dan ke barat."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-04-5.webp",
+    "w": 176,
+    "h": 175
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Flowchart atau diagram alir adalah diagram yang merepresentasikan algoritma, aliran kerja atau proses. Kota menunjukkan sebuah proses, dan panah menunjukkan aliran dari satu proses ke proses lainnya. Sebuah diagram alir yang baik dapat dengan jelas proses dan menunjukkan aliran, atau percabangan dari sebuah pengambilan keputusan."
+   },
+   {
+    "type": "p",
+    "text": "Diagram alir yang mengendalikan gerakan kapal tanpa awak akan bekerja baik untuk pulau yang tepiannya membulat. Tapi diagram alir tsb tidak memperhitungkan kondisi yang menyebabkan kapal tidak dapat mencapai tepian utara karena terhalang pulau. Artinya diagram alir tersebut mempunyai kelemahan, yaitu pelanggaran keamanan (security breach), yang dapat dimanfaatkan oleh orang jahat. Pemrogram komputer berusaha mengembangkan perangkat lunak yang dapat berjalan dengan baik dalam kondisi apapun. Misalnya sebuah halaman web yang menerima input akan memeriksa data yang dimasukkan dengan cermat dan menolak input yang membahayakan aplikasi atau komputernya."
+   }
+  ],
+  "credit": "Authorship\n• 2019-03-01 Task proposal: Michael Weigend (Germany), mw@creative-informatics.de\n• 2019-05-14 Ezra Templonuevo (Philippines), ejtemplonuevo@gmail.com and Aliaksei\nTolstsikau (Belarus), tolstikov@bsu.by\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computer Fluency.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: http://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-04-asli-1.webp",
+    "w": 963,
+    "h": 1345
+   },
+   {
+    "src": "/soal/2019/2019-04-asli-2.webp",
+    "w": 963,
+    "h": 363
+   }
+  ],
+  "figureCount": 5,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2019-05",
+  "number": 5,
+  "code": "2019-KR-05",
+  "year": 2019,
+  "title": "Mesin Bordir",
+  "country": "KR",
+  "pages": [
+   20,
+   21
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Upik si berang-berang mencoba untuk menyulam menggunakan pola dan sebuah mesin bordir. Mesin bordir diperintah dengan perintah: OUT(cc) - IN (dd) di mana cc dan dd adalah posisi jarum pada grid. Misalnya OUT(B2)-IN(A3) adalah perintah untuk mengeluarkan jarum dari posisi B2, dan memasukkan jarum di posisi A3. Hasil dari dua perintah OUT(E6)-IN(G8);OUT(E2)-IN(E4) adalah sulaman sebagai berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-05-1.webp",
+    "w": 405,
+    "h": 386
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Perintah apa yang harus dituliskan untuk menghasilkan sulaman sebagai berikut?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-05-2.webp",
+    "w": 404,
+    "h": 391
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "OUT(H2)-IN(C2);OUT(H9)-IN(C9);OUT(C9)-IN(C2);OUT(H9)-IN(C2)"
+   },
+   {
+    "label": "B",
+    "text": "OUT(C2)-IN(H9);OUT(H2)-IN(C9);OUT(C2)-IN(H2);OUT(C9)-IN(H9)"
+   },
+   {
+    "label": "C",
+    "text": "OUT(H9)-IN(C9);OUT(H9)-IN(H2);OUT(C2)-IN(H2);OUT(C9)-IN(H2)"
+   },
+   {
+    "label": "D",
+    "text": "OUT(C2)-IN(C9);OUT(H2)-IN(H9);OUT(C2)-IN(H2);OUT(C9)-IN(H9)"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban yang tepat adalah: b) OUT(C2)-IN(H9);OUT(H2)-IN(C9);OUT(C2)-IN(H2);OUT(C9)-IN(H9) Untuk menghasilkan pola seperti gambar, kita perlu untuk menjalankan 4 perintah, satu perintah untuk setiap garis, secara random. Perintahnya adalah: • OUT(C2)-IN(H9) or OUT(H9)-IN(C2) • OUT(H2)-IN(C9) or OUT(C9)-IN(H2) • OUT(C2)-IN(H2) or OUT(H2)-IN(C2) • OUT(C9)-IN(H9) or OUT(H9)-IN(C9) Pilihan yang mengandung 4 perintah tersebut adalah B. Pilihan A salah sebab mengandung perintah OUT(C9)-IN(C2) yang membuat garis yang tidak perlu. Perintah OUT(H2)-IN(C9) atau OUT(C9)-IN(H2) juga tidak ada. Pilihan B benar. Pilihan C salah sebab mengandung perintah OUT(H9)-IN(H2) yang membuat garis yang tidak diperlukan. Demikian juga dengan perintah OUT(C9)-IN(H9) atau OUT(H9)-IN(C9) sebab meleset. Pilihan D salah sebab mengandung perintah OUT(C2)-IN(C9) dan OUT(H2)-IN(H9) yang membuat garis yang tidak diperlukan. Perintah OUT(C2)-IN(H9) atau OUT(H9)-IN(C2) dan OUT(H2)-IN(C9) atau OUT(C9)-IN(H2) juga meleset.",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah: b) OUT(C2)-IN(H9);OUT(H2)-IN(C9);OUT(C2)-IN(H2);OUT(C9)-IN(H9) Untuk menghasilkan pola seperti gambar, kita perlu untuk menjalankan 4 perintah, satu perintah untuk setiap garis, secara random. Perintahnya adalah:"
+   },
+   {
+    "type": "li",
+    "text": "OUT(C2)-IN(H9) or OUT(H9)-IN(C2)"
+   },
+   {
+    "type": "li",
+    "text": "OUT(H2)-IN(C9) or OUT(C9)-IN(H2)"
+   },
+   {
+    "type": "li",
+    "text": "OUT(C2)-IN(H2) or OUT(H2)-IN(C2)"
+   },
+   {
+    "type": "li",
+    "text": "OUT(C9)-IN(H9) or OUT(H9)-IN(C9)"
+   },
+   {
+    "type": "p",
+    "text": "Pilihan yang mengandung 4 perintah tersebut adalah B."
+   },
+   {
+    "type": "p",
+    "text": "Pilihan A salah sebab mengandung perintah OUT(C9)-IN(C2) yang membuat garis yang tidak perlu. Perintah OUT(H2)-IN(C9) atau OUT(C9)-IN(H2) juga tidak ada."
+   },
+   {
+    "type": "p",
+    "text": "Pilihan B benar."
+   },
+   {
+    "type": "p",
+    "text": "Pilihan C salah sebab mengandung perintah OUT(H9)-IN(H2) yang membuat garis yang tidak diperlukan. Demikian juga dengan perintah OUT(C9)-IN(H9) atau OUT(H9)-IN(C9) sebab meleset. Pilihan D salah sebab mengandung perintah OUT(C2)-IN(C9) dan OUT(H2)-IN(H9) yang membuat garis yang tidak diperlukan. Perintah OUT(C2)-IN(H9) atau OUT(H9)-IN(C2) dan OUT(H2)-IN(C9) atau OUT(C9)-IN(H2) juga meleset."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Algoritma menjelaskan langkah-langkah untuk menyelesaikan sebuah tugas. Selain untuk dijalankan komputer, algoritma yang ditulis juga dapat menyelesaikan persoalan sehari-hari. Soal pada tantangan ini menunjukkan bagaimana algoritma dapat dipakai untuk membuat pola sebuah mesin bordir."
+   }
+  ],
+  "credit": "Authorship\n• Tae-hun Kim (South Korea), gtranu@gmail.com, Task Proposal\n• Hongjin Yeh (South Korea) hjyeh@ajou.ac.kr : Task Modified\n• Syslo Maciej, syslo@ii.uni.wroc.pl, Poland\n• Stratis Nikolaos, nstratis@hotmail.com, Cyprus\n• Susanne Datzko, susanne@datzko.ch, Switzerland\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-05-asli-1.webp",
+    "w": 963,
+    "h": 1239
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2019-06",
+  "number": 6,
+  "code": "2019-MY-04",
+  "year": 2019,
+  "title": "Menata Manik-Manik",
+  "country": "MY",
+  "pages": [
+   22,
+   23
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Perhatikan manik-manik yang terletak dalam tongkat A, B, dan C."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-06-1.webp",
+    "w": 504,
+    "h": 258
+   },
+   {
+    "type": "p",
+    "text": "Kita hanya dapat memindahkan satu manik-manik dari satu tongkat ke tongkat lainnya."
+   },
+   {
+    "type": "p",
+    "text": "Satu kali memindahkan dihitung sebagai 1 langkah."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa pemindahan yang dibutuhkan (yang paling minimum) untuk mengatur manik-manik pada gambar I di atas untuk menjadi seperti pada Gambar II?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "7"
+   },
+   {
+    "label": "E",
+    "text": "8"
+   }
+  ],
+  "answer": "D",
+  "answerText": "Jawaban: Jawaban yang tepat adalah: d) 7. Pada susunan yang diinginkan, manik-manik biru terletak paling bawah, maka 2 buah manik-manik kuning harus dipindahkan ke C (jika kita pindahkan ke B, manik-manik kuning akan menghalangi manik-manik biru. Jumlah perpindahan: 2 Kemudian, kita akan memindahkan manik-manik ke A sesuai urutan warna yang diinginkan: biru, kuning, kuning, biru, dan merah. Jumlah perpindahan: 5. Total perpindahan: 7 Cara lain menyelesaikan soal ini adalah dengan cara terbalik. Karena manik-manik merah harus paling atas, maka harus dipindah ke C, berarti sudah pada posisi awalnya. Jumlah perpindahan:1 Manik-manik biru yang kemudian paling atas dapat dipindahkan ke B, yaitu posisi asalnya. Jumlah perpindahan:1 Manik-manik kuning semula pada A, dan manik-manik biru harus dipindahkan sebelumnya sehingga manik-manik kuning harus dipindahkan ke C untuk sementara (jika dipindahkan ke B, manik-manik kuning akan menghalangi biru). Jumlah perpindahan: 2 Sekarang, manik-manik biru pada A dapat dipindah keB, dan kedua manik-manik kuning dapat dikembalikan ke A. Jumlah perpindahan: 3",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah: d) 7."
+   },
+   {
+    "type": "p",
+    "text": "Pada susunan yang diinginkan, manik-manik biru terletak paling bawah, maka 2 buah manik-manik kuning harus dipindahkan ke C (jika kita pindahkan ke B, manik-manik kuning akan menghalangi manik-manik biru. Jumlah perpindahan: 2"
+   },
+   {
+    "type": "p",
+    "text": "Kemudian, kita akan memindahkan manik-manik ke A sesuai urutan warna yang diinginkan: biru, kuning, kuning, biru, dan merah. Jumlah perpindahan: 5."
+   },
+   {
+    "type": "p",
+    "text": "Total perpindahan: 7"
+   },
+   {
+    "type": "p",
+    "text": "Cara lain menyelesaikan soal ini adalah dengan cara terbalik. Karena manik-manik merah harus paling atas, maka harus dipindah ke C, berarti sudah pada posisi awalnya. Jumlah perpindahan:1"
+   },
+   {
+    "type": "p",
+    "text": "Manik-manik biru yang kemudian paling atas dapat dipindahkan ke B, yaitu posisi asalnya. Jumlah perpindahan:1"
+   },
+   {
+    "type": "p",
+    "text": "Manik-manik kuning semula pada A, dan manik-manik biru harus dipindahkan sebelumnya sehingga manik-manik kuning harus dipindahkan ke C untuk sementara (jika dipindahkan ke B, manik-manik kuning akan menghalangi biru). Jumlah perpindahan: 2"
+   },
+   {
+    "type": "p",
+    "text": "Sekarang, manik-manik biru pada A dapat dipindah keB, dan kedua manik-manik kuning dapat dikembalikan ke A. Jumlah perpindahan: 3"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-06-2.webp",
+    "w": 200,
+    "h": 31
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-06-3.webp",
+    "w": 556,
+    "h": 284
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Solusi dapat diperoleh dengan mudah dengan menganggap posisi target sebagai awal dan melakukan backtracking. Strategi “brute force” dengan mencoba satu per satu juga dapat menghasilkan solusi, yang biasanya dipakai dengan memanfaatkan kecepatan komputer (secara manual akan lama)"
+   }
+  ],
+  "credit": "Authorship\n• Nik Ahmad Faris Bin Nik Norhisham (MY), faris@ardentedu.com\n• Ezra Templonuevo (Philippines), ejtemplonuevo@gmail.com,\n• Aliaksei Tolstsikau (Belarus), tolstikov@bsu.by\n• Susanne Datzko, Switzerland, susanne@datzko.ch\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: http://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-06-asli-1.webp",
+    "w": 963,
+    "h": 756
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2019-07",
+  "number": 7,
+  "code": "2019-PK-07",
+  "year": 2019,
+  "title": "Mengenali Hewan",
+  "country": "PK",
+  "pages": [
+   24,
+   25
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Raja Bebras ingin mendapatkan informasi tentang semua hewan penghuni hutan kekuasaannya. Untuk itu, ia mengundang semua penghuni hutan untuk datang ke istana. Sang Raja membeli sebuah mesin pengenal hewan, yang bekerja berdasarkan wajah. Mesin tersebut bekerja mengenali wajah berdasarkan aturan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-07-1.webp",
+    "w": 870,
+    "h": 137
+   },
+   {
+    "type": "p",
+    "text": "*Catatan:"
+   },
+   {
+    "type": "p",
+    "text": "(1) lebar kumis diukur dengan menambahkan bagian kiri dan bagian kanan. (2) semua ukuran adalah lebar maksimum dan tinggi maksimum."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Hewan yang harus diidentifikasi adalah sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-07-2.webp",
+    "w": 310,
+    "h": 301
+   },
+   {
+    "type": "p",
+    "text": "Pilihlah salah satu dari 4 hewan yang dituliskan pada tabel di atas."
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Kelinci"
+   },
+   {
+    "label": "B",
+    "text": "Berang-berang"
+   },
+   {
+    "label": "C",
+    "text": "Beruang"
+   },
+   {
+    "label": "D",
+    "text": "Kucing"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang tepat adalah c) Beruang. Gambar tersebut memiliki karakteristik Beruang, yang dikenali oleh mesin karena: → lebar kepala sama dengan tinggi kepala → panjang kumis adalah setengah dari lebar kepala → telinga adalah seperempat dari tinggi kepala Tidak satu pun dari tiga hewan lainnya yang memiliki semua karakteristik ini secara bersamaan.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah c) Beruang."
+   },
+   {
+    "type": "p",
+    "text": "Gambar tersebut memiliki karakteristik Beruang, yang dikenali oleh mesin karena:"
+   },
+   {
+    "type": "p",
+    "text": "→ lebar kepala sama dengan tinggi kepala → panjang kumis adalah setengah dari lebar kepala → telinga adalah seperempat dari tinggi kepala Tidak satu pun dari tiga hewan lainnya yang memiliki semua karakteristik ini secara bersamaan."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ini adalah aplikasi khas Machine Learning yang merupakan domain Kecerdasan Buatan untuk mengenali gambar. Machine Learning adalah bidang yang sangat penting dalam Ilmu Komputer, mengingat banyaknya aplikasi yang sedang dikembangkan karena kemajuan dalam daya komputasi. Contoh dari aplikasi yang sangat populer saat ini adalah Autonomous Driving, di mana algoritma Machine Learning dilatih untuk mengenali garis dan tanda di sepanjang jalan serta semua benda yang mungkin ditemui oleh mobil. Dalam tugas Bebras ini, kami memiliki mesin yang sudah terlatih untuk mengklasifikasikan berbagai jenis hewan dan kami ingin siswa menerapkan algoritma klasifikasi dasar yang dilakukan oleh algoritma Machine Learning tersebut."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Machine_learning https://en.wikipedia.org/wiki/Self-driving_car"
+   }
+  ],
+  "credit": "Authorship\n• 2019-04-09 Marios Omar Choudary (Pakistan), marios.choudary@gmail.com\nTask Proposal and graphics.\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-07-asli-1.webp",
+    "w": 963,
+    "h": 978
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2019-08",
+  "number": 8,
+  "code": "2019-SI-02",
+  "year": 2019,
+  "title": "Alergi Kayu",
+  "country": "SI",
+  "pages": [
+   26,
+   27,
+   28
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Tahukah anda, bahwa ternyata para berang-berang gemar makan kayu. Tapi untuk beberapa berang-berang, makan beberapa tipe kayu tertentu akan menyebabkan sakit. Ana si berang-berang ingin memasak makanan untuk pesta, dan tidak ingin dirinya dan teman-teman yang diundangnya akan sakit. Setiap masakan disiapkan dari satu macam kayu, dan berang-berang dengan senang hati akan berbagi satu jenis masakan yang sama dengan berang-berang lainnya asalkan tidak menyebabkan sakit."
+   },
+   {
+    "type": "p",
+    "text": "Ana mempunyai daftar bebras dan kayu yang dapat dimakan tanpa menyebabkan sakit sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-08-1.webp",
+    "w": 885,
+    "h": 324
+   },
+   {
+    "type": "p",
+    "text": "Anna tak ingin menghidangkan 6 macam masakan dengan 6 macam kayu tersebut."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa jumlah minimum masakan yang dapat dihidangkan oleh Anna shingga tak ada satupun berang-berang akan sakit?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "1"
+   },
+   {
+    "label": "B",
+    "text": "2"
+   },
+   {
+    "label": "C",
+    "text": "3"
+   },
+   {
+    "label": "D",
+    "text": "4"
+   },
+   {
+    "label": "E",
+    "text": "5"
+   },
+   {
+    "label": "F",
+    "text": "6"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang tepat adalah c) 3. Ann pasti harus membuat hidangan dari oak untuk Cecil. Hal ini juga membuat Ann, Benjamin, dan Fred senang. Tidak ada hidangan yang dapat dinikmati bersama oleh tiga berang-berang yang tersisa, sehingga Ann harus menyiapkan minimal dua hidangan lagi. Ann dapat membuat ash dan maple, poplar dan birch, atau maple dan birch.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah c) 3."
+   },
+   {
+    "type": "p",
+    "text": "Ann pasti harus membuat hidangan dari oak untuk Cecil. Hal ini juga membuat Ann, Benjamin, dan Fred senang. Tidak ada hidangan yang dapat dinikmati bersama oleh tiga berang-berang yang tersisa, sehingga Ann harus menyiapkan minimal dua hidangan lagi. Ann dapat membuat ash dan maple, poplar dan birch, atau maple dan birch."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Soal ini adalah contoh klasik dari sebuah bipartite graph (https://en.wikipedia.org/wiki/Bipartite_graph)"
+   },
+   {
+    "type": "p",
+    "text": "Di sini partisi pertama berisi set dari berang-berang dan partisi kedua adalah jenis kayu"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-08-2.webp",
+    "w": 419,
+    "h": 320
+   },
+   {
+    "type": "p",
+    "text": "Persoalan ini juga dikenal sebagai persoalan optimasi jalur kereta, dimana masukan adalah jadwal dari kereta dan perhentiannya, dan tujuan persoalan adalah menemukan set stasiun kereta paling optimal sehingga setiap kereta paling tidak mengunjungi satu dari stasiun kereta yang dipilih."
+   },
+   {
+    "type": "p",
+    "text": "Persoalan ini juga dikenal sebagai Dominating Set Cover Problem. Bayangkan terdapat enam set objek yang merepresentasikan hidangan yang berbeda. Setiap set berisi berang-berang yang menyukai hidangan tersebut. Tugas yang dilakukan adalah memilih jumlah set hidangan terkecil dimana gabungan dari set-set tersebut (semua berang-berang yang menyukai hidangan tertentu) mengandung semua elemen (semua berang-berang). Dengan kata lain, tugas yang harus dilakukan adalah mencari kombinasi set dengan jumlah terkecil yang dapat mencakup semua elemen."
+   },
+   {
+    "type": "p",
+    "text": "Seperti halnya kita mengekspresikan tugas mengenai berang-berang dan hidangan dalam bentuk set, banyak tugas atau persoalan lain yang dapat diterjemahkan dengan cara yang sama atau menyerupai set."
+   },
+   {
+    "type": "p",
+    "text": "Persoalan Set cover dikenal menjadi salah satu dari persoalan yang paling sukar dalam ilmu komputer. Kita tidak dapat mengetahui secara pasti algoritma yang efisien untuk memecahkan persoalan tersebut. Satu-satunya solusi umum yang dapat diterapkan adalah dengan mencoba segala kemungkinan--bahkan dengan jumlah set yang kecil dapat memiliki jumlah yang sangat besar untuk semua kombinasi set yang memungkinkan, dimana dengan 240 hidangan dapat memberikan jumlah kombinasi set yang sekiranya sama dengan jumlah atom di seluruh jagat raya."
+   },
+   {
+    "type": "p",
+    "text": "Lalu mengapa kita dapat memecahkan persoalan ini? Pertama, jumlah set relatif kecil. Kedua, hal ini dipermudah karena Cecil memiliki opsi yang terbatas. Akhirnya kita menggunakan logika sederhana yang dapat bekerja pada data ini secara spesifik, namun tidak selalu dapat membantu kita pada persoalan yang lainnya."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Set_cover_problem"
+   }
+  ],
+  "credit": "Authorship\n• 2019-04-09 Janez Demšar (Slovania), janez.demsar@fri.uni-lj.si:\nTask Proposal\n• In the Bebras Workshop 2019:\n• 2019-05-15 Graeme Buckie (Australia), graeme.buckie@csiro.au, Rostyslav Shpakovych\n(Ukraine), rshpakovych@gmail.com, Javier Bilbao (Spain), javier.bilbao@ehu.eus\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-08-asli-1.webp",
+    "w": 963,
+    "h": 969
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2019-09",
+  "number": 9,
+  "code": "2019-VN-05",
+  "year": 2019,
+  "title": "Jembatan dan Pulau",
+  "country": "VN",
+  "pages": [
+   29,
+   30
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Peta berikut menunjukkan pulau-pulau yang digambar sebagai lingkaran. Untuk bepergian dari satu pulau ke pulau lainnya, bebras membutuhkan jembatan. Angka yang dituliskan pada setiap pulau menunjukkan berapa banyak jembatan yang menghubungkan ke pulau tersebut. Jembatan hanya dapat dibangun dengan arah horizontal atau vertikal. Ketika jembatan sudah dibangun, keseluruhan jembatan harus memungkinkan bebras bepergian dari satu pulau ke pulau manapun. Salah satu contoh, jika dipunyai peta seperti pada Gambar A, maka jembatan yang dibangun seperti pada Gambar B di sebelahnya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-09-1.webp",
+    "w": 698,
+    "h": 290
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa jembatan yang perlu dibangun untuk pulau-pulau sebagai berikut?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-09-2.webp",
+    "w": 361,
+    "h": 351
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "7"
+   },
+   {
+    "label": "B",
+    "text": "8"
+   },
+   {
+    "label": "C",
+    "text": "9"
+   },
+   {
+    "label": "D",
+    "text": "10"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang benar adalah b) 8. Dalam setiap sistem jembatan yang lengkap, setiap jembatan akan dihitung berdasarkan dua pulau yang dihubungkan. Maka untuk melengkapi peta tersebut, jumlah jembatan seharusnya setengah dari total angka pada peta, dimana (2+3+2+1+1+2+2+2+1)/2=8. Untuk melengkapi jawaban maka harus ditunjukkan bahwa sistem jembatan yang lengkap dapat dibuat pada peta yang diberikan.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah b) 8."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-09-3.webp",
+    "w": 354,
+    "h": 341
+   },
+   {
+    "type": "p",
+    "text": "Dalam setiap sistem jembatan yang lengkap, setiap jembatan akan dihitung berdasarkan dua pulau yang dihubungkan. Maka untuk melengkapi peta tersebut, jumlah jembatan seharusnya setengah dari total angka pada peta, dimana (2+3+2+1+1+2+2+2+1)/2=8. Untuk melengkapi jawaban maka harus ditunjukkan bahwa sistem jembatan yang lengkap dapat dibuat pada peta yang diberikan."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Pada teori graf, salah satu cabang matematika, objek direpresentasi dengan bulatan yang dinamakan simpul, dua buah simpul dihubungkan oleh garis. Derajat dari simpul adalah banyaknya garis yang menghubungkan dengannya yang pada soal di atas menyatakan jembatan penghubung antar pulau. Jumlah derajat pada sebuah graf sama dengan dua kali jumlah garis karena setiap garis penghubung mempunyai dua buah titik ujung."
+   },
+   {
+    "type": "p",
+    "text": "Ini dapat diperluas ke lemma jabat tangan yang menyatakan bahwa setiap graf tak berarah berhingga memiliki jumlah simpul genap dengan derajat ganjil (jumlah tepi yang menyentuh simpul). Dalam istilah yang lebih sehari-hari, dalam sekelompok orang yang beberapa di antaranya berjabat tangan, sejumlah orang pasti telah berjabat tangan dengan jumlah ganjil."
+   }
+  ],
+  "credit": "Authorship\n• Vu Van Luan and Le Anh Vinh, Vietnam, vuvanluanftu.k50@gmail.com,\nleanhvinh@gmail.com\n• Ezra Templonuevo (Philippines), ejtemplonuevo@gmail.com,\n• Aliaksei Tolstsikau (Belarus), tolstikov@bsu.by,\n• Susanne Datzko (Switzerland), susanne@datzko.ch\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-09-asli-1.webp",
+    "w": 963,
+    "h": 1115
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2019-10",
+  "number": 10,
+  "code": "2019-BE-02",
+  "year": 2019,
+  "title": "Dalam Bahaya",
+  "country": "BE",
+  "pages": [
+   31,
+   32
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bebras harus menaruh 13 buah bola dalam sebuah wadah berbentuk segitiga, seperti ditunjukkan pada gambar. Jika kita mengangkat ujung atas wadah seperti gambar, bola akan bergulir ke bawah karena adanya celah (rongga)."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-10-1.webp",
+    "w": 518,
+    "h": 283
+   },
+   {
+    "type": "p",
+    "text": "Dikatakan bahwa bola dalam keadaan bahaya jika salah satu kondisi berikut benar:"
+   },
+   {
+    "type": "li",
+    "text": "Ada setidaknya satu celah ke kiri atau kanan tepat di bawah bola itu."
+   },
+   {
+    "type": "li",
+    "text": "Setidaknya ada satu bola yang 'dalam bahaya' ke kiri atau ke kanan tepat di bawah bola itu."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa banyak bola di kotak tersebut yang TIDAK dalam keadaan bahaya?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "5"
+   },
+   {
+    "label": "B",
+    "text": "6"
+   },
+   {
+    "label": "C",
+    "text": "7"
+   },
+   {
+    "label": "D",
+    "text": "8"
+   },
+   {
+    "label": "E",
+    "text": "9"
+   }
+  ],
+  "answer": "D",
+  "answerText": "Jawaban: Jawaban yang benar adalah d) 8. Salah satu cara untuk menemukan jawabannya adalah sebagai berikut: 1. Mulai dari baris paling bawah dan tandai semua bola pada baris tersebut. 2. Lanjut ke baris di atasnya. 3. Tandai semua bola pada baris tersebut yang mempunyai bola ditandai pada baris di bawahnya. 4. Ulangi langkah 2 dan langkah 3 until sampai semua baris diproses. 5. Pada akhir proses ini, semua bola yang ditandai adalah yang tidak dalam bahaya. Langkah tersebut diilustrasikan pada gambar di bawah. Mulai dari baris ke-4 dst, tidak ada bola yang bisa ditandai",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah d) 8."
+   },
+   {
+    "type": "p",
+    "text": "Salah satu cara untuk menemukan jawabannya adalah sebagai berikut:"
+   },
+   {
+    "type": "p",
+    "text": "1. Mulai dari baris paling bawah dan tandai semua bola pada baris tersebut."
+   },
+   {
+    "type": "p",
+    "text": "2. Lanjut ke baris di atasnya."
+   },
+   {
+    "type": "p",
+    "text": "3. Tandai semua bola pada baris tersebut yang mempunyai bola ditandai pada baris di bawahnya."
+   },
+   {
+    "type": "p",
+    "text": "4. Ulangi langkah 2 dan langkah 3 until sampai semua baris diproses."
+   },
+   {
+    "type": "p",
+    "text": "5. Pada akhir proses ini, semua bola yang ditandai adalah yang tidak dalam bahaya. Langkah tersebut diilustrasikan pada gambar di bawah. Mulai dari baris ke-4 dst, tidak ada bola yang bisa ditandai"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-10-2.webp",
+    "w": 807,
+    "h": 230
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ada dua kondisi yang mengindikasikan bola 'dalam bahaya'. Yang pertama bisa dicek langsung. Untuk yang kedua, kita perlu tahu apakah bola pada baris dibawahnya 'dalam bahaya'. Meskipun kelihatannya seperti definisi “melingkar” (sirkular), kita bisa mulai dari baris paling bawah. Bola-bola pada baris terbawah tidak memiliki baris di bawahnya, sehingga dapat disimpulkan bahwa semuanya tidak dalam bahaya. Setelah semua bola pada baris paling bawah ditandai, kita dapat memberi label pada baris di atasnya. Dengan cara ini, secara sistematis, pada setiap baris, setiap bola diberi label mulai dari bawah ke atas."
+   },
+   {
+    "type": "p",
+    "text": "Teknik yang digunakan dalam soal ini disebut rekursi. Biasanya, rekursi menggunakan konsep yang dideskripsikan dengan menggunakan deskripsinya sendiri: untuk menjelaskan apa artinya 'dalam bahaya' kita sudah menggunakan kata 'dalam bahaya' dalam penjelasan - seolah-olah kita sudah tahu apa artinya."
+   },
+   {
+    "type": "p",
+    "text": "Contoh lain dari definisi rekursif: jika saya meminta Anda untuk menjelaskan siapa leluhur Anda, Anda dapat menjawab 'ibu saya, ayah saya, nenek saya, nenek saya yang lain dan dua kakek saya, dan juga kakek buyut saya dan kakek buyut saya, dan seterusnya …'. Komputer memiliki kesulitan memahami 'dan seterusnya…' sebab tidak jelas. Maka programmer akan menggunakan definisi rekursif, sebagai berikut: Nenek moyang Anda adalah: orang tua Anda dan nenek moyang mereka. Bagi Anda ini mungkin deskripsi ini aneh, tetapi bagi komputer ini menjadi sangat jelas."
+   }
+  ],
+  "credit": "Authorship\n• 2019-03-22 Kris Coolsaet (BE) kris.coolsaet@ugent.be\nLicense\nCopyright © 2019 Bebras – International Challenge on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-10-asli-1.webp",
+    "w": 963,
+    "h": 794
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2019-11",
+  "number": 11,
+  "code": "2019-CA-01",
+  "year": 2019,
+  "title": "Menara Spesial",
+  "country": "CA",
+  "pages": [
+   33,
+   34
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Lihatlah sederetan menara sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-11-1.webp",
+    "w": 338,
+    "h": 207
+   },
+   {
+    "type": "p",
+    "text": "Sebuah menara dinyatakan spesial jika semua menara di kirinya lebih pendek, dan semua menara di kanannya lebih tinggi."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Ada berapa menara spesial pada gambar tersebut?"
+   }
+  ],
+  "options": [],
+  "answer": "3",
+  "answerText": "Jawaban: Jawaban yang tepat adalah 3. Sebuah menara adalah istimewa jika: semua ujung menara di sebelah kiri berada dalam persegi panjang berwarna (lihat gambar 1); dan jika semua ujung menara di kanan berada di luar persegi panjang berwarna (lihat gambar 2). Seperti yang ditunjukkan untuk menara kedelapan pada contoh di bawah ini. Salah satu cara yang mungkin untuk menemukan solusinya adalah bergerak melalui semua menara, satu per satu, dan menandai sebuah menara jika semua di sebelah kiri lebih pendek (lihat gambar 3). Kemudian buat lintasan kedua yang serupa, tandai menara jika semua ke kanan lebih tinggi (lihat gambar 4). Semua menara yang ditandai dua kali (<,>) adalah menara khusus (*).",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah 3."
+   },
+   {
+    "type": "p",
+    "text": "Sebuah menara adalah istimewa jika: semua ujung menara di sebelah kiri berada dalam persegi panjang berwarna (lihat gambar 1); dan jika semua ujung menara di kanan berada di luar persegi panjang berwarna (lihat gambar 2). Seperti yang ditunjukkan untuk menara kedelapan pada contoh di bawah ini."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-11-2.webp",
+    "w": 321,
+    "h": 224
+   },
+   {
+    "type": "p",
+    "text": "Salah satu cara yang mungkin untuk menemukan solusinya adalah bergerak melalui semua menara, satu per satu, dan menandai sebuah menara jika semua di sebelah kiri lebih pendek (lihat gambar 3). Kemudian buat lintasan kedua yang serupa, tandai menara jika semua ke kanan lebih tinggi (lihat gambar 4)."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-11-3.webp",
+    "w": 628,
+    "h": 226
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-11-4.webp",
+    "w": 286,
+    "h": 199
+   },
+   {
+    "type": "p",
+    "text": "Semua menara yang ditandai dua kali (<,>) adalah menara khusus (*)."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Tugas ini berfokus pada urutan menara berdasarkan ketinggiannya. Secara umum, menempatkan benda ke dalam urutan disebut penyortiran yang merupakan salah satu masalah yang paling terkenal dan dipelajari dalam ilmu komputer. Ada banyak algoritma penyortiran yang berbeda."
+   },
+   {
+    "type": "p",
+    "text": "Algoritma quicksort adalah salah satu metode penyortiran yang paling terkenal dan sering digunakan karena rata-rata cenderung sangat cepat seperti yang ditunjukkan oleh namanya!"
+   },
+   {
+    "type": "p",
+    "text": "Algoritma quicksort bekerja sebagai berikut:"
+   },
+   {
+    "type": "p",
+    "text": "Elemen acak dari daftar dipilih. Elemen ini disebut \"pivot\". Semua elemen yang lebih kecil dari pivot dipindahkan ke sisi kiri pivot dan semua elemen yang lebih besar dari pivot dipindahkan ke sisi kanan pivot."
+   },
+   {
+    "type": "p",
+    "text": "Sekarang ada dua daftar yang dihasilkan, satu ke kiri dan satu ke kanan dan proses yang sama diulang untuk keduanya secara rekursif. Setelah setiap langkah proses, daftar yang dihasilkan menjadi lebih kecil dan lebih kecil. Proses ini berakhir jika daftar yang dihasilkan hanya berisi 1 elemen, yang berarti bahwa seluruh daftar kemudian disortir. (Animasi quicksort)"
+   },
+   {
+    "type": "p",
+    "text": "Dalam tugas kami, menara khusus mewakili pivot setelah memindahkan elemen yang lebih kecil ke kiri dan elemen yang lebih besar ke kanan."
+   }
+  ],
+  "credit": "Authorship\n• 2019-03-13 J.P. Pretti (Canada), jpretti@uwaterloo.ca: Task Proposal\n• 2019-05-15 Martina Palazzolo, martina.palazzolo.5@gmail.com, Bebras Workshop\n• 2019-05-15 Allira Crowe (Australia), allira.crowe@csiro.au\n• 2019-05-15 Wilfried Baumann, baumann@ocg.at, Bebras Workshop\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-11-asli-1.webp",
+    "w": 963,
+    "h": 433
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2019-12",
+  "number": 12,
+  "code": "2019-IN-03",
+  "year": 2019,
+  "title": "Penjadwalan Penerbangan",
+  "country": "IN",
+  "pages": [
+   35,
+   36,
+   37,
+   38
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-12-1.webp",
+    "w": 502,
+    "h": 336
+   },
+   {
+    "type": "p",
+    "text": "Saat sebuah pesawat mendarat di bandara, pendaratan harus dilakukan di sebuah jalur khusus untuk menghindari tabrakan. Dua pesawat hanya boleh mendarat di jalur pendaratan jika selisih waktu kedatangannya berselisih 15 menit."
+   },
+   {
+    "type": "p",
+    "text": "Misalnya Jika Penerbangan#1 mendarat pada Pukul 6:10 pagi, Penerbangan #2 mendarat pada Pukul 6:25 pagi and Penerbangan#3 mendarat pada 6:26 pagi, maka Penerbangan #1 dan Penerbangan#2 tidak dapat dijadwal untuk mendarat pada jalur pendaratan yang sama. Sedangkan Penerbangan#3 dan Penerbangan#1 dapat mendarat pada jalur yang sama, tapi tak boleh sama dengan jalur pendaratan Penerbangan#2."
+   },
+   {
+    "type": "p",
+    "text": "Anda adalah pengatur pendaratan pesawat hari ini, dan jadwal pendaratan diberikan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-12-2.webp",
+    "w": 439,
+    "h": 230
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa jumlah minimum jalur pendaratan yang dibutuhkan agar semua pesawat dapat mendarat sesuai jamnya?"
+   },
+   {
+    "type": "p",
+    "text": "Jawab dengan bilangan bulat antara 0 s.d 8."
+   }
+  ],
+  "options": [],
+  "answer": "4",
+  "answerText": "Jawaban yang tepat adalah: 4. Mari kita urutkan nomor penerbangan dalam urutan menaik berdasarkan waktu pendaratan. Penerbangan pertama yaitu 9W2400 mendarat pukul 7:00 sehingga kita tempatkan pada koridor 1. Dua penerbangan selanjutnya yaitu EK427 dan SG147 masih dalam rentang waktu 15 menit dari penerbangan pertama dan penerbangan ketiga masih dalam rentang waktu 15 menit dari penerbangan kedua, sehingga secara jelas ketiga penerbangan tersebut harus ditempatkan pada koridor yang terpisah. Sejauh ini kita membutuhkan tiga koridor. Untuk setiap penerbangan berikutnya, kita mencoba untuk menempatkan pada koridor yang sudah ada, jika memungkinkan. Penerbangan keempat AI620 mendarat pukul 7:18 dimana waktunya lebih dari 15 menit sejak penerbangan pertama 9W2400 sehingga dapat kita tempatkan pada koridor yang sama dengan penerbangan 9W2400. Penerbangan kelima AI561 tidak bisa ditempatkan pada koridor 1 karena masih dalam rentang waktu 15 menit dari AI620, namun dapat ditempatkan pada koridor 2 karena lebih dari 15 menit dari EK427. Penerbangan keenam 9W1321 mendarat pukul 7:21 sehingga kurang dari 15 menit dari penerbangan SG147 (7:12), AI620 (7:18), dan AI561 (7:20) yang sudah ditempatkan pada 3 koridor. Sehingga kita perlu menambahkan koridor baru untuk penerbangan ini. Berikut adalah penempatan penerbangan pada koridor-koridor bandara: Corridor 1: 9W2400 (7:00), AI620 (7:18) Corridor 2: EK427 (7:03), AI561 (7:20) Corridor 3: SG147 (7:12) Corridor 4: 9W1321 (7:21) Kita dapat menempatkan lebih dari 4 koridor, kurang dari 4 koridor maka dapat terjadi kecelakaan.",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah: 4."
+   },
+   {
+    "type": "p",
+    "text": "Mari kita urutkan nomor penerbangan dalam urutan menaik berdasarkan waktu pendaratan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-12-3.webp",
+    "w": 233,
+    "h": 80
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-12-4.webp",
+    "w": 234,
+    "h": 81
+   },
+   {
+    "type": "p",
+    "text": "Penerbangan pertama yaitu 9W2400 mendarat pukul 7:00 sehingga kita tempatkan pada koridor 1. Dua penerbangan selanjutnya yaitu EK427 dan SG147 masih dalam rentang waktu 15 menit dari penerbangan pertama dan penerbangan ketiga masih dalam rentang waktu 15 menit dari penerbangan kedua, sehingga secara jelas ketiga penerbangan tersebut harus ditempatkan pada koridor yang terpisah. Sejauh ini kita membutuhkan tiga koridor."
+   },
+   {
+    "type": "p",
+    "text": "Untuk setiap penerbangan berikutnya, kita mencoba untuk menempatkan pada koridor yang sudah ada, jika memungkinkan. Penerbangan keempat AI620 mendarat pukul 7:18 dimana waktunya lebih dari 15 menit sejak penerbangan pertama 9W2400 sehingga dapat kita tempatkan pada koridor yang sama dengan penerbangan 9W2400. Penerbangan kelima AI561 tidak bisa ditempatkan pada koridor 1 karena masih dalam rentang waktu 15 menit dari AI620, namun dapat ditempatkan pada koridor 2 karena lebih dari 15 menit dari EK427."
+   },
+   {
+    "type": "p",
+    "text": "Penerbangan keenam 9W1321 mendarat pukul 7:21 sehingga kurang dari 15 menit dari penerbangan SG147 (7:12), AI620 (7:18), dan AI561 (7:20) yang sudah ditempatkan pada 3 koridor. Sehingga kita perlu menambahkan koridor baru untuk penerbangan ini."
+   },
+   {
+    "type": "p",
+    "text": "Berikut adalah penempatan penerbangan pada koridor-koridor bandara:"
+   },
+   {
+    "type": "p",
+    "text": "Corridor 1: 9W2400 (7:00), AI620 (7:18)"
+   },
+   {
+    "type": "p",
+    "text": "Corridor 2: EK427 (7:03), AI561 (7:20)"
+   },
+   {
+    "type": "p",
+    "text": "Corridor 3: SG147 (7:12)"
+   },
+   {
+    "type": "p",
+    "text": "Corridor 4: 9W1321 (7:21)"
+   },
+   {
+    "type": "p",
+    "text": "Kita dapat menempatkan lebih dari 4 koridor, kurang dari 4 koridor maka dapat terjadi kecelakaan."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Dalam persoalan di atas, Anda memiliki konflik (dua pesawat tidak bisa ditempatkan pada koridor yang sama jika harus mendarat dalam rentang waktu 15 menit satu sama lain) dan sumber daya (koridor) dan Anda harus menempatkan sumber daya untuk mengatasi konflik. Ada banyak persoalan dengan jenis ini. Contohnya, ketika Anda harus menentukan berapa banyak meja yang dibutuhkan dalam pesta pernikahan sehingga Anda dapat menempatkan tamu sedemikian rupa sehingga tidak ada tamu bermusuhan yang ditempatkan pada meja yang sama)."
+   },
+   {
+    "type": "p",
+    "text": "Ketika persoalan Anda memiliki banyak objek (pesawat terbang, tamu undangan, dll.), Anda ingin memecahkan persoalan dengan cepat. Informatika memiliki pendekatan khusus yang dikembangkan untuk memecahkan persoalan tersebut. Salah satunya adalah dengan menggunakan graf sebagai representasi. Sebuah graf memiliki simpul dan jalur yang menghubungkan simpul. Dalam kasus ini simpul melambangkan objek (penerbangan) dan jalur adalah konflik: jika dua objek berkonflik satu sama lain, maka simpul objek tersebut dihubungkan oleh sebuah jalur. Persoalan tersebut dapat dianggap sebagai persoalan pewarnaan graf: berapa jumlah minimum warna yang dibutuhkan untuk mewarnai setiap simpul pada graf dengan cara tertentu sehingga tidak ada simpul dengan warna yang sama terhubung dengan sebuah jalur."
+   },
+   {
+    "type": "p",
+    "text": "Ketika diterapkan pada persoalan penjadwalan pesawat terbang, setiap warna akan merepresentasikan koridor. Pewarnaan graf menerapkan penjadwalan pesawat pada rute penerbangan, alokasi bandwidth pada stasiun radio, pencocokan pola, penjadwalan olahraga, desain rencana penempatan kursi, penjadwalan ujian, penjadwalan taksi, dan bahkan pemecahan puzzle sudoku."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Graph_coloring"
+   },
+   {
+    "type": "p",
+    "text": "Ada banyak kemungkinan cara untuk menyelesaikan permasalahan ini, perbedaannya terletak pada struktur data (bagaimana kita merepresentasikan data) dan waktu yang kita butuhkan untuk sampai pada solusi. Salah satu metodenya adalah menggunakan algoritma greedy. Kata 'greedy' memiliki arti kita mencoba untuk menyortir semua objek dengan urutan menurun berdasarkan nilai yang kita berikan dengan penalaran. Pada kasus ini kita menggunakan waktu pendaratan sebagai nilai acuan (semakin awal pesawat mendarat, semakin tinggi nilainya). Algoritma greedy tidak selalu memberikan kita jawaban yang tepat, namun kebanyakan memberikan kita solusi yang sesuai."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Greedy_algorithm Berikut adalah solusi menggunakan algoritma greedy dengan pewarnaan graf."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-12-5.webp",
+    "w": 714,
+    "h": 285
+   },
+   {
+    "type": "p",
+    "text": "Masing-masing penerbangan memiliki relasi bahwa mereka berjarak 15 menit satu sama lain. Kita mulai dengan penerbangan 9W2400. Kita menghubungkan penerbangan tersebut dengan semua penerbangan yang berelasi, seperti penerbangan EK427 dan SG147 yang berjarak kurang dari 15 menit. Kita mengulanginya pada setiap penerbangan dengan membuat hubungan dengan penerbangan lain yang masih dalam rentang waktu 15 menit, jika sebuah koneksi belum dibuat. Mari kita tempatkan koridor penerbangan, katakanlah warna merah, kepada penerbangan yang belum terhubung. 9W2400 ditempatkan pada koridor penerbangan 1 karena paling awal akan mendarat. Tidak semua penerbangan mendapatkan koridor penerbangan yang sama (warna merah). Koridor penerbangan berikutnya adalah koridor dua disimbolkan dengan warna hijau. Warna hijau diberikan ke EK427 dan penerbangan apapun yang tidak terhubung yaitu AI561. 9W1321 tidak bisa diberi warna hijau karena terhubung dengan AI561. Penempatan berikutnya koridor penerbangan ketiga (warna kuning) diberikan ke SG147 dan koridor penerbangan keempat (biru) ke 9W1321. Menjadi hal yang jelas bahwa kita membutuhkan tidak lebih dari empat koridor untuk persoalan di atas untuk memastikan semua penerbangan dapat mendarat dengan selamat."
+   }
+  ],
+  "credit": "Authorship\n• 2019-02-14 Vipul Shah (India), v.shah@tcs.com\n• 2019-02-14 Yogananda Jeppu (India), yvjeppu@gmail.com\nTask Proposal\nContributors:\n• 2019-05-14 Špela Cerar (Slovania), Ilya Kaysin (Russia): changed flight table (only list of\nflights, no arrivals or departures), made corrections to the task text, cleared explanation of\nsolution\n• 2019-05-15: Arnheidur Gudmundsdottir (Iceland), arnheidur@sky.is and Margot Phillipps\n(New Zealand), margot.phillipps@gmail.com . Made changes to the text in the problem\nstatement. Added Air traffic Controller to the wording section.\n• 2019-05-16: Alisher Ikramov (Uzbekistan), ikramov.alisher@list.ru; Humberto Sermeño (SV),\nhumberto.sermeno@jovenestalento.edu.sv: made corrections to the task text, additions to\nthe It’s informatics section, added keyword.\n• 2019-05-16: Margot Phillipps (New Zealand), margot.phillipps@gmail.com: changed age\ngroup difficulties, text corrections\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-12-asli-1.webp",
+    "w": 963,
+    "h": 1091
+   }
+  ],
+  "figureCount": 5,
+  "flags": []
+ },
+ {
+  "id": "2019-13",
+  "number": 13,
+  "code": "2019-LT-02",
+  "year": 2019,
+  "title": "Jalan Pulang Berang-Berang",
+  "country": "LT",
+  "pages": [
+   39,
+   40,
+   41
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Para berang-berang ingin agar masing-masing mempunyai jalan pulang. Misalnya untuk kasus ini, ada 3 jalur yang berbeda, sehingga hanya 3 berang-berang yang dapat hidup pada sungai tersebut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-13-1.webp",
+    "w": 286,
+    "h": 186
+   },
+   {
+    "type": "p",
+    "text": "Ada sepasang berang-berang yang hidup di sisi sungai seperti ditunjukkan dalam gambar. Mereka ingin menambahkan anggota keluarga."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-13-2.webp",
+    "w": 369,
+    "h": 208
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa tambahan anggota keluarga maksimum yang dapat ditampung agar setiap bebras tetap mempunyai satu jalur jalan pulang?"
+   }
+  ],
+  "options": [],
+  "answer": "5",
+  "answerText": "Jawaban: 5. Ada 7 jalur berbeda yang mengarah ke rumah mereka, 2 di antaranya diperuntukkan bagi orang tua. Kita dapat menghitung jalur ini dengan dua cara berbeda. Salah satu caranya adalah dengan mencari semua jalur dalam gambar dan menggambarnya dalam berbagai warna: Cara kedua adalah dengan menggunakan metode pemrograman dinamis. Kita mencari semua persimpangan dalam gambar. Kita menghitung berapa banyak jalur yang mengarah ke setiap persimpangan dan menuliskan angka yang sesuai di sana. Untuk melakukannya, kita pergi dari kiri ke kanan dan meringkas angka-angka pada persimpangan yang terhubung langsung ke persimpangan ini dengan panah masuk. Dalam hal ini, kita mulai dengan meletakkan 1 ke persimpangan awal (merah), karena hanya ada satu jalur dari posisi awal berang-berang. Kemudian kita menghitung angka untuk persimpangan kuning - mereka juga sama dengan 1, karena satu-satunya persimpangan yang mungkin sebelumnya adalah yang merah. Setelah itu kita menghitung persimpangan hijau: misalnya, untuk mendapatkan hijau 2 kita meringkas merah 1 dan kuning 1. Selanjutnya kita menghitung persimpangan biru, dan kemudian persimpangan akhir: kita mendapatkan 7 dengan menjumlahkan 2, 4 dan 1 dari persimpangan sebelumnya.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "5."
+   },
+   {
+    "type": "p",
+    "text": "Ada 7 jalur berbeda yang mengarah ke rumah mereka, 2 di antaranya diperuntukkan bagi orang tua. Kita dapat menghitung jalur ini dengan dua cara berbeda."
+   },
+   {
+    "type": "p",
+    "text": "Salah satu caranya adalah dengan mencari semua jalur dalam gambar dan menggambarnya dalam berbagai warna:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-13-3.webp",
+    "w": 374,
+    "h": 269
+   },
+   {
+    "type": "p",
+    "text": "Cara kedua adalah dengan menggunakan metode pemrograman dinamis. Kita mencari semua persimpangan dalam gambar. Kita menghitung berapa banyak jalur yang mengarah ke setiap persimpangan dan menuliskan angka yang sesuai di sana. Untuk melakukannya, kita pergi dari kiri ke kanan dan meringkas angka-angka pada persimpangan yang terhubung langsung ke persimpangan ini dengan panah masuk."
+   },
+   {
+    "type": "p",
+    "text": "Dalam hal ini, kita mulai dengan meletakkan 1 ke persimpangan awal (merah), karena hanya ada satu jalur dari posisi awal berang-berang. Kemudian kita menghitung angka untuk persimpangan kuning -mereka juga sama dengan 1, karena satu-satunya persimpangan yang mungkin sebelumnya adalah yang merah. Setelah itu kita menghitung persimpangan hijau: misalnya, untuk mendapatkan hijau 2 kita meringkas merah 1 dan kuning 1. Selanjutnya kita menghitung persimpangan biru, dan kemudian persimpangan akhir: kita mendapatkan 7 dengan menjumlahkan 2, 4 dan 1 dari persimpangan sebelumnya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-13-4.webp",
+    "w": 487,
+    "h": 277
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Tugas yang berbeda memerlukan representasi data yang berbeda. Salah satu caranya adalah dengan menggunakan grafik. Sistem air dalam gambar dapat direpresentasikan sebagai grafik berarah. Tepi mewakili bagian sungai dan node mewakili persimpangan. Grafik untuk tugas kami terlihat seperti ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-13-5.webp",
+    "w": 651,
+    "h": 208
+   },
+   {
+    "type": "p",
+    "text": "Graf berarah adalah struktur data yang dapat membantu kita untuk menentukan apakah kita dapat berpindah dari satu node ke node lainnya. Kita dapat menulis ukuran panjang dari setiap bagian sungai ke tepi yang sesuai dan mendapatkan graf berbobot. Kita menggunakan graf berbobot ini untuk menemukan jalur optimal antara posisi awal dan akhir."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Graph"
+   },
+   {
+    "type": "p",
+    "text": "Pendekatan sistematis di mana kita membangun solusi langkah demi langkah menggunakan langkah sebelumnya disebut pemrograman dinamis. Pendekatan ini banyak digunakan untuk menyelesaikan banyak masalah modern. Kita dapat menerapkan pemrograman dinamis hanya dalam kasus di mana setiap langkah selanjutnya hanya bergantung pada situasi saat ini dan bukan pada cara kita mencapainya."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Dynamic_programming"
+   }
+  ],
+  "credit": "Authorship\n• 2018-02-28 Valentina Dagienė, Lithuania: valentina.dagiene@mii.vu.lt;\nGabrielė Stupurienė, Lithuania: gabriele.stupuriene@mii.vu.lt\nContribution:\n• 2019-05-15 Ilya Kaysin (Russia) ilya.s.kaysin@gmail.com, and Špela Cerar (Slovania),\nspela.cerar@pef.uni-lj.si:\nChanged explanation, It’s Informatics section and question to make it more clear. Changed\nand made additional graphics for the task\n• 2019-05-16: Alisher Ikramov (Uzbekistan), ikramov.alisher@list.ru; Humberto Sermeño (SV),\nhumberto.sermeno@jovenestalento.edu.sv:\nrewrote the task text, revised, additions to the “It’s informatics” section.\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-13-asli-1.webp",
+    "w": 963,
+    "h": 712
+   }
+  ],
+  "figureCount": 5,
+  "flags": []
+ },
+ {
+  "id": "2019-14",
+  "number": 14,
+  "code": "2019-LT-06",
+  "year": 2019,
+  "title": "Semut di Sarang",
+  "country": "LT",
+  "pages": [
+   42,
+   43
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "10 semut sedang berada di lokasi A dan mencoba untuk menuju ke F. Hanya 1 semut dapat lewat batang kayu setiap saat. Untuk pergi dari satu lokasi menuju lokasi lainnya dibutuhkan 1 menit."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-14-1.webp",
+    "w": 390,
+    "h": 308
+   },
+   {
+    "type": "p",
+    "text": "Tantangan: Berapa banyak semut dapat mencapai F dalam waktu 3 menit?"
+   },
+   {
+    "type": "p",
+    "text": "Jawab dengan bilangan bulat antara 0 s.d 10."
+   }
+  ],
+  "options": [],
+  "answer": "7",
+  "answerText": "Jawaban: Jawaban yang tepat adalah 7. Situasi yang mungkin terjadi setelah setiap menit disajikan pada gambar di bawah.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah 7."
+   },
+   {
+    "type": "p",
+    "text": "Situasi yang mungkin terjadi setelah setiap menit disajikan pada gambar di bawah."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-14-2.webp",
+    "w": 363,
+    "h": 303
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-14-3.webp",
+    "w": 364,
+    "h": 292
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-14-4.webp",
+    "w": 354,
+    "h": 301
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Tujuannya adalah optimasi alur berjalannya semut melalui jalur-jalur supaya sebanyak mungkin semut dapat sampai pada makanan dalam waktu 3 menit. Hal ini disebut sebagai persoalan optimasi."
+   },
+   {
+    "type": "p",
+    "text": "Semut-semut tidak menyadari struktur dari jalur yang mereka lewati sehingga tidak akan bisa menemukan solusi terbaik. Namun sebagai pengamat yang dapat melihat struktur jalur, dapat menemukan strategi yang optimal. Dalam persoalan ini kita berasumsi bahwa semut-semut itu memahami struktur dari jalur, sehingga mereka dapat memilih jalur yang dilewati secara spesifik."
+   },
+   {
+    "type": "p",
+    "text": "Graf adalah struktur data abstrak yang digunakan untuk memodelkan jalur dan banyak algoritma yang dapat digunakan untuk optimasi alur dalam keadaan yang spesifik. Secara alternatif tanpa menggunakan algoritma yang sudah ada, kita dapat menyatakan bahwa:"
+   },
+   {
+    "type": "p",
+    "text": "- tidak memungkinkan untuk mengirim lebih dari satu semut melalui batu D-E - tidak memungkinkan untuk mengirim lebih dari dua semut melalui batu A-B - jalur antara B-C tidak berkontribusi terhadap alur dan dapat diabaikan - faktor yang membatasi alur adalah jalur B-F dan C-F"
+   },
+   {
+    "type": "p",
+    "text": "Pada kasus tersebut, pertimbangan-pertimbangan di atas memungkinkan untuk menemukan solusi yang optimal"
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Flow_network https://en.wikipedia.org/wiki/Maximum_flow_problem https://en.wikipedia.org/wiki/Optimization_problem"
+   }
+  ],
+  "credit": "Authorship\n• Valentina Dagienė, Lithuania: valentina.dagiene@mii.vu.lt\nLicense\nCopyright © 2019 Bebras – International Contest on Informatics and Computational Thinking.\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC\nBY-SA 4.0). Visit: https://creativecommons.org/licenses/by-sa/4.0/",
+  "original": [
+   {
+    "src": "/soal/2019/2019-14-asli-1.webp",
+    "w": 963,
+    "h": 518
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2019-15",
+  "number": 15,
+  "code": "2019-CH-10",
+  "year": 2019,
+  "title": "Pesan Nenek Moyang",
+  "country": "CH",
+  "pages": [
+   44,
+   45
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Berang-berang si Pintar menemukan sebuah pohon tua yang berlubang. Ternyata, ada pesan rahasia yang diukir pada dinding lubang pohon tersebut. Ternyata, itu adalah kode yang ditulis nenek moyang saat masih hidup di celah tersebut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-1.webp",
+    "w": 542,
+    "h": 301
+   },
+   {
+    "type": "p",
+    "text": "Setelah berpikir cukup lama, ia menemukan kunci rahasianya: sebuah huruf abjad adalah kombinasi dari simbol pada judul baris dan kolomnya. Misalnya: huruf H dikode sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-2.webp",
+    "w": 724,
+    "h": 239
+   },
+   {
+    "type": "p",
+    "text": "Si Pintar menemukan pesan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-3.webp",
+    "w": 796,
+    "h": 82
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Pesan apa yang ditulis nenek moyang?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "LOVEWATER"
+   },
+   {
+    "label": "B",
+    "text": "SLEEPDAYS"
+   },
+   {
+    "label": "C",
+    "text": "LOVEMYSUN"
+   },
+   {
+    "label": "D",
+    "text": "CAREFORME"
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban: Jawaban yang benar adalah A) LOVEWATER. Pada awalnya, kita memeriksa apakah panjang dari pesan memberikan petunjuk. Namun semua solusi memiliki panjang yang sama. Dekode pada huruf pertama ditemukan simbol tersebut adalah \"L\". Hal ini memberitahu kita bahwa opsi jawaban B dan D tidak mungkin. Sehingga jawaban A dan C masih memungkinkan. adalah \"L\". Hal ini memberitahu kita bahwa opsi jawaban B dan D tidak mungkin. Sehingga jawaban A dan C masih memungkinkan. adalah \"W\". Sehingga kita perlu mengecek apakah solusi A bernilai benar. Untuk meyakinkan bahwa A adalah solusi yang tepat, kita dekode simbol lain yaitu simbol terakhir. Simbol tersebut bernilai \"R\" sehingga kita dapat yakin bahwa A adalah jawaban yang tepat.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah A) LOVEWATER."
+   },
+   {
+    "type": "p",
+    "text": "Pada awalnya, kita memeriksa apakah panjang dari pesan memberikan petunjuk. Namun semua solusi memiliki panjang yang sama."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-4.webp",
+    "w": 77,
+    "h": 87
+   },
+   {
+    "type": "p",
+    "text": "Dekode pada huruf pertama ditemukan simbol tersebut adalah \"L\". Hal ini memberitahu kita bahwa opsi jawaban B dan D tidak mungkin. Sehingga jawaban A dan C masih memungkinkan. adalah \"L\". Hal ini memberitahu kita bahwa opsi jawaban B dan D tidak mungkin. Sehingga jawaban A"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-5.webp",
+    "w": 78,
+    "h": 86
+   },
+   {
+    "type": "p",
+    "text": "dan C masih memungkinkan. adalah \"W\". Sehingga kita perlu mengecek apakah solusi A bernilai benar."
+   },
+   {
+    "type": "p",
+    "text": "Untuk meyakinkan bahwa A adalah solusi yang tepat, kita dekode simbol lain yaitu simbol terakhir."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-6.webp",
+    "w": 78,
+    "h": 86
+   },
+   {
+    "type": "p",
+    "text": "Simbol tersebut bernilai \"R\" sehingga kita dapat yakin bahwa A adalah jawaban yang tepat."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Keamanan data adalah isu besar dalam masyarakat masa kini. Salah satu metode untuk melindungi data dari orang yang tidak berwenang adalah dengan penyandian rahasia. Kriptologi dimulai pada 3500 tahun yang lalu dan salah satu metode awal yang dikembangkan adalah mengganti setiap huruf dengan huruf yang lain. Pada contoh ini, simbol baru dibuat untuk mengganti huruf alfabet, dengan cara ini seseorang dapat dengan mudah mengingat cara penyandian."
+   },
+   {
+    "type": "p",
+    "text": "Dalam persoalan ini jika tidak ada tabel yang mendeskripsikan pengkodean dan kita hanya diberikan simbol, membaca sandi simbol menjadi kata-kata akan menjadi lebih sulit. Kriptoanalis, seorang yang mencoba memecahkan kode, akan menggunakan teknik seperti analisis frekuensi dan pengenalan pola untuk menentukan pada arti dari simbol-simbol tersebut."
+   },
+   {
+    "type": "p",
+    "text": "Authors dan Contributors (termasuk Graphics)"
+   },
+   {
+    "type": "li",
+    "text": "Juraj Hromkovič, juraj.hromkovic@inf.ethz.ch, Switzerland."
+   },
+   {
+    "type": "li",
+    "text": "Regula Lacher: regula.lacher@inf.ethz.ch, Switzerland."
+   },
+   {
+    "type": "li",
+    "text": "Susanne Datzko: susanne@datzko.ch, Switzerland."
+   },
+   {
+    "type": "li",
+    "text": "Olivier Ens: olivier.ens@informatik-biber.ch, Switzerland."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2019/2019-15-7.webp",
+    "w": 232,
+    "h": 85
+   }
+  ],
+  "credit": "License\nCopyright © 2019 Bebras – International Contest on Informatics and Computer Fluency. This work is\nlicensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.\nhttp://creativecommons.org/licenses/by-nc-sa/3.0/.",
+  "original": [
+   {
+    "src": "/soal/2019/2019-15-asli-1.webp",
+    "w": 963,
+    "h": 1147
+   }
+  ],
+  "figureCount": 7,
+  "flags": []
+ }
+]

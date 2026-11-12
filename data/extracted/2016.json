@@ -1,0 +1,1193 @@
+[
+ {
+  "id": "2016-01",
+  "number": 1,
+  "code": "2016-HU-02",
+  "year": 2016,
+  "title": "Resep Rahasia",
+  "country": "HU",
+  "pages": [
+   6,
+   7
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Keluarga Berang-berang sedang mempersiapkan acara Festival Makanan, dan mereka ingin memanggang kue kering; Kati akan membuat kue. Dia sangat memperhatikan urutan membuat kue dengan memasukkan bahan kue dengan urutan yang benar."
+   },
+   {
+    "type": "p",
+    "text": "Ketika dia berjalan ke taman, dia melihat ada secarik kertas petunjuk pada setiap bahan kue yang akan digunakan. Gambar pada kertas petunjuk menjelaskan bahan kue yang harus ditambahkan pada urutan berikutnya. Hanya ada satu bahan kue yang tidak memiliki kertas. Ilustrasi taman seperti di bawah ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-01-1.webp",
+    "w": 557,
+    "h": 291
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Bahan kue manakah yang harus dimasukkan pertama kali?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-01-2.webp",
+    "w": 626,
+    "h": 105
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban Jawaban yang benar adalah B. Penjelasan Jika Kati memulai dari B maka dia akan menambahkan kelima bahan kue dengan urutan yang benar. Bahan kue pertama yang harus ditambahkan adalah yang tidak dirujuk oleh bahan lain. Jika dia memulai dari stroberi, maka dia tidak dapat melanjutkan ke tahap berikutnya karena tidak ada petunjuk bahan kue selanjutnya pada kertas. Jika dia memulai dari apel maka salah, karena bahan kue bunga merah akan terlewatkan. Jika dia memulai dari buah pohon cemara juga salah, karena bahan kue bunga merah dan apel akan terlewatkan.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah B."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Jika Kati memulai dari B maka dia akan menambahkan kelima bahan kue dengan urutan yang benar. Bahan kue pertama yang harus ditambahkan adalah yang tidak dirujuk oleh bahan lain."
+   },
+   {
+    "type": "p",
+    "text": "Jika dia memulai dari stroberi, maka dia tidak dapat melanjutkan ke tahap berikutnya karena tidak ada petunjuk bahan kue selanjutnya pada kertas. Jika dia memulai dari apel maka salah, karena bahan kue bunga merah akan terlewatkan. Jika dia memulai dari buah pohon cemara juga salah, karena bahan kue bunga merah dan apel akan terlewatkan."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Struktur data yang digunakan pada soal ini dikenal dengan linked list. Linked list adalah kumpulan data yang tersusun secara linier yang memiliki sebuah nilai dan pointer yang menunjukkan data berikutnya. Data pertama pada linked list sangat penting sekali untuk diketahui karena data tersebut akan digunakan untuk memulai penelusuran list."
+   },
+   {
+    "type": "p",
+    "text": "Soal resep kue di atas adalah contoh penggunaan linked list. Bahan kue adalah data (item) dan kertas adalah pointer yang menunjukkan bahan kue yang harus ditambahkan berikutnya. Bahan kue pertama adalah bahan kue yang tidak dirujuk oleh kertas bergambar yang lain, akan tetapi bahan kue tersebut memiliki kertas penunjuk. Item ini hanya memiliki satu petunjuk ke bahan kue selanjutnya, dan tidak memiliki petunjuk bahan kue sebelumnya."
+   },
+   {
+    "type": "p",
+    "text": "Keuntungan menggunakan linked list adalah data yang disimpan dapat memiliki tipe dan ukuran yang berbeda, seperti buah dan bunga pada soal ini."
+   },
+   {
+    "type": "p",
+    "text": "Struktur data ini dapat juga berbentuk non-linier. Linked list dapat merujuk pada data yang sama dari linked list yang berbeda dan juga dapat merujuk data lain pada linked list yang berbeda."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-01-3.webp",
+    "w": 736,
+    "h": 67
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-01-asli-1.webp",
+    "w": 756,
+    "h": 852
+   }
+  ],
+  "figureCount": 3,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2016-02",
+  "number": 2,
+  "code": "2016-JP-01",
+  "year": 2016,
+  "title": "Ramuan Ajaib",
+  "country": "JP",
+  "pages": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Taro si berang-berang menemukan lima jenis ramuan ajaib yang efeknya adalah sebagai berikut:"
+   },
+   {
+    "type": "li",
+    "text": "Ramuan pertama membuat telinga bertambah panjang"
+   },
+   {
+    "type": "li",
+    "text": "Ramuan lainnya membuat gigi bertambah panjang"
+   },
+   {
+    "type": "li",
+    "text": "Ramuan lainnya membuat kumis menjadi keriting"
+   },
+   {
+    "type": "li",
+    "text": "Ramuan lainnya membuat hidung menjadi putih"
+   },
+   {
+    "type": "li",
+    "text": "Ramuan terakhir membuat mata menjadi putih"
+   },
+   {
+    "type": "p",
+    "text": "Taro menaruh setiap macam ramuan ajaib tersebut dalam sebuah gelas, dan ada sebuah gelas yang berisi air. Keenam gelas tersebut diberi label A sampai dengan F. Malangnya, ia lupa mencatat gelas mana yang mengandung ramuan ajaib apa."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-02-1.webp",
+    "w": 261,
+    "h": 70
+   },
+   {
+    "type": "p",
+    "text": "Maka, ia mengadakan percobaan sebagai berikut untuk mengidentifikasi jenis ramuan ajaib pada setiap gelas."
+   },
+   {
+    "type": "li",
+    "text": "Percobaan 1: jika ia mengambil ramuan pada gelas A,B dan C, maka efeknya adalah pada Gambar 1"
+   },
+   {
+    "type": "li",
+    "text": "Percobaan 2: jika ia mengambil ramuan pada gelas A,D dan E, maka efeknya adalah pada Gambar 2"
+   },
+   {
+    "type": "li",
+    "text": "Percobaan 3: jika ia mengambil ramuan pada gelas C, D dan F, maka efeknya adalah pada Gambar 3"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-02-2.webp",
+    "w": 421,
+    "h": 158
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Gelas mana yang berisi air? Pilih salah satu: A,B, C,D, E atau F?"
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban Jawaban yang benar yaitu gelas D. Penjelasan Solusi 1 Pada percobaan pertama, gelas A, B dan C tidak ada yang berisi air, karena ada tiga perubahan pada berang-berang. Pada percobaan kedua, gelas D atau E berisi air atau ramuan yang membuat hidung menjadi putih. Hal ini dikarenakan dari percobaan pertama A bukan berisi air. Pada percobaan ketiga, gelas D dan F berisi air murni atau ramuan yang membuat kumis keriting. Hal ini dikarenakan dari percobaan pertama C bukan berisi air murni. Oleh karena dapat disimpulkan bahwa D adalah air murni. Solusi 2: Percobaan 1 menyebabkan tiga perubahan, Percobaan 2 dan 3 menyebabkan dua perubahan. Oleh karena itu tidak ada air murni pada percobaan 1 dan ada satu gelas pada percobaan 2 dan 3 yang berisi air. Gelas yang sama pada percobaan 2 dan 3 adalah D, maka dengan demikian gelas D adalah air murni.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar yaitu gelas D."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "h",
+    "text": "Solusi 1"
+   },
+   {
+    "type": "p",
+    "text": "Pada percobaan pertama, gelas A, B dan C tidak ada yang berisi air, karena ada tiga perubahan pada berang-berang."
+   },
+   {
+    "type": "p",
+    "text": "Pada percobaan kedua, gelas D atau E berisi air atau ramuan yang membuat hidung menjadi putih. Hal ini dikarenakan dari percobaan pertama A bukan berisi air."
+   },
+   {
+    "type": "p",
+    "text": "Pada percobaan ketiga, gelas D dan F berisi air murni atau ramuan yang membuat kumis keriting. Hal ini dikarenakan dari percobaan pertama C bukan berisi air murni."
+   },
+   {
+    "type": "p",
+    "text": "Oleh karena dapat disimpulkan bahwa D adalah air murni."
+   },
+   {
+    "type": "h",
+    "text": "Solusi 2"
+   },
+   {
+    "type": "p",
+    "text": "Percobaan 1 menyebabkan tiga perubahan, Percobaan 2 dan 3 menyebabkan dua perubahan. Oleh karena itu tidak ada air murni pada percobaan 1 dan ada satu gelas pada percobaan 2 dan 3 yang berisi air. Gelas yang sama pada percobaan 2 dan 3 adalah D, maka dengan demikian gelas D adalah air murni."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Pada soal ini kita memiliki beberapa fakta yang dapat digunakan untuk menghasilkan informasi baru dengan cara melakukan ekstrapolasi. Hal ini dapat dilakukan dengan menggunakan penalaran logika (logical reasoning). Logika memegang peranan penting di dalam ilmu komputer. Satuan terkecil dalam komputer adalah bit yang memiliki nilai 1 (benar) atau 0 (salah). Semua informasi di dalam komputer disimpan dalam bentuk deretan kombinasi bit. Komputer menggunakan logika untuk mengambil keputusan dan keputusan tersebut didasarkan pada apakah bit bernilai benar (1) atau salah (0)."
+   },
+   {
+    "type": "p",
+    "text": "Soal ini juga menjelaskan teori dasar himpunan. Kita mencari sebuah elemen dalam himpunan yang tidak digunakan dalam percobaan 1, artinya elemen yang merupakan komplemen dari A, B, C. Setelah itu mencari elemen yang merupakan irisan (elemen yang sama) pada percobaan 2 dan 3."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-02-3.webp",
+    "w": 734,
+    "h": 92
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-02-asli-1.webp",
+    "w": 756,
+    "h": 852
+   },
+   {
+    "src": "/soal/2016/2016-02-asli-2.webp",
+    "w": 756,
+    "h": 70
+   }
+  ],
+  "figureCount": 3,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2016-03",
+  "number": 3,
+  "code": "2016-BE-01",
+  "year": 2016,
+  "title": "Maze",
+  "country": "BE",
+  "pages": [
+   12,
+   13
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sebuah mobil robot bekerja dengan aturan yang sederhana untuk melalui suatu maze: “belok kanan setiap memungkinkan untuk belok kanan”. Gambar di kanan menunjukkan suatu contoh bagaimana mobil robot akan berjalan melalui suatu maze."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-03-1.webp",
+    "w": 267,
+    "h": 216
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Dengan cara kerja demikian, berapa banyakkah dari empat maze berikut ini mobil robot dapat akhirnya mencapai titik merah?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-03-2.webp",
+    "w": 616,
+    "h": 153
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "0"
+   },
+   {
+    "label": "B",
+    "text": "1"
+   },
+   {
+    "label": "C",
+    "text": "2"
+   },
+   {
+    "label": "D",
+    "text": "3"
+   },
+   {
+    "label": "E",
+    "text": "4"
+   }
+  ],
+  "answer": "D",
+  "answerText": "Jawaban Jawaban yang benar adalah 3. Pada gambar di bawah ini, garis hijau menunjukkan jalur yang dapat dilalui oleh mobil. Pada Gambar C semua bagian tengah labirin tidak dapat dilalui dan titik merah tidak dapat dicapai. Pada kasus labirin yang lain titik merah dapat dicapai. Penjelasan",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 3. Pada gambar di bawah ini, garis hijau menunjukkan jalur yang dapat dilalui oleh mobil. Pada Gambar C semua bagian tengah labirin tidak dapat dilalui dan titik merah tidak dapat dicapai. Pada kasus labirin yang lain titik merah dapat dicapai."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-03-3.webp",
+    "w": 661,
+    "h": 166
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Metode yang digunakan oleh mobil robot disebut dengan wall follower. Metode ini merupakan teknik yang lebih sederhana (algoritma) untuk menyelesaikan masalah labirin (maze) yang tidak diketahui tata letaknya. Dengan menggunakan teknik ini tidak akan tersesat dan selalu dapat kembali ke titik asal. Akan tetapi tidak menjamin kita dapat melalui semua labirin seperti dapat dilihat pada solusi yang dijelaskan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-03-4.webp",
+    "w": 734,
+    "h": 92
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-03-asli-1.webp",
+    "w": 756,
+    "h": 852
+   },
+   {
+    "src": "/soal/2016/2016-03-asli-2.webp",
+    "w": 756,
+    "h": 46
+   }
+  ],
+  "figureCount": 4,
+  "flags": []
+ },
+ {
+  "id": "2016-04",
+  "number": 4,
+  "code": "2016-SK-04",
+  "year": 2016,
+  "title": "Warna-warni Bunga-bungaku",
+  "country": "SK",
+  "pages": [
+   14,
+   15
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Jane sedang bermain suatu permainan komputer. Secara rahasia komputer memilih warna-warna untuk lima kuntum bunga. Warna pilihan yang tersedia adalah biru, oranye, dan pink. Pilihan warna-warna itu tidak berubah selama satu permainan. Jane harus menebak warna-warna itu. Lalu Jane menebaknya dan oleh komputer kuntum-kuntum yang warnanya berhasil ditebak segera ditampilkan mengembang, dan yang belum berhasil ditebak tetap ditampilkan sebagai kuntum, seperti terlihat pada gambar berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-04-1.webp",
+    "w": 641,
+    "h": 160
+   },
+   {
+    "type": "p",
+    "text": "Itu adalah hasil tebakan pertama. Berikutnya, Jane mendapat kesempatan untuk menebak kedua kalinya, dan hasil tebakannya ditampilkan komputer sebagai pada gambar berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-04-2.webp",
+    "w": 625,
+    "h": 157
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Warna-warna apakah yang telah dipilih komputer untuk kuntum-kuntum bunga tersebut?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "pink, biru, biru, oranye, oranye"
+   },
+   {
+    "label": "B",
+    "text": "pink, biru, biru, pink, oranye"
+   },
+   {
+    "label": "C",
+    "text": "pink, pink, biru, pink, oranye"
+   },
+   {
+    "label": "D",
+    "text": "biru, pink, biru, oranye, oranye"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban Jawaban yang benar adalah B (pink, biru, biru, pink, oranye). Penjelasan Setelah tiga kali tebakan ada tiga warna kuntum bunga. Dengan demikian kita sudah melihat warna yang sudah dipilih oleh komputer untuk bunga yang pertama, ketiga dan kelima. Warna bunga yang pertama adalah merah muda, maka pilihan D tidak benar. Pada tebakan yang pertama, Jane menebak bunga yang kedua pink, dan bunga tidak mengembang. Selanjutnya dia menebak oranye dan bunga juga tidak mengembang. Karena hanya ada tiga pilihan warna bunga, maka warna bunga yang kedua pasti biru. Tebakan ini menyebabkan pilihan C dan D salah. Hal yang sama juga jika Jane menebak bunga ke empat berwarna oranye atau biru, dan bunga tetap tidak mengembang. Oleh karena itu, warna bunga ke empat pasti pink. Karena C salah, maka jawaban yang benar adalah B.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah B (pink, biru, biru, pink, oranye)."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Setelah tiga kali tebakan ada tiga warna kuntum bunga. Dengan demikian kita sudah melihat warna yang sudah dipilih oleh komputer untuk bunga yang pertama, ketiga dan kelima. Warna bunga yang pertama adalah merah muda, maka pilihan D tidak benar."
+   },
+   {
+    "type": "p",
+    "text": "Pada tebakan yang pertama, Jane menebak bunga yang kedua pink, dan bunga tidak mengembang. Selanjutnya dia menebak oranye dan bunga juga tidak mengembang. Karena hanya ada tiga pilihan warna bunga, maka warna bunga yang kedua pasti biru. Tebakan ini menyebabkan pilihan C dan D salah."
+   },
+   {
+    "type": "p",
+    "text": "Hal yang sama juga jika Jane menebak bunga ke empat berwarna oranye atau biru, dan bunga tetap tidak mengembang. Oleh karena itu, warna bunga ke empat pasti pink. Karena C salah, maka jawaban yang benar adalah B."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Memahami konsekuensi dari sebuah kejadian yang terjadi atau tidak adalah sangat penting untuk menyelesaikan masalah. Soal ini adalah contoh kasus sederhana dari permainan Mastermind. Setelah melakukan tebakan, pemain mendapatkan informasi yang lebih lengkap. Jika pada setiap tebakan pemain memilih warna yang berbeda untuk bunga yang belum mengembang, maka pada tebakan ketiga pemain pasti dapat menebak warna bunga dengan benar."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-04-3.webp",
+    "w": 748,
+    "h": 109
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-04-asli-1.webp",
+    "w": 756,
+    "h": 852
+   },
+   {
+    "src": "/soal/2016/2016-04-asli-2.webp",
+    "w": 756,
+    "h": 168
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2016-05",
+  "number": 5,
+  "code": "2016-JP-03",
+  "year": 2016,
+  "title": "Robot Bola",
+  "country": "JP",
+  "pages": [
+   16,
+   17
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "BolaBebras adalah mainan yang dapat dioperasikan dengan pengendali jauh (remote control), dan dapat mengenali setiap perintah untuk bergerak satu kotak ke empat arah. Perintah-perintah E ke kanan, W ke kiri, N ke belakang, dan S ke depan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-05-1.webp",
+    "w": 137,
+    "h": 341
+   },
+   {
+    "type": "p",
+    "text": "Bila BolaBebras bergerak ke kotak putih, ia akan jatuh satu tingkat (level). BolaBebras akan mengabaikan setiap perintah untuk berpindah ke luar batas."
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Lihat pada posisi awal BolaBebras dalam gambar di atas. Rangkaian perintah manakah yang menyebabkan BolaBebras mencapai posisi petak merah yang ditandai GOAL?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "E, N, W, S, N, E, W"
+   },
+   {
+    "label": "B",
+    "text": "E, W, E, N, S, W"
+   },
+   {
+    "label": "C",
+    "text": "E, W, N, E, S, W"
+   },
+   {
+    "label": "D",
+    "text": "E, W, N, W"
+   }
+  ],
+  "answer": "D",
+  "answerText": "Jawaban Jawaban yang benar yaitu E, W, N, W Penjelasan Pada soal semua jawaban dimulai dengan melangkah ke kanan (E). Setelah E maka ada dua kemungkinan ke belakang (N) atau ke kiri (W). Jika memilih langkah ke Belakang (N), maka langkah selanjutnya pasti ke kiri (W). Jika memilih ke kiri (W), maka langkah selanjutnya ada dua kemungkinan yaitu ke kanan (E) atau ke belakang (N). Dengan demikian pilihan A salah. Jika memilih langkah ke kiri (W), maka langkah selanjutnya adalah melangkah ke belakang (N). Setelah itu ada dua kemungkinan yaitu ke kiri (W) atau ke depan (S). Sampai disini jawaban B dan C adalah salah. Jika memilih ke kiri (W) maka sudah mencapai goal. Tetapi jika memilih melangkah ke depan (S), maka langkah selanjutnya dalah melangkah ke kiri (W). maka jawaban yang benar adalah D (E, W, N, W)",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar yaitu E, W, N, W"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Pada soal semua jawaban dimulai dengan melangkah ke kanan (E). Setelah E maka ada dua kemungkinan ke belakang (N) atau ke kiri (W)."
+   },
+   {
+    "type": "p",
+    "text": "Jika memilih langkah ke Belakang (N), maka langkah selanjutnya pasti ke kiri (W). Jika memilih ke kiri (W), maka langkah selanjutnya ada dua kemungkinan yaitu ke kanan (E) atau ke belakang (N). Dengan demikian pilihan A salah."
+   },
+   {
+    "type": "p",
+    "text": "Jika memilih langkah ke kiri (W), maka langkah selanjutnya adalah melangkah ke belakang (N). Setelah itu ada dua kemungkinan yaitu ke kiri (W) atau ke depan (S). Sampai disini jawaban B dan C adalah salah."
+   },
+   {
+    "type": "p",
+    "text": "Jika memilih ke kiri (W) maka sudah mencapai goal. Tetapi jika memilih melangkah ke depan (S), maka langkah selanjutnya dalah melangkah ke kiri (W). maka jawaban yang benar adalah D (E, W, N, W)"
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Program komputer adalah serangkaian intruksi yang digunakan untuk menjalankan komputer. Soal ini menjelaskan contoh program sederhana"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-05-2.webp",
+    "w": 734,
+    "h": 91
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-05-asli-1.webp",
+    "w": 756,
+    "h": 852
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2016-06",
+  "number": 6,
+  "code": "2016-RU-07",
+  "year": 2016,
+  "title": "Instachat dan Snapgram",
+  "country": "RU",
+  "pages": [
+   18,
+   19,
+   20,
+   21
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Informasi berikut di bawah ini terkait dengan hubungan persahabatan antara seekor berang-berang, kelinci, marmot, bajing and skunk dalam suatu jaringan sosial Instachat."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-06-1.webp",
+    "w": 386,
+    "h": 229
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-06-2.webp",
+    "w": 443,
+    "h": 414
+   },
+   {
+    "type": "p",
+    "text": "Dalam gambar tersebut, garis menunjukkan hubungan persahabatan ini. Tabel di sampingnya mencatat banyaknya teman yang dimiliki masing-masing binatang itu."
+   },
+   {
+    "type": "p",
+    "text": "Lima binatang berbeda itu berada dalam jaringan sosial Snapgram dan informasi yang serupa juga dicatat dengan cara yang sama."
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Manakah dari berikut ini yang bukan merupakan tabel pencatat banyaknya teman yang dimiliki setiap binatang di dalam Snapgram? Pilih salah satu:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-06-3.webp",
+    "w": 653,
+    "h": 253
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-06-4.webp",
+    "w": 655,
+    "h": 254
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "C."
+   },
+   {
+    "label": "B",
+    "text": "D."
+   }
+  ],
+  "answer": null,
+  "answerText": "Jawaban Dalam hubungan pertemanan jumlah banyaknya teman harus genap, karena hubungan pertemanan harus melibatkan dua objek. Jika kita tambahkan jumlah pertemanan pada kolom kedua, maka jumlahnya harus genap. Jumlah pertemanan pada tabel A, B, C, D adalah 16, 14, 10 dan 13. Maka tabel yang bukan merupakan tabel pencatat banyaknya teman yang dimiliki setiap binatang di dalam Snapgram adalah Tabel D. Banyaknya jumlah pertemanan pada Tabel C adalah mungkin karena membentuk membentuk lingkaran di antara lima binatang. Banyaknya jumlah pertemanan pada Tabel B dan A juga memungkinkan. Sebagai contoh: berang-berang  chipmunk, kelinci  kura-kura, hedgehog  groundhog, bajing  ular, skunk  serigala. Jika groundhog dan serigala menjadi teman dan kura-kura dan ular juga menjadi teman, maka Tabel B adalah mungkin. Tabel A juga memungkinkan dengan menambahkan hubungan pertemanan antara serigala dan ular.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Dalam hubungan pertemanan jumlah banyaknya teman harus genap, karena hubungan pertemanan harus melibatkan dua objek. Jika kita tambahkan jumlah pertemanan pada kolom kedua, maka jumlahnya harus genap. Jumlah pertemanan pada tabel A, B, C, D adalah 16, 14, 10 dan 13. Maka tabel yang bukan merupakan tabel pencatat banyaknya teman yang dimiliki setiap binatang di dalam Snapgram adalah Tabel D."
+   },
+   {
+    "type": "p",
+    "text": "Banyaknya jumlah pertemanan pada Tabel C adalah mungkin karena membentuk membentuk lingkaran di antara lima binatang."
+   },
+   {
+    "type": "p",
+    "text": "Banyaknya jumlah pertemanan pada Tabel B dan A juga memungkinkan. Sebagai contoh: berang-berang  chipmunk, kelinci  kura-kura, hedgehog  groundhog, bajing  ular, skunk  serigala."
+   },
+   {
+    "type": "p",
+    "text": "Jika groundhog dan serigala menjadi teman dan kura-kura dan ular juga menjadi teman, maka Tabel B adalah mungkin."
+   },
+   {
+    "type": "p",
+    "text": "Tabel A juga memungkinkan dengan menambahkan hubungan pertemanan antara serigala dan ular."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Hubungan pertemanan pada soal di atas dapat dimodelkan dengan menggunakan graf. Binatang direpresentasikan dengan simpul dan hubungan pertemanan direpresentasikan dengan jalur. Dalam teori graf banyaknya jumlah pertemanan dinyatakan dengan derajat simpul. Tabel biasanya dinyatakan dengan urutan derajat simpul. Graf dapat digunakan untuk memodelkan hubungan data apa saja. Urutan derajat simpul (degree sequence) menunjukkan informasi mengenai hubungan antar data."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-06-5.webp",
+    "w": 734,
+    "h": 67
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-06-asli-1.webp",
+    "w": 756,
+    "h": 852
+   },
+   {
+    "src": "/soal/2016/2016-06-asli-2.webp",
+    "w": 756,
+    "h": 996
+   }
+  ],
+  "figureCount": 5,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2016-07",
+  "number": 7,
+  "code": "2016-RU-07",
+  "year": 2016,
+  "title": "Tiga Sebaris",
+  "country": "RU",
+  "pages": [
+   22,
+   23,
+   24,
+   25
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Tiga-sebaris (Three-in-a-row) merupakan jenis permainan komputer yang sedang populer walaupun pemain hanya menukar-nukarkan posisi pasangan batu permata. Bila setelah penukaran terdapat tiga atau lebih batu permata dengan bentuk yang sama berada berturut-turut secara vertikal atau horisontal maka batu-batu itu akan menghilang. Selanjutnya, setiap batu lainnya yang berada di atasnya akan jatuh mengisi ruang yang telah ditinggalkan. Setelah jatuh, proses yang sama (menghilang dan jatuh) berlanjut bila terjadi ada tiga batu atau lebih berurutan seperti tadi."
+   },
+   {
+    "type": "p",
+    "text": "Tujuan akhir permainan adalah menghilangkan seluruh batu permata melalui sejumlah penukaran. Berikut ini suatu contoh situasi sebuah permainan:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-1.webp",
+    "w": 557,
+    "h": 151
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Batu-batu manakah yang harus ditukar agar seluruh batu menghilang pada situasi permainan berikut ini?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-2.webp",
+    "w": 174,
+    "h": 202
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Batu-batu bertanda 2"
+   },
+   {
+    "label": "B",
+    "text": "Batu-batu bertanda 3"
+   },
+   {
+    "label": "C",
+    "text": "Batu-batu bertanda 1"
+   },
+   {
+    "label": "D",
+    "text": "Batu-batu bertanda 4"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban Jawaban yang benar adalah C (batu-batu bertanda 1). Penjelasan Penjelasan (batu-batu bertanda 2) Setelah menukar batu-batu yang bertanda 2 maka, batu berwarna hijau pada kolom tiga dapat dihilangkan. Langkah selanjutnya batu berwarna merah pada baris keempat dapat dihilangkan. Setelah itu batu berwarna biru pada kolom keempat dapat dihilangkan. Langkah berikutnya batu berwarna kuning pada baris kelima dapat dihilangkan. Setelah itu tidak ada lagi batu yang dapat dihilangkan. Penjelasan (batu-batu bertanda 3) Setelah menukar batu-batu bertanda 3 maka akan menghilangkan batu berwarna biru pada kolom 1. Setelah itu tidak ada lagi batu yang dapat dihilangkan. Penjelasan (batu-batu bertanda 1) Berikut ini adalah tahapan penjelasan C: Dengan menukar batu-batu 1 maka semua batu akan menghilang. Perhatikan enam tahapan berikut ini: Penjelasan (batu-batu bertanda 4) Setelah menukar posisi 4 biru dan 4 kuning, maka segitiga kuning akan hilang. Setelah itu tidak ada yang bisa ditukar lagi posisinya.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah C (batu-batu bertanda 1)."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan (batu-batu bertanda 2)"
+   },
+   {
+    "type": "p",
+    "text": "Setelah menukar batu-batu yang bertanda 2 maka, batu berwarna hijau pada kolom tiga dapat dihilangkan. Langkah selanjutnya batu berwarna merah pada baris keempat dapat dihilangkan. Setelah itu batu berwarna biru pada kolom keempat dapat dihilangkan. Langkah berikutnya batu berwarna kuning pada baris kelima dapat dihilangkan. Setelah itu tidak ada lagi batu yang dapat dihilangkan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-3.webp",
+    "w": 392,
+    "h": 214
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan (batu-batu bertanda 3)"
+   },
+   {
+    "type": "p",
+    "text": "Setelah menukar batu-batu bertanda 3 maka akan menghilangkan batu berwarna biru pada kolom 1. Setelah itu tidak ada lagi batu yang dapat dihilangkan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-4.webp",
+    "w": 731,
+    "h": 200
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan (batu-batu bertanda 1)"
+   },
+   {
+    "type": "p",
+    "text": "Berikut ini adalah tahapan penjelasan C:"
+   },
+   {
+    "type": "p",
+    "text": "Dengan menukar batu-batu 1 maka semua batu akan menghilang. Perhatikan enam tahapan berikut ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-5.webp",
+    "w": 630,
+    "h": 173
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-6.webp",
+    "w": 603,
+    "h": 186
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan (batu-batu bertanda 4)"
+   },
+   {
+    "type": "p",
+    "text": "Setelah menukar posisi 4 biru dan 4 kuning, maka segitiga kuning akan hilang. Setelah itu tidak ada yang bisa ditukar lagi posisinya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-7.webp",
+    "w": 618,
+    "h": 224
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Seorang pemrogram harus memahami apa yang dikerjakan oleh program, tanpa menjalankan program. Soal ini melatih kemampuan tersebut. Siswa harus bisa memberikan keputusan tanpa menjalankan permainan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-07-8.webp",
+    "w": 734,
+    "h": 67
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-07-asli-1.webp",
+    "w": 756,
+    "h": 819
+   },
+   {
+    "src": "/soal/2016/2016-07-asli-2.webp",
+    "w": 756,
+    "h": 167
+   }
+  ],
+  "figureCount": 8,
+  "flags": []
+ },
+ {
+  "id": "2016-08",
+  "number": 8,
+  "code": "2016-CZ-02",
+  "year": 2016,
+  "title": "Karung-karung Dalam Elevator",
+  "country": "CZ",
+  "pages": [
+   26,
+   27
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sejumlah karung diletakkan di koridor, di dekat suatu lift (elevator). Koridor sangat sempit sehingga karung-karung harus dibariskan satu-satu."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-08-1.webp",
+    "w": 702,
+    "h": 197
+   },
+   {
+    "type": "p",
+    "text": "Dengan lift tersebut, karung-karung hendak dikirimkan ke toko di lantai dasar. Sekali angkut, Lift hanya dapat mengangkut karung-karung dengan total berat tidak kurang dari 80 kg dan tidak lebih dari 100 kg. Setelah terkirim maka lift akan kembali ke lantai tersebut."
+   },
+   {
+    "type": "p",
+    "text": "Saat memuatkan karung-karung ke dalam lift, karung yang terdekat dengan lift yang akan diambil terlebih dulu. Seandainya penambahan suatu karung dapat menyebabkan overload (terlalu berat, karena total beratnya lebih dari 100 kg), karung itu untuk sementara tidak dimasukkan ke dalam lift tapi ditaruh di koridor pada arah berlawanan dari semula sejauh-jauhnya (jika tidak overload tentu akan dimasukkan ke dalam lift!)."
+   },
+   {
+    "type": "p",
+    "text": "Bila karung-karung dari barisan awal telah diambil, hal yang sama kemudian dilakukan pada barisan karung yang terbentuk pada koridor arah berlawanan dengan semula hingga seluruh karung di situ berhasil dikirim ke toko atau dipindah ke ujung koridor berlawanan dengannya. Hal itu terus-menerus dilakukan sampai semua karung berhasil dikirim ke toko."
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Sampai semua karung dikirimkan ke toko dengan prosedur tersebut di atas, Berapa kali lift turun-naik mengangkut karung-karung itu semula karung-karung ada seperti pada gambar di atas dengan berat masing-masing seperti yang tercantum pada setiap karung?"
+   }
+  ],
+  "options": [],
+  "answer": "4",
+  "answerText": "Jawaban Jawaban yang benar adalah 4. Penjelasan Pada pemuatan pertama, 3 karung dengan berat 40+20+34=94 kg. Pada pemuatan kedua, karung berikutnya (55 kg) dimasukkan ke dalam lift. Karung berikutnya (50 kg) akan mengakibatkan overload, sehingga ditaruh pada ujung yang berlawanan. Karung berikutnya (23 kg) ditaruh kembali dalam lift, namun lift tak dapat pergi hanya dengan total berat 55+23= 78 kg. Karung berikutnya adalah 45 kg, yang akan membuat beban lift terlalu berat, maka karung itu dibawa ke ujung yang berlawanan. Hal yang sama terjadi untuk karung berikutnya (30 kg). Akhirnya, karung berikutnya (10 kg) dapat ditaruh dalam lift, dan berangkat dengan 55+23+10=88 kg. Ketiga karung terakhir (25+30+15 = 70kg) ditaruh dalam lift. Demikian seterusnya pemuatan karung-karung ke dalam lift dilakukan hingga semua karung terkirim.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 4."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Pada pemuatan pertama, 3 karung dengan berat 40+20+34=94 kg. Pada pemuatan kedua, karung berikutnya (55 kg) dimasukkan ke dalam lift. Karung berikutnya (50 kg) akan mengakibatkan overload, sehingga ditaruh pada ujung yang berlawanan. Karung berikutnya (23 kg) ditaruh kembali dalam lift, namun lift tak dapat pergi hanya dengan total berat 55+23= 78 kg. Karung berikutnya adalah 45 kg, yang akan membuat beban lift terlalu berat, maka karung itu dibawa ke ujung yang berlawanan. Hal yang sama terjadi untuk karung berikutnya (30 kg). Akhirnya, karung berikutnya (10 kg) dapat ditaruh dalam lift, dan berangkat dengan 55+23+10=88 kg. Ketiga karung terakhir (25+30+15 = 70kg) ditaruh dalam lift. Demikian seterusnya pemuatan karung-karung ke dalam lift dilakukan hingga semua karung terkirim."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Pada soal ini, kita perlu memakai algoritma dan menggunakan stack (tumpukan). Stack adalah struktur untuk menyusun benda dengan menaruh dan mengambilnya pada yang terakhir. Salah satu contoh adalah mainan anak-anak untuk membangun sebuah menara dari batu bata, di mana kita harus mengambil mulai dari yang terakhir dipasang pada saat membongkarnya kembali. Saat melakukan penelusuran halaman web, alamat dari halaman yang dikunjungi akan ditaruh dalam stack; saat kita menekan tombol \"balik\" yang ditampilkan adalah yang sebelumnya dikunjungi. Menggunakan stack tak selamanya dapat digunakan. Misalnya jika kita menunggu pada antrian di rumah sakit, siapa yang paling dulu datang seharusnya yang akan dilayani paling dulu."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-08-2.webp",
+    "w": 763,
+    "h": 85
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-08-asli-1.webp",
+    "w": 756,
+    "h": 819
+   },
+   {
+    "src": "/soal/2016/2016-08-asli-2.webp",
+    "w": 756,
+    "h": 167
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2016-09",
+  "number": 9,
+  "code": "2016-IR-01a",
+  "year": 2016,
+  "title": "Lomba Melompat",
+  "country": "IR",
+  "pages": [
+   28,
+   29
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Pada suatu pagi yang cerah tiga sekawan, seekor kelinci, seekor kodok, dan seekor kangguru, bertanding dalam suatu lomba melompat (hopping race). Lintasannya merupakan keliling suatu lingkaran dengan 15 posisi langkah. Posisi langkah itu dinomori dari 0 sampai dengan 14. Setiap kali siapapun yang mencapai atau melalui posisi 14, posisi berikutnya adalah 0"
+   },
+   {
+    "type": "p",
+    "text": "."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-09-1.webp",
+    "w": 359,
+    "h": 292
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang, yang kini menjadi wasitnya, akan meniupkan peluit setiap detik selama perlombaan. Pada setiap peniupan peluit, kelinci dapat melompat tepat 3 posisi berikutnya; kodok melompat tepat 2 posisi berikutnya, dan kangguru melompat tepat 5 posisi berikutnya."
+   },
+   {
+    "type": "p",
+    "text": "Di awal lomba semua memulai pada posisi 0."
+   },
+   {
+    "type": "p",
+    "text": "Setelah empat kali peniupan peluit, berapa banyak posisi yang telah dilompatinya masing-masing? Tulis jawaban kamu hanya jumlah posisi yang dilompati, berturut-turut posisi kelinci, posisi kodok dan posisi kangguru (pisahkan dengan hanya sebuah tanda koma! Misalnya 3,2,5 )."
+   }
+  ],
+  "options": [],
+  "answer": "12",
+  "answerText": "Jawaban 12,8,5 Penjelasan Pada saat peluit ditiupkan, mereka akan melompat sebanyak lompatan yang sudah didefinisikan. Kodok melompat tepat 2 posisi berikutnya maka setelah peniupan empat kali peluit maka kodok akan melompat sebanyak 8 langkah. Kelinci melompat tepat 3 posisi berikutnya, maka setelah peniupan peluit empat kali, maka kodok akan melompat sebanyak 12 langkah. Kangguru melompat tepat 5 posisi berikutnya, maka setelah peniupan empat kali, maka kangguru akan melompat sebanyak 20 langkah. Karena setelah 14 harus kembali ke posisi 0, maka jawabannya 12,8,5",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "12,8,5"
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Pada saat peluit ditiupkan, mereka akan melompat sebanyak lompatan yang sudah didefinisikan. Kodok melompat tepat 2 posisi berikutnya maka setelah peniupan empat kali peluit maka kodok akan melompat sebanyak 8 langkah. Kelinci melompat tepat 3 posisi berikutnya, maka setelah peniupan peluit empat kali, maka kodok akan melompat sebanyak 12 langkah. Kangguru melompat tepat 5 posisi berikutnya, maka setelah peniupan empat kali, maka kangguru akan melompat sebanyak 20 langkah. Karena setelah 14 harus kembali ke posisi 0, maka jawabannya 12,8,5"
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Untuk menghitung banyaknya jumlah langkah pada setiap kali peniupan pluit didasarkan pada banyaknya lompatan (step size) yang sudah didefinisikan sebelumnya. Soal ini menjelaskan perkalian (penjumlahan yang berulang)."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-09-2.webp",
+    "w": 734,
+    "h": 97
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-09-asli-1.webp",
+    "w": 756,
+    "h": 819
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2016-10",
+  "number": 10,
+  "code": "2016-IR-01a",
+  "year": 2016,
+  "title": "Mengecat Menjadi Gelap",
+  "country": "IR",
+  "pages": [
+   30,
+   31
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Kombinasi kartu A dan kartu B, menghasilkan kartu C."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-1.webp",
+    "w": 498,
+    "h": 125
+   },
+   {
+    "type": "h",
+    "text": "Pertanyaan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyak sel gelap dari kombinasi kartu D dan kartu E berikut? Tuliskan bilangannya sebagai jawaban."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-2.webp",
+    "w": 500,
+    "h": 136
+   }
+  ],
+  "options": [],
+  "answer": "3",
+  "answerText": "Jawaban Jawaban yang benar adalah 3. Penjelasan Aturan untuk melakukan kombinasi kartu D dan E adalah sebagai berikut: - Jika warna sel kartu yang bersesuaian sama maka warna yang dihasilkan hitam - Selainnya, warna yang dihasilkan adalah putih Berikut ini adalah hasil kombinasi kartu D dan E:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 3."
+   },
+   {
+    "type": "h",
+    "text": "Penjelasan"
+   },
+   {
+    "type": "p",
+    "text": "Aturan untuk melakukan kombinasi kartu D dan E adalah sebagai berikut: - Jika warna sel kartu yang bersesuaian sama maka warna yang dihasilkan hitam - Selainnya, warna yang dihasilkan adalah putih"
+   },
+   {
+    "type": "p",
+    "text": "Berikut ini adalah hasil kombinasi kartu D dan E:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-3.webp",
+    "w": 726,
+    "h": 139
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Sirkuit Boolean adalah salah satu model komputasi matematika. Ekivalensi adalah salah satu operasi Boolean. Jika sel yang berwarna putih bernilai 0 atau SALAH dan sel yang berwarna hitam bernilai 1 atau BENAR, maka operasi ini dapat dijelaskan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-4.webp",
+    "w": 433,
+    "h": 70
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-5.webp",
+    "w": 433,
+    "h": 70
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-6.webp",
+    "w": 434,
+    "h": 72
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-7.webp",
+    "w": 435,
+    "h": 68
+   },
+   {
+    "type": "img",
+    "src": "/soal/2016/2016-10-8.webp",
+    "w": 735,
+    "h": 104
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2016/2016-10-asli-1.webp",
+    "w": 756,
+    "h": 504
+   }
+  ],
+  "figureCount": 8,
+  "flags": []
+ }
+]

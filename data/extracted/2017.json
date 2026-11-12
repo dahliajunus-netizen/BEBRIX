@@ -1,0 +1,2266 @@
+[
+ {
+  "id": "2017-01",
+  "number": 1,
+  "code": "2017-IR-02",
+  "year": 2017,
+  "title": "Membangun Bendungan",
+  "country": "IR",
+  "pages": [
+   9
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Bebras Jordan menebang pohon dan memotongnya sehingga setiap pohon menghasilkan batang pohon yang panjangnya 10 meter."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-01-1.webp",
+    "w": 263,
+    "h": 75
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-01-2.webp",
+    "w": 947,
+    "h": 155
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyaknya batang pohon minimal yang dapat dipakai Ali untuk membangun bendungan?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "5"
+   },
+   {
+    "label": "B",
+    "text": "6"
+   },
+   {
+    "label": "C",
+    "text": "7"
+   },
+   {
+    "label": "D",
+    "text": "8"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang tepat adalah 6.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah 6."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-01-3.webp",
+    "w": 628,
+    "h": 349
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Masalah “memotong-material” (“cutting-stock” problem) adalah persoalan untuk memotong material yang panjangnya standar seperti pipa, atau batang kayu menjadi potongan-potongan material berbagai ukuran, dengan sesedikit mungkin material yang dipotong. Ini adalah contoh persoalan optimasi dalam industri. Persoalannya dapat diformulasikan sebagai persoalan pemrograman linier."
+   },
+   {
+    "type": "p",
+    "text": "(https://en.wikipedia.org/wiki/Cutting_stock_problem)"
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-01-asli-1.webp",
+    "w": 990,
+    "h": 605
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2017-02",
+  "number": 2,
+  "code": "2017-DE-02",
+  "year": 2017,
+  "title": "Senyum",
+  "country": "DE",
+  "pages": [
+   10
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Berang-berang menemukan suatu alat untuk mendeteksi wajah tersenyum dengan kamera. Alat tersebut bekerja dengan 2 langkah:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-1.webp",
+    "w": 203,
+    "h": 111
+   },
+   {
+    "type": "p",
+    "text": "Tahap-1: transformasi foto wajah menjadi semacam \"smiley\" yang diberi dua titik dan garis yang menunjukkan posisi mata dan mulut."
+   },
+   {
+    "type": "p",
+    "text": "Tahap-2: deteksi apakah wajah tersenyum dengan mencocokkan gambar hasil tahap-1"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-2.webp",
+    "w": 107,
+    "h": 90
+   },
+   {
+    "type": "p",
+    "text": "dengan pola yang terdiri dari garis merah dan titik hijau. Wajah dideteksi sebagai wajah tersenyum, jika dan hanya jika gambarnya menyentuh semua titik hijau dan tidak menyentuh garis merah."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa gambar hasil tahap-1 sebagai berikut, yang dideteksi sebagai wajah tersenyum?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-3.webp",
+    "w": 460,
+    "h": 91
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-4.webp",
+    "w": 460,
+    "h": 90
+   }
+  ],
+  "options": [],
+  "answer": "4",
+  "answerText": "Jawaban: Jawaban yang benar adalah 4. Penjelasan: Gambar yang ditandai dengan x terdeteksi sebagai senyum",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 4."
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan: Gambar yang ditandai dengan x terdeteksi sebagai senyum"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-5.webp",
+    "w": 462,
+    "h": 104
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-02-6.webp",
+    "w": 462,
+    "h": 103
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ilmuwan/Ahli Informatika mengembangkan sistem yang dapat mengenali sesuatu (misalnya wajah manusia) pada foto, atau kamera yang selalu hidup untuk menangkap citra. Teknologi ini sekarang mengadopsi konsep yang disebut mesin pembelajar, atau bahkan deep learning. Teknologi ini juga memasukkan tahap pra pemrosesan citra, memodelkan, dan memakai aturan seperti yang diberikan contohnya pada tantangan ini."
+   },
+   {
+    "type": "p",
+    "text": "Adalah sangat penting bahwa pendekatan yang digunakan dalam latihan ini sangat disederhanakan, dan mempunyai beberapa kekurangan. Misalnya, empat wajah yang diberikan sebagai alternatif jawaban, hanya dua yang secara tepat merepresentasi senyum. Anda harus mengingat baik-baik, bahwa kelak, rancangan sistem pengenalan citra yang sebenarnya, tidak menghasilkan seperti ini."
+   },
+   {
+    "type": "p",
+    "text": "Robot passport checker rejects asian man's photo having closed eyes Research shows smartphone fingerprint scanners aren't as secure as we think they are"
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-02-asli-1.webp",
+    "w": 990,
+    "h": 646
+   }
+  ],
+  "figureCount": 6,
+  "flags": []
+ },
+ {
+  "id": "2017-03",
+  "number": 3,
+  "code": "2017-SI-05",
+  "year": 2017,
+  "title": "Upah Membantu",
+  "country": "SI",
+  "pages": [
+   11,
+   12
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Untuk mengisi liburannya selama 6 hari, Ana dan Bobi merencanakan tinggal di desa nenek. Kebetulan, di sana ada tiga petani A, B, dan C yang membutuhkan bantuan untuk menggarap sawahnya masing-masing. Mereka menawari Ana dan Bobi upah jika mau membantu mereka. Masing-masing petani tersebut memberikan penawaran yang berbeda:"
+   },
+   {
+    "type": "li",
+    "text": "Petani A menawarkan 10 ribu rupiah buat masing-masing (Ana dan Bobi) setiap hari."
+   },
+   {
+    "type": "li",
+    "text": "Petani B hanya akan memberi Bobi sepuluh ribu rupiah pada hari pertama kemudian setiap berikutnya menaikkan sebesar 10 ribu menjadi 20 ribu, 30 ribu, dan seterusnya, sementara ia akan memberi Ana di hari pertama 100 ribu rupiah dan kemudian diturunkan 10 ribu rupiah setiap hari berikutnya menjadi 90 ribu, 80 ribu, dan seterusnya."
+   },
+   {
+    "type": "li",
+    "text": "Petani C tidak tertarik dibantu Bobi, sehingga ia hanya akan memberi 1 ribu rupiah di hari pertama saja dan tidak akan memberi apapun di hari berikutnya. Sementara untuk Ana, ia akan memberikan seribu rupiah pada hari pertama, lalu setiap hari berikutnya dua kali lipat sebelumnya. Jadi Ana akan mendapatkan seribu rupiah, 2 ribu rupiah, 4 ribu rupiah, 8 ribu rupiah dan seterusnya."
+   },
+   {
+    "type": "p",
+    "text": "Mereka berniat untuk melewati setiap hari masa liburnya di desa nenek dengan membantu petani, dan mereka berdua sudah berjanji untuk bekerja pada petani yang sama. Mengenai upah, mereka juga diam-diam sudah sepakat untuk membagi sama rata dari yang diperoleh berdua."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Kepada petani yang mana mereka bekerja sehingga mendapat upah yang paling banyak ?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "A"
+   },
+   {
+    "label": "B",
+    "text": "B"
+   },
+   {
+    "label": "C",
+    "text": "C"
+   },
+   {
+    "label": "D",
+    "text": "A atau B"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang tepat adalah B. Perhitungan upah petani A sangat sederhana. Masing-masing mendapat upah 50 ribu per hari, sehingga masing-masing akan memperoleh 500 ribu rupiah selama 10 hari. Petani B lebih rumit perhitungannya: • Bobi mendapat 10+20+30+40+50+60+70+80+90+100 • Anna mendapat 100+90+80+70+60+50+40+30+21+10",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah B."
+   },
+   {
+    "type": "p",
+    "text": "Perhitungan upah petani A sangat sederhana. Masing-masing mendapat upah 50 ribu per hari, sehingga masing-masing akan memperoleh 500 ribu rupiah selama 10 hari."
+   },
+   {
+    "type": "p",
+    "text": "Petani B lebih rumit perhitungannya:"
+   },
+   {
+    "type": "li",
+    "text": "Bobi mendapat 10+20+30+40+50+60+70+80+90+100"
+   },
+   {
+    "type": "li",
+    "text": "Anna mendapat 100+90+80+70+60+50+40+30+21+10"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-03-1.webp",
+    "w": 947,
+    "h": 330
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ilmuwan/Ahli informatika seringkali melakukan perhitungan seperti yang dilakukan untuk pemecahan persoalan ini. Misalnya jika ingin menghitung waktu eksekusi dari sebuah algoritma (upah adalah analogi dari waktu eksekusi). Upah yang diperoleh adalah waktu eksekusi dari operasi yang diperlukan untuk suatu algoritma."
+   },
+   {
+    "type": "p",
+    "text": "Selain itu, perhatikan betapa efisien menjumlahkan upah petani B. Menjumlahkan semua angka, jumlahkan secara paralel dari depan dan belakang pada saat yang sama, dan membagi dua"
+   },
+   {
+    "type": "p",
+    "text": "Pada kasus ini, kasus terakhir menguatirkan, karena jumlah operasi berlipat dua setiap hari, yang mencerminkan dua kali jika data bertambah. Kalau Ana dan Bobi mempunyai waktu 1 hari lebih, mereka berdua akan mendapatkan upah dengan upah Bobo ditambah kelipatan dari upah."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-03-asli-1.webp",
+    "w": 990,
+    "h": 813
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-04",
+  "number": 4,
+  "code": "2017-CZ-02",
+  "year": 2017,
+  "title": "Kode Kartu",
+  "country": "CZ",
+  "pages": [
+   13
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Terdapat lima kartu yang diletakkan berderet. Setiap kartu berisikan lambang hati dalam jumlah tertentu, dari kiri ke kanan secara berurutan adalah 16, 8, 4, 2, dan 1 hati. Di bagian bawah kartu terdapat tulisan angka 0 atau 1. Angka 1 dituliskan jika kartu diatasnya terbuka (dan terlihat gambar hatinya!). Angka 0 dituliskan jika kartu tertutup. Kartu-kartu dapat digunakan untuk membangkitkan kode-kode untuk angka-angka. Sebagai contoh, terdapat 9 gambar hati yang dapat terlihat pada gambar berikut ini, sehingga kode untuk angka 9 adalah 01001."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-04-1.webp",
+    "w": 549,
+    "h": 144
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Temukan kode untuk 26 gambar hati."
+   }
+  ],
+  "options": [],
+  "answer": "11010",
+  "answerText": "Jawaban: Jawaban yang benar adalah 11010.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 11010."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Hati ditempatkan di kartu sehingga hanya ada satu hati pada kartu sebelah kanan, dan setiap kartu di sebelah kiri sesudahnya mengandung dua kali hati. Maka, akan ada 1, 2, 4, 8, dan 16 hati saat dibaca dari kiri ke kanan."
+   },
+   {
+    "type": "p",
+    "text": "Dapat dibuktikan bahwa setiap angka dari 0 s.d. 31 dapat direpresentasikan dengan kombinasi tertentu menggunakan kartu tsb. Kita juga dapat melakukan perhitungan dengan menggunakan kartu-kartu ini."
+   },
+   {
+    "type": "p",
+    "text": "Pengaturan dari hati dipakai dalam sistem bilangan biner yang hanya menggunakan 0 dan 1, yang dipakai komputer untuk menyimpan informasi. Kita juga dapat mengkode teks, gambar, video, musik dengan hanya menggunakan bilangan 0 dan 1."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-04-asli-1.webp",
+    "w": 990,
+    "h": 519
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-05",
+  "number": 5,
+  "code": "2017-JP-02",
+  "year": 2017,
+  "title": "Pedang dan Perisai",
+  "country": "JP",
+  "pages": [
+   14
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Taro sedang bermain pedang dan perisai dengan 7 teman-temannya dan mem-foto-nya. Diagram berikut ini menunjukkan foto-foto posisi kesukaan mereka masing-masing."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-05-1.webp",
+    "w": 630,
+    "h": 119
+   },
+   {
+    "type": "p",
+    "text": "Mereka ingin memiliki foto-foto tersebut yang telah disusun menjadi satu gambar bersama, agar dapat dipasang di halaman sekolah. Dalam susunannya, setiap pedang harus menunjuk pada berang-berang yang lain, dan setiap perisai harus menghalangi pedang yang ditunjukkan kepadanya. Nah, Taro sudah menempati suatu posisi I di pojok kanan bawah pada dalam gambar tersebut."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-05-2.webp",
+    "w": 463,
+    "h": 238
+   },
+   {
+    "type": "p",
+    "text": "Padankanlah foto-foto ke-7 teman-teman Lucia (bilangan 1 sampai dengan 7) dengan ruang-ruang yang masih kosong (huruf A, B, ..., G) agar susunan yang diharapkan."
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban: Jawaban yang benar adalah:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-05-3.webp",
+    "w": 355,
+    "h": 182
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah:"
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ini sebenarnya adalah teka-teki yang sangat rumit. Hanya beberapa gambar yang mengarah pada pencarian yang sangat memakan waktu di antara semua solusi yang mungkin (tetapi tidak benar). Jika Anda menambahkan hanya satu gambar ke teka-teki 6 buah, Anda akan memiliki 6 kali lebih banyak kemungkinan berbeda untuk menempatkan 7 kartu di tempat-tempat kosong. Untuk n kartu, Anda memiliki (n-1)! = 1 * 2 * 3 * ... * (n-2) * (n-1) kemungkinan solusi yang berbeda. Jadi dalam hal ini ada 720 kemungkinan solusi yang berbeda (tetapi hampir semuanya salah)."
+   },
+   {
+    "type": "p",
+    "text": "Namun, dengan menggunakan pemikiran logis, ruang pencarian dapat dipangkas oleh banyak hal. Misalnya, semua berang-berang dengan tongkat menunjuk ke bawah harus ditempatkan di baris atas, dan hanya ada satu berang-berang yang dapat ditempatkan tepat di atas Lucia."
+   },
+   {
+    "type": "p",
+    "text": "Pencarian lengkap dapat dilakukan dengan menggunakan algoritma yang disebut backtracking. Ketika menggunakan algoritma backtracking, ruang pencarian bisa menjadi sangat besar. Inilah sebabnya mengapa pemangkasan itu penting."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-05-asli-1.webp",
+    "w": 990,
+    "h": 684
+   }
+  ],
+  "figureCount": 3,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2017-06",
+  "number": 6,
+  "code": "2017-MY-01",
+  "year": 2017,
+  "title": "Kursi Musik",
+  "country": "MY",
+  "pages": [
+   15,
+   16
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Kelompok berjumlah 7 berang-berang memainkan \"kursi-musik\" yaitu berpindah kursi saat musik dimainkan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-06-1.webp",
+    "w": 605,
+    "h": 450
+   },
+   {
+    "type": "p",
+    "text": "Saat musik dimulai, setiap berang-berang harus berpindah ke kursi searah dengan putaran jarum jam. Satu kursi dapat ditempati oleh lebih dari satu berang-berang."
+   },
+   {
+    "type": "p",
+    "text": "Pada setiap putaran, Berang-berang besar (A) akan berpindah tiga (3) kursi berlawanan arah jarum jam. Berang-berang sedang (C dan D) akan berpindah dua (2) kursi berlawanan arah jarum jam, sedangkan Berang-berang kecil (E, G, dan F) hanya akan berpindah satu (1) kursi searah jarum jam."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Jika pada awalnya posisi masing-masing sebagaimana terlihat pada gambar di atas, kursi mana yang TIDAK diduduki berang-berangnya tepat setelah putaran ke-3?"
+   },
+   {
+    "type": "p",
+    "text": "Ο 2 dan 7"
+   },
+   {
+    "type": "p",
+    "text": "Ο 3 dan 7"
+   },
+   {
+    "type": "p",
+    "text": "Ο 1 dan 2"
+   },
+   {
+    "type": "p",
+    "text": "Ο 1 dan 4"
+   }
+  ],
+  "options": [],
+  "answer": "2",
+  "answerText": "Jawaban: Jawaban yang benar adalah 2 dan 7. Berang-berang besar pindah 9 kursi melawan arah jarum jam. Jadi A akan berpindah dari kursi 1 ke 6. B berpindah dari kursi 6 ke kursi 4. Berang-berang sedang pindah 6 kursi melawan arah jarum jam. C berpindah dari kursi 4 ke 5. D berpindah dari kursi 3 ke kursi 4. Berang-berang kecil pindah 3 kursi searah jarum jam. E akan pindah dari kursi 2 ke kursi 5, F dari kursi 7 ke 3, dan G dari kursi 5 ke 1. Jadi setelah putaran ke-3, kursi 1, 3, dan 6 akan ditempati oleh 1 berang-berang di setiap kursi, sedangkan kursi 4 dan 5 akan ditempati oleh 2 berang-berang di setiap kursi. Hanya 2 kursi yang kosong, yaitu kursi 2 dan 7.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 2 dan 7."
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang besar pindah 9 kursi melawan arah jarum jam."
+   },
+   {
+    "type": "p",
+    "text": "Jadi A akan berpindah dari kursi 1 ke 6."
+   },
+   {
+    "type": "p",
+    "text": "B berpindah dari kursi 6 ke kursi 4."
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang sedang pindah 6 kursi melawan arah jarum jam."
+   },
+   {
+    "type": "p",
+    "text": "C berpindah dari kursi 4 ke 5."
+   },
+   {
+    "type": "p",
+    "text": "D berpindah dari kursi 3 ke kursi 4."
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang kecil pindah 3 kursi searah jarum jam."
+   },
+   {
+    "type": "p",
+    "text": "E akan pindah dari kursi 2 ke kursi 5, F dari kursi 7 ke 3, dan G dari kursi 5 ke 1."
+   },
+   {
+    "type": "p",
+    "text": "Jadi setelah putaran ke-3, kursi 1, 3, dan 6 akan ditempati oleh 1 berang-berang di setiap kursi, sedangkan kursi 4 dan 5 akan ditempati oleh 2 berang-berang di setiap kursi."
+   },
+   {
+    "type": "p",
+    "text": "Hanya 2 kursi yang kosong, yaitu kursi 2 dan 7."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Salah satu cara untuk memecahkan masalah ini adalah dengan mengingat bahwa semua gerakan setiap berang-berang tetap sama sepanjang putaran. Penguraian informasi tersebut memungkinkan kita untuk fokus pada masalah mereka tanpa terganggu oleh pengulangan yang menyertainya. Dengan melakukan ini, Anda dapat menyederhanakan algoritma dan mengidentifikasi polanya."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-06-asli-1.webp",
+    "w": 990,
+    "h": 1061
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-07",
+  "number": 7,
+  "code": "2017-SK-07",
+  "year": 2017,
+  "title": "Pesta Ulang Tahun",
+  "country": "SK",
+  "pages": [
+   17,
+   18
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Patra tinggal di desa Beaveral. Ia ingin mengundang teman-temannya untuk merayakan ulangtahunnya. Namun ia hanya mengundang teman-teman yang tinggal tidak lebih dari 20 km dari rumahnya agar tak kemalaman pulang. Jarak rumah teman-temannya dimunculkan dalam angka pada peta ssebagai berikut."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-07-1.webp",
+    "w": 704,
+    "h": 402
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Teman-teman yang diundang, dan rumahnya berjarak lebih dari 17 akan disediakan jemputan. Tentukan teman-teman Patra yang diundang dan akan dijemput."
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Ranby"
+   },
+   {
+    "label": "B",
+    "text": "Stow"
+   },
+   {
+    "label": "C",
+    "text": "Mold"
+   },
+   {
+    "label": "D",
+    "text": "Blyth"
+   },
+   {
+    "label": "E",
+    "text": "Saron"
+   },
+   {
+    "label": "F",
+    "text": "Holt"
+   },
+   {
+    "label": "G",
+    "text": "Rand"
+   }
+  ],
+  "answer": null,
+  "answerText": "Jawaban: Jarak paling pendek dari Beaveral ke setiap desa lainnya dapat diperoleh dengan menjumlahkan jalur antara desa-desa yang dilalui, dan menentukan yang minimal. Hanya desa dengan jarak lebih kecil dari 20 km yang akan dicatat. Urutan mulai dari paling dekat sampai terjauh dicatat untuk meyakinkan bahwa semua sudah diperiksa. Inilah cara algoritma Dijkstra's bekerja: Wells = 2 Bath = 8 Ranby = 12 Rand = 13 = 2 + 11 (Bilby=13+8=21 terlalu jauh lewat jalan ini) Saron = 16 = 8 + 8 (Penmon=16+8=24 terlalu jauh lewat jalan ini) Mold = 17 (Weir=17+8=25 terlalu jauh lewat jalan ini) Stow = 17 = 12 + 5 Blyth = 18 = 8 + 10 (Holt=18+3=21 terlalu jauh lewat jalan ini) Holt = 19 = 17 + 2 Cara mengikuti jalan ini sesuai dengan algoritma Dijkstra, yang dijelaskan secara sederhana pada video sebagai berikut: https://www.youtube.com/watch?v=aBym6p-coic. Ini tambahan kecil, karena kita punya batasan jarak saat kita mengeksplorasi graf.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jarak paling pendek dari Beaveral ke setiap desa lainnya dapat diperoleh dengan menjumlahkan jalur antara desa-desa yang dilalui, dan menentukan yang minimal. Hanya desa dengan jarak lebih kecil dari 20 km yang akan dicatat."
+   },
+   {
+    "type": "p",
+    "text": "Urutan mulai dari paling dekat sampai terjauh dicatat untuk meyakinkan bahwa semua sudah diperiksa. Inilah cara algoritma Dijkstra's bekerja:"
+   },
+   {
+    "type": "p",
+    "text": "Wells = 2 Bath = 8 Ranby = 12 Rand = 13 = 2 + 11 (Bilby=13+8=21 terlalu jauh lewat jalan ini) Saron = 16 = 8 + 8 (Penmon=16+8=24 terlalu jauh lewat jalan ini) Mold = 17 (Weir=17+8=25 terlalu jauh lewat jalan ini) Stow = 17 = 12 + 5 Blyth = 18 = 8 + 10 (Holt=18+3=21 terlalu jauh lewat jalan ini) Holt = 19 = 17 + 2"
+   },
+   {
+    "type": "p",
+    "text": "Cara mengikuti jalan ini sesuai dengan algoritma Dijkstra, yang dijelaskan secara sederhana pada video sebagai berikut: https://www.youtube.com/watch?v=aBym6p-coic. Ini tambahan kecil, karena kita punya batasan jarak saat kita mengeksplorasi graf."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Informatika adalah ilmu pengetahuan yang berkaitan dengan penyimpanan dan representasi informasi. Pada tantangan ini, sebuah peta merepresentasikan sebaran desa dan jarak di antaranya. Persoalan ini bukan hanya tentang matematika sebab membutuhkan komputasi dan membandingkan, yang merupakan bagian dari informatika. Teknik yang sama dapat dipakai untuk struktur yang lebih kompleks, misalnya peta. Selain menghitung jarak tempuh, harus memperhatikan desa tetangga yang memenuhi persyaratan tertentu. Tantangan ini menguji anda apakah dapat mempunyai pandangan benar mengenai struktur data ini, dan dapat memanfaatkan dengan data yang disimpan di dalam struktur data tsb."
+   },
+   {
+    "type": "p",
+    "text": "Penjelasan lebih lanjut tentang “breadth-first search”, salah satu teknik untuk meneliti jalur dalam struktur data graf, dapat ditermukan pada:"
+   },
+   {
+    "type": "p",
+    "text": "https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-"
+   },
+   {
+    "type": "p",
+    "text": "search/a/breadth-first-search-and-its-uses"
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-07-asli-1.webp",
+    "w": 990,
+    "h": 976
+   }
+  ],
+  "figureCount": 1,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ },
+ {
+  "id": "2017-08",
+  "number": 8,
+  "code": "2017-BE-03a",
+  "year": 2017,
+  "title": "Kiri Kanan",
+  "country": "BE",
+  "pages": [
+   19
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-08-1.webp",
+    "w": 283,
+    "h": 225
+   },
+   {
+    "type": "p",
+    "text": "Berang-berang menciptakan sistem pengkodean kata yang disebut kode berang-berang, dengan memakai peta di atas:"
+   },
+   {
+    "type": "li",
+    "text": "Setiap pohon di taman diberi nama dengan satu huruf."
+   },
+   {
+    "type": "li",
+    "text": "Kode untuk setiap huruf ditemukan dengan cara mencapai pohon tersebut dengan berbelok kiri (L) dan kanan (R)."
+   },
+   {
+    "type": "li",
+    "text": "Kode untuk setiap huruf selalu dimulai dari pintu masuk taman (bertanda panah)."
+   },
+   {
+    "type": "p",
+    "text": "Contoh-contoh :"
+   },
+   {
+    "type": "li",
+    "text": "Contoh 1: Kode untuk A adalah LL karena untuk mencapai pohon A dari pintu masuk taman kamu harus berbelok kiri dua kali."
+   },
+   {
+    "type": "li",
+    "text": "Contoh 2: Kode untuk kata BAR adalah LRLLLR."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyak huruf dalam kode berang-berang tersebut untuk kata BEAR? (Tuliskan angkanya!)"
+   }
+  ],
+  "options": [],
+  "answer": "9",
+  "answerText": "Jawaban: Jawaban yang benar adalah 9. Tabel berikut ini berisi kode kiri/kanan untuk semua huruf: Sehingga BEAR akan dikode menjadi LRLLRRLLR yang terdiri dari 9 huruf.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 9."
+   },
+   {
+    "type": "p",
+    "text": "Tabel berikut ini berisi kode kiri/kanan untuk semua huruf:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-08-2.webp",
+    "w": 711,
+    "h": 71
+   },
+   {
+    "type": "p",
+    "text": "Sehingga BEAR akan dikode menjadi LRLLRRLLR yang terdiri dari 9 huruf."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Jika suatu komputer mengganti huruf L dalam kode kiri/kanan dengan 0 dan huruf R dengan 1, maka kode kiri/kanan menjadi apa yang disebut kode biner. Peta untuk taman menjadi suatu struktur data komputer yang disebut pohon biner."
+   },
+   {
+    "type": "p",
+    "text": "Hal ini berarti rute yang panjang dan rumit dapat disimpan oleh komputer dengan sangat mudah menggunakan ruang yang sangat kecil. Hal menarik mengenai kode ini adalah bahwa tidak diperlukan koma atau pemisah."
+   },
+   {
+    "type": "p",
+    "text": "Cobalah mengubah kode (decode) jawaban untuk melihat bahwa kamu tidak perlu spasi untuk menunjukkan kode untuk setiap huruf cukup dan mulai dengan kode baru. Jenis kode seperti ini disebut prefix code. Hal ini berarti kode menjadi lebih singkat."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-08-asli-1.webp",
+    "w": 990,
+    "h": 738
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2017-09",
+  "number": 9,
+  "code": "2017-CA-10",
+  "year": 2017,
+  "title": "Lampu Merah Biru",
+  "country": "CA",
+  "pages": [
+   20,
+   21,
+   22
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Berang-berang Beta mengirimkan pesan kepada temannya menggunakan 7 lampu, setiap lampu bisa berwarna merah atau biru. Beta menggunakan 5 lampu pertama untuk menunjukkan huruf yang dikirimkan. Untuk menunjukkan bahwa pesan itu benar, Beta memakai 2 lampu sisanya sebagai berikut:"
+   },
+   {
+    "type": "li",
+    "text": "Lampu ke 6 berwarna biru jika jumlah lampu biru di antara lima lampu pertama adalah genap; jika tidak maka lampu ke 6 berwarna merah."
+   },
+   {
+    "type": "li",
+    "text": "Lampu ke 7 berwarna merah jika jumlah lampu merah di antara enam lampu pertama adalah genap; jika tidak maka lampu ke 7 berwarna biru."
+   },
+   {
+    "type": "p",
+    "text": "Ingatlah, 0 adalah bilangan genap. Sebagai contoh, jika Beta sudah menentukan lima lampu pertama sebagai:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-1.webp",
+    "w": 381,
+    "h": 82
+   },
+   {
+    "type": "p",
+    "text": "Maka lampu ke 6 harus berwarna biru (karena ada 2 lampu biru di antara 5 lampu pertama), dan lampu ke 7 harus berwarna biru (karena terdapat 3 lampu merah di antara 6 lampu pertama). Jadi, dia harus memakai pola berikut ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-2.webp",
+    "w": 529,
+    "h": 80
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Manakah pola berikut ini yang merupakan pesan yang benar?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-3.webp",
+    "w": 579,
+    "h": 365
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": ""
+   },
+   {
+    "label": "D",
+    "text": ""
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban: Jawaban yang benar adalah a) Terdapat 1 lampu biru di antara 5 lampu pertama, jadi lampu ke 6 harus berwarna merah. Dengan demikian terdapat 5 lampu merah diantara 6 pertama, jadi lampu ke-7 harus berwarna biru. Untuk jawaban yang lainnya: o Untuk (A), lampu ke 7 seharusnya biru, karena terdapat 1 lampu merah diantara enam lampu pertama; o Untuk (B), lampu ke 6 seharusnya biru, karena terdapat 0 lampu biru diantara lima lampu pertama dan 0 adalah genap; o Untuk (D), lampu ke 7 seharusnya biru, karena terdapat 3 lampu biru diantara enam lampu pertama.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-4.webp",
+    "w": 519,
+    "h": 80
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah a)"
+   },
+   {
+    "type": "p",
+    "text": "Terdapat 1 lampu biru di antara 5 lampu pertama, jadi lampu ke 6 harus berwarna merah. Dengan demikian terdapat 5 lampu merah diantara 6 pertama, jadi lampu ke-7 harus berwarna biru. Untuk jawaban yang lainnya:"
+   },
+   {
+    "type": "li",
+    "text": "Untuk (A), lampu ke 7 seharusnya biru, karena terdapat 1 lampu merah diantara enam lampu pertama;"
+   },
+   {
+    "type": "li",
+    "text": "Untuk (B), lampu ke 6 seharusnya biru, karena terdapat 0 lampu biru diantara lima lampu pertama dan 0 adalah genap;"
+   },
+   {
+    "type": "li",
+    "text": "Untuk (D), lampu ke 7 seharusnya biru, karena terdapat 3 lampu biru diantara enam lampu pertama."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Kesalahan dapat terjadi ketika informasi dikirim. Misalnya, jika seseorang sedang menyebutkan nomor telepon, nomor kartu kredit, dll, selalu ada kemungkinan bahwa salah satu angka ditulis kembali secara tidak tepat atau urutannya salah. Beberapa kesalahan dapat dideteksi, dan kadang-kadang diperbaiki memakai teknik yang melibatkan check digits."
+   },
+   {
+    "type": "p",
+    "text": "Pada tantangan ini, lampu ke 6 dan ke 7 berfungsi sebagai tanda untuk meyakinkan bahwa semua lampu sudah dikonfigurasi dengan tepat: jika warna lampu ke 6 atau ke 7 salah ditentukan, kita tahu bahwa pesan tersebut tidak benar."
+   },
+   {
+    "type": "p",
+    "text": "Nomor Kartu kredit, nomor ISBN buku, atau kode UPC pada produk yang dibeli di toko, semuanya dilengkapi check digits, yang memberikan petunjuk jika terjadi kesalahan dalam pengiriman informasi."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-5.webp",
+    "w": 919,
+    "h": 63
+   },
+   {
+    "type": "p",
+    "text": "Suatu robot bekerja di suatu kota. Robot berjalan menyusuri jalan dari suatu tempat ke tempat lain mengikuti petunjuk yang diberikan. Pada setiap pertemuan beberapa ruas terdapat putaran (jalan memutar) dan robot akan memutar berlawanan arah jarum jam dan mengambil simpangan urutan tertentu sesuai yang petunjuk yang diberikan."
+   },
+   {
+    "type": "p",
+    "text": "Petunjuk yang diberikan berupa angka-angka urutan"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-6.webp",
+    "w": 367,
+    "h": 245
+   },
+   {
+    "type": "p",
+    "text": "simpangan. Misalnya petunjuk \"4 1 2\" akan diikuti robot sebagai berikut:"
+   },
+   {
+    "type": "li",
+    "text": "Pada putaran pertama, ambil simpangan ke-4."
+   },
+   {
+    "type": "li",
+    "text": "Pada putaran kedua, ambil simpangan ke-1."
+   },
+   {
+    "type": "li",
+    "text": "Pada simpangan ketiga, ambil simpangan ke-2."
+   },
+   {
+    "type": "p",
+    "text": "Jika robot mula-mula berada di A, maka petunjuk itu akan dijalaninya sebagai tergambar berikut ini dengan menyusuri jalan yang diberi warna gelap sebagai berikut:"
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Jika pada awalnya robot berada di A, dan mengikuti petunjuk \"3 1 3 2 3\", dimanakah ia akan berakhir?"
+   },
+   {
+    "type": "p",
+    "text": "Pilihan Jawaban:"
+   },
+   {
+    "type": "li",
+    "text": "A"
+   },
+   {
+    "type": "li",
+    "text": "B"
+   },
+   {
+    "type": "li",
+    "text": "C"
+   },
+   {
+    "type": "li",
+    "text": "D"
+   },
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang paling tepat adalah B."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-09-7.webp",
+    "w": 349,
+    "h": 227
+   },
+   {
+    "type": "p",
+    "text": "Tantangan ini mengenalkan kita kepada salah satu elemen penting dalam bahasa pemrograman komputer, komposisi instruksi sekuensial (berturutan), yang berarti mengikuti instruksi satu per satu berdasarkan urutannya."
+   },
+   {
+    "type": "p",
+    "text": "Urutan instruksi yang kita berikan ke robot ini adalah dasar dari program komputer. Dalam tantangan ini kita hanya diberikan sekumpulan instruksi yang sangat sederhana, atau dengan kata lain bahasa pemrograman yang sangat sederhana. Mungkin dalam situasi lain, bahasa sederhana seperti ini tidak cukup."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-09-asli-1.webp",
+    "w": 990,
+    "h": 1415
+   },
+   {
+    "src": "/soal/2017/2017-09-asli-2.webp",
+    "w": 990,
+    "h": 93
+   }
+  ],
+  "figureCount": 7,
+  "flags": []
+ },
+ {
+  "id": "2017-10",
+  "number": 10,
+  "code": "2017-CA-05",
+  "year": 2017,
+  "title": "Menari Sesuai Sorakan Penonton",
+  "country": "CA",
+  "pages": [
+   23,
+   24
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Dua berang-berang bernama Justin dan Selena, mempunyai gerakan tarian yang menyesuaikan jenis sorakan penonton. Mereka melakukan gerakan secara bersamaan satu kotak pada setiap saat sesuai arah anak panah di bawah ini. Tabel berikut ini menunjukkan bagaimana kedua berang-berang akan bergerak:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-10-1.webp",
+    "w": 529,
+    "h": 214
+   },
+   {
+    "type": "p",
+    "text": "Sebagai contoh, jika penonton bersorak \"Roar!\" Justin akan bergerak satu kotak ke kanan kemudian satu kotak mundur ke belakang. Pada saat yang sama, Selena akan maju satu kotak ke depan dan satu kotak ke kiri. Mereka mulai dengan posisi di lantai dansa sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-10-2.webp",
+    "w": 758,
+    "h": 396
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Manakah dari urutan sorakan berikut yang menyebabkan keduanya berhenti pada kotak yang sama?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Boo! Roar!"
+   },
+   {
+    "label": "B",
+    "text": "Clap! Roar!"
+   },
+   {
+    "label": "C",
+    "text": "Wow! Roar!"
+   },
+   {
+    "label": "D",
+    "text": "Roar! Roar!"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang benar adalah b) Clap! Roar!",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah b) Clap! Roar!"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-10-3.webp",
+    "w": 779,
+    "h": 395
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Persoalan ini memberikan suatu contoh tentang parallel processing atau parallel computing."
+   },
+   {
+    "type": "p",
+    "text": "Dalam hal ini, setiap penari beraksi masing-masing secara independen. Ketika dua prosesor bertabrakan (yang dimaksud: mereka mencoba mengakses lokasi yang sama dalam kode atau memori), maka diperlukan kesepakatan prosesor mana yang mempunyai akses pertama terhadap bagian kode tersebut. Hal ini dapat dilakukan memakai misalnya semaphore. Dengan cara ini satu prosesor mempunyai kunci (lock) pada kode atau variabel yang sedang dipakai dan prosesor lainnya harus menunggu sampai prosesor pertama selesai menggunakan kode tersebut."
+   },
+   {
+    "type": "p",
+    "text": "Ketika melakukan gerakan tari pada kertas, anda sebenarnya melakukan simulasi dari kedua penari. Simulasi penting dalam banyak situasi di dunia nyata. Misalnya, pada saat membuat suatu video game online, seringkali sulit untuk memperoleh akses ke sejuta pemain untuk menguji kode anda. Pemrogram biasanya akan mensimulasikan permainan dengan satu juta instans untuk melihat apakah permainan itu stabil atau akan menemui tabrakan."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-10-asli-1.webp",
+    "w": 990,
+    "h": 1414
+   },
+   {
+    "src": "/soal/2017/2017-10-asli-2.webp",
+    "w": 990,
+    "h": 93
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2017-11",
+  "number": 11,
+  "code": "2017-MY-05",
+  "year": 2017,
+  "title": "Memindahkan Dadu",
+  "country": "MY",
+  "pages": [
+   25,
+   26
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Jack si berang-berang menggulirkan sebuah dadu sepanjang jalan tanpa pengeseran. Untuk memindahkan dadu dari satu petak ke petak berikutnya, Jack memutar dadu sepanjang pinggir yang ada di perbatasan antara dua petak. Dia melakukannya 7 kali sampai dadu mencapai petak berisi bulatan putih di sebelah kanan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-11-1.webp",
+    "w": 397,
+    "h": 200
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan bahwa banyaknya titik di sisi kebalikan sebuah dadu selalu 7 (1 berlawanan dengan 6; 2 berlawanan dengan 5; 3 berlawanan dengan 4). Pada mulanya, sisi dengan 1 titik (berlawanan dengan sisi 6) ada di dasar dadu, seperti ditunjukkan pada gambar. Setelah memutar dadu sekali ke petak kedua, sisi dengan 2 titik (berlawanan dengan 5) akan berada di dasar dadu."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Sisi dadu dengan berapa titik ada di dasar dadu saat dadu mencapai petak hijau di ujung?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "2"
+   },
+   {
+    "label": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban: Jawaban yang benar adalah a) 4. Salah satu cara untuk memecahkan tantangan ini adalah dengan mengamati posisi semua sisi dadu saat dadu itu berputar. Tapi sebaliknya, kita dapat mengurangi kompleksitasnya dengan mengamati 3 sisi saja, karena 3 sisi yang lainnya bisa ditentukan berdasarkan sisi yang berlawanan dengannya. Misalnya, pertama-tama kita dapat mencatat posisi awal dadu dengan sisi 3, 5, dan 6 yang berada di posisi kanan, depan dan atas. Kita terus mengamati posisi ketiga sisi ini saat dadu berputar, selangkah demi selangkah sampai ke petak terakhir. Setelah dadu selesai bergerak, kita bisa tahu sisi mana yang berada di bawah. Jadi sisi yang menghadap ke bawah di petak trakhir adalah 4, karena sisi 3 berada di sebelah atas.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah a) 4."
+   },
+   {
+    "type": "p",
+    "text": "Salah satu cara untuk memecahkan tantangan ini adalah dengan mengamati posisi semua sisi dadu saat dadu itu berputar."
+   },
+   {
+    "type": "p",
+    "text": "Tapi sebaliknya, kita dapat mengurangi kompleksitasnya dengan mengamati 3 sisi saja, karena 3 sisi yang lainnya bisa ditentukan berdasarkan sisi yang berlawanan dengannya."
+   },
+   {
+    "type": "p",
+    "text": "Misalnya, pertama-tama kita dapat mencatat posisi awal dadu dengan sisi 3, 5, dan 6 yang berada di posisi kanan, depan dan atas. Kita terus mengamati posisi ketiga sisi ini saat dadu berputar, selangkah demi selangkah sampai ke petak terakhir. Setelah dadu selesai bergerak, kita bisa tahu sisi mana yang berada di bawah."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-11-2.webp",
+    "w": 852,
+    "h": 265
+   },
+   {
+    "type": "p",
+    "text": "Jadi sisi yang menghadap ke bawah di petak trakhir adalah 4, karena sisi 3 berada di sebelah atas."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Ini adalah contoh pemecahan masalah dengan mengamati hanya sebagian informasi di setiap tahap. Metode ini dapat mengurangi kerumitan dan penggunaan memori. Komputer sering diprogram seperti ini."
+   },
+   {
+    "type": "p",
+    "text": "Salah satu alternatif dari metode ini adalah melacak jumlah titik di bagian bawah setelah setiap langkah. Tetapi jauh lebih sulit. Untuk beberapa putaran pertama, itu masih mudah. Tetapi setelah beberapa langkah, kita akan mengalami kesulitan karena beberapa angka tidak dapat dilihat. Selanjutnya, jika kita memprogram dua metode ini di komputer, kita akan melihat bahwa metode pertama, seperti yang ditunjukkan dalam jawaban, lebih cepat."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-11-asli-1.webp",
+    "w": 990,
+    "h": 784
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2017-12",
+  "number": 12,
+  "code": "2017-CA-01",
+  "year": 2017,
+  "title": "Area Parkir",
+  "country": "CA",
+  "pages": [
+   27,
+   28
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Terdapat 12 tempat untuk parkir mobil di area parkir. Setiap tempat diberi nomor. Gambar di bawah ini menunjukkan kondisi area parkir pada hari Senin dan pada hari Selasa."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-12-1.webp",
+    "w": 547,
+    "h": 321
+   },
+   {
+    "type": "p",
+    "text": "Mobil yang parkir (pada hari Senin maupun Selasa) pasti akan parkir di tempat yang tergambar."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa banyak tempat parkir yang tidak pernah terisi mobil pada hari Senin maupun hari Selasa?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "3"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "4"
+   },
+   {
+    "label": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang tepat adalah 4. Kita dapat melihat tempat mana yang dipakai dengan menempatkan mobil-mobil dari kedua hari di arena parkir secara bersamaan. Kemudian kita dapat menghitung banyaknya tempat kosong untuk menentukan 4 tempat kosong pada hari Senin dan Selasa.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah 4."
+   },
+   {
+    "type": "p",
+    "text": "Kita dapat melihat tempat mana yang dipakai dengan menempatkan mobil-mobil dari kedua hari di arena parkir secara bersamaan."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-12-2.webp",
+    "w": 476,
+    "h": 364
+   },
+   {
+    "type": "p",
+    "text": "Kemudian kita dapat menghitung banyaknya tempat kosong untuk menentukan 4 tempat kosong pada hari Senin dan Selasa."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Semua data dapat dipandang sebagai rangkaian nol dan satu. Setiap nol atau satu disebut sebagai bit dan rangkaian bit disebut kode biner, representasi biner atau bilangan biner."
+   },
+   {
+    "type": "p",
+    "text": "Pada kasus sini, kita dapat memodelkan tempat bersisi mobil sebagai satu (1) dan tempat kosong sebagai nol (0); sehingga satu tempat parkir direpresentasikan dengan satu bit. Kita mendapatkan rangkaian bit jika kita memandang bahwa tempat parkir berurutan. Misalnya kita mulai dari baris atas kemudian baru baris bawah untuk memperoleh 101001001010 untuk arena parkir pada hari Senin dan 100100000111 untuk arena parkir pada hari Selasa."
+   },
+   {
+    "type": "p",
+    "text": "Soal ini meminta anda untuk menentukan pasangan bit mana dari kedua belas posisi pada kedua representasi biner yang keduanya bernilai nol (0)."
+   },
+   {
+    "type": "p",
+    "text": "Dalam logika, pernyataan: mencari tempat yang kosong pada (hari Senin dan hari Selasa) dapat dinegasi menjadi tempat yang isi (pada hari Senin atau hari Selasa)"
+   },
+   {
+    "type": "p",
+    "text": "Dalam hal ini, kita menentukan bit mana saja bernilai 1, dan operasi logik yang disebut OR. Perhatikan bagaimana kita dapat menghitung jawaban yang benar dengan melihat bahwa 101001001010 OR 100100000111 memberikan 10110100111. Ini memberikan hasil bilangan biner yang mempunyai 4 buah nol di dalamnya. Jadi, ada 4 tempat kosong pada hari Senin maupun juga kosong pada hari Selasa."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-12-asli-1.webp",
+    "w": 990,
+    "h": 742
+   }
+  ],
+  "figureCount": 2,
+  "flags": []
+ },
+ {
+  "id": "2017-13",
+  "number": 13,
+  "code": "2017-CA-12",
+  "year": 2017,
+  "title": "Robot Pengumpul Permen",
+  "country": "CA",
+  "pages": [
+   29,
+   30
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Robot Candy diprogram untuk mengumpulkan permen sebanyak mungkin yang terhampar di lantai yang terdiri dari petak-petak. Tugas tersebut dilakukan pada saat robot berjalan melalui petak demi petak lantai. Setiap petak di lantai sebagai tergambar di bawah ini memiliki 0, 1, 2 atau 3 permen. Robot Candy mulai dari petak S (untuk start) di kiri bawah dan berakhir di petak F (untuk finish) di kanan atas. Namun, Robot Candy memiliki keterbatasan: setiap kali berpindah, dia hanya bisa berpindah dari satu petak ke petak berikutnya di sebelah kanannya atau di sebelah atasnya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-13-1.webp",
+    "w": 418,
+    "h": 318
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Mengingat Robot Candy akan mengumpulkan permen sebanyak-banyaknya, berapa banyak permen yang dikumpulkan oleh Robot Candy?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "10"
+   },
+   {
+    "label": "B",
+    "text": "12"
+   },
+   {
+    "label": "C",
+    "text": "14"
+   },
+   {
+    "label": "D",
+    "text": "16"
+   },
+   {
+    "label": "E",
+    "text": "13"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang benar adalah 14. Salah satu pendekatannya adalah mengisi tabel \"terbaik\" dari permen yang bisa dikumpulkan mengisi \"sapuan diagonal\" dari tabel. Awalnya kita punya 0 permen, jadi kita bisa memikirkan tabel sebagai berikut: Dimana elemen dicetak dengan huruf tebal adalah jumlah maksimal permen yang bisa kita capai di setiap sel. Dengan bergerak naik robot akan mendapatkan 3 permen, dan dengan bergerak ke kanan robot akan mendapatkan 0 permen, jadi kita bisa memperbarui tabel kita: Perhatikan sel yang ada di sebelah kanan angka 3 yang dicetak tebal dan di atas angka 0 yang dicetak tebal. Berapakah jumlah maksimum permen yang bisa kita kumpulkan untuk sampai ke sel ini? Kita harus sampai ke sel ini setelah mengumpulkan 3, bukan 0, permen. Jadi, kita bisa berada di sel ini setelah mengumpulkan 4 permen. Melanjutkan dengan cara ini, kita dapat melihat bahwa jumlah maksimal permen yang bisa kita kumpulkan di dalam sebuah sel adalah jumlah permen dalam sel tersebut ditambah dan jumlah permen yang terbesar antara sel di sebelah kiri atas sel di bawahnya. Secara matematis hal ini dapat dinyatakan dengan v (i, 0) = 0 v (0, j) = 0 v (i, j) = c (i, j) + max {v (i-1, j), v (i, j-1)} dimana v (i, j) adalah jumlah maksimum permen yang dapat dikumpulkan di sel (i, j), dan c (i, j) adalah jumlah permen dalam grid pada sel (i, j) pada awalnya. Jika kita ingin mengacu ke sel paling kiri dan paling bawah, kita perlu menambahkan kolom angka nol ke kiri dan deretan angka nol ke bagian bawah tabel. Dengan menerapkan hubungan ini, kita bisa mengisi sisa tabel sebagai berikut: dan oleh karena itu, kita bisa mengumpulkan 14 permen di sel F. Inilah Informatika! Menentukan solusi \"terbaik\" di antara serangkaian solusi yang mungkin adalah masalah yang sulit dan bermanfaat. Untuk masalah pengumpulan permen ini, kita bisa mencoba semua jalur yang mungkin, yang merupakan solusi brute force. Sayangnya, ada banyak sekali jalur: khususnya, untuk masalah ini, ada 70 jalur yang berbeda. Dalam kasus khusus ini, kita dapat mencoba untuk menemukan beberapa bagian tugas yang \"layak\" dan mencoba (dan berhasil) untuk menemukan solusi terbaik dari sana. Karena kotaknya relatif kecil, kita bisa mengurangi kemungkinan lain yang harus lebih buruk lagi. Solusi yang lebih efisien melibatkan pengisian tabel, seperti yang dijelaskan di atas, dengan menggunakan teknik yang disebut memoisasi dari dynamic programming recurrence. Artinya, setelah mendapatkan formula hubungan untuk solusi \"terbaik\" dari sel saat ini, berdasarkan sel ke kiri atau sel di bawah, kita melakukan 25 perhitungan, dalam hal ini, untuk menghitung jumlah maksimum dari permen tersedia, kita membangun solusi yang lebih besar dari kondisi awal. .",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 14."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-13-2.webp",
+    "w": 200,
+    "h": 173
+   },
+   {
+    "type": "p",
+    "text": "Salah satu pendekatannya adalah mengisi tabel \"terbaik\" dari permen yang bisa dikumpulkan mengisi \"sapuan diagonal\" dari tabel. Awalnya kita punya 0"
+   },
+   {
+    "type": "p",
+    "text": "permen, jadi kita bisa memikirkan tabel sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-13-3.webp",
+    "w": 198,
+    "h": 172
+   },
+   {
+    "type": "p",
+    "text": "Dimana elemen dicetak dengan huruf tebal adalah jumlah maksimal permen yang bisa kita capai di setiap sel. Dengan bergerak naik robot akan mendapatkan 3 permen, dan dengan bergerak ke kanan robot akan mendapatkan 0 permen, jadi kita bisa memperbarui tabel kita:"
+   },
+   {
+    "type": "p",
+    "text": "Perhatikan sel yang ada di sebelah kanan angka 3 yang dicetak tebal dan di atas"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-13-4.webp",
+    "w": 188,
+    "h": 167
+   },
+   {
+    "type": "p",
+    "text": "angka 0 yang dicetak tebal. Berapakah jumlah maksimum permen yang bisa kita kumpulkan untuk sampai ke sel ini? Kita harus sampai ke sel ini setelah mengumpulkan 3, bukan 0, permen. Jadi, kita bisa berada di sel ini setelah mengumpulkan 4 permen."
+   },
+   {
+    "type": "p",
+    "text": "Melanjutkan dengan cara ini, kita dapat melihat bahwa jumlah maksimal permen yang bisa kita kumpulkan di dalam sebuah sel adalah jumlah permen dalam sel tersebut ditambah dan jumlah permen yang terbesar antara sel di sebelah kiri atas sel di bawahnya. Secara matematis hal ini dapat dinyatakan dengan v (i, 0) = 0"
+   },
+   {
+    "type": "p",
+    "text": "v (0, j) = 0 v (i, j) = c (i, j) + max {v (i-1, j), v (i, j-1)}"
+   },
+   {
+    "type": "p",
+    "text": "dimana v (i, j) adalah jumlah maksimum permen yang dapat dikumpulkan di sel (i, j), dan c (i, j) adalah jumlah permen dalam grid pada sel (i, j) pada awalnya."
+   },
+   {
+    "type": "p",
+    "text": "Jika kita ingin mengacu ke sel paling kiri dan paling bawah, kita perlu menambahkan kolom angka nol ke kiri dan deretan angka nol ke bagian bawah tabel. Dengan menerapkan hubungan ini, kita bisa mengisi sisa tabel sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-13-5.webp",
+    "w": 227,
+    "h": 190
+   },
+   {
+    "type": "p",
+    "text": "dan oleh karena itu, kita bisa mengumpulkan 14 permen di sel F."
+   },
+   {
+    "type": "p",
+    "text": "Inilah Informatika!"
+   },
+   {
+    "type": "p",
+    "text": "Menentukan solusi \"terbaik\" di antara serangkaian solusi yang mungkin adalah masalah yang sulit dan bermanfaat. Untuk masalah pengumpulan permen ini, kita bisa mencoba semua jalur yang mungkin, yang merupakan solusi brute force."
+   },
+   {
+    "type": "p",
+    "text": "Sayangnya, ada banyak sekali jalur: khususnya, untuk masalah ini, ada 70 jalur yang berbeda. Dalam kasus khusus ini, kita dapat mencoba untuk menemukan beberapa bagian tugas yang \"layak\" dan mencoba (dan berhasil) untuk menemukan solusi terbaik dari sana. Karena kotaknya relatif kecil, kita bisa mengurangi kemungkinan lain yang harus lebih buruk lagi."
+   },
+   {
+    "type": "p",
+    "text": "Solusi yang lebih efisien melibatkan pengisian tabel, seperti yang dijelaskan di atas, dengan menggunakan teknik yang disebut memoisasi dari dynamic programming recurrence. Artinya, setelah mendapatkan formula hubungan untuk solusi \"terbaik\" dari sel saat ini, berdasarkan sel ke kiri atau sel di bawah, kita melakukan 25 perhitungan, dalam hal ini, untuk menghitung jumlah maksimum dari permen tersedia, kita membangun solusi yang lebih besar dari kondisi awal."
+   },
+   {
+    "type": "p",
+    "text": "."
+   }
+  ],
+  "informatics": [],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-13-asli-1.webp",
+    "w": 990,
+    "h": 901
+   }
+  ],
+  "figureCount": 5,
+  "flags": []
+ },
+ {
+  "id": "2017-14",
+  "number": 14,
+  "code": "2017-AT-06",
+  "year": 2017,
+  "title": "Kurung",
+  "country": "AT",
+  "pages": [
+   31,
+   32
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sebuah toko permata membuat gelang yang tersusun atas bentuk-bentuk hiasan yang mirip tanda kurung. Ada dua bentuk yang berbeda: P-1 dan, P-2. Satu pasangan bentuk adalah dua bentuk yang sama yang diposisikan berhadapan: satu menghadap ke kanan (seperti tanda kurung buka) dan satu berikutnya menghadap ke kiri (Seperti tanda kurung tutup). Ada dua kemungkinan pasangan seperti pada gambar berikut, dan selanjutnya pasangan tersebut dinamakan pasangan P-1 dan pasangan P-2)."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-1.webp",
+    "w": 214,
+    "h": 87
+   },
+   {
+    "type": "p",
+    "text": "Proses pembuatan gelang dimulai dari sebuah pasangan apapun (P-1 atau P-2). Pasangan demi pasangan berikutnya disisipkan secara bersamaan pada suatu titik penyisipan: di kiri, atau di tengah, atau di kanan, dari suatu pasangan yang sudah ada pada gelang. Untuk memperjelasnya berikut ini ada sejumlah contoh."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-2.webp",
+    "w": 931,
+    "h": 90
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-3.webp",
+    "w": 930,
+    "h": 134
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-4.webp",
+    "w": 942,
+    "h": 127
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Manakah dari gelang-gelang berikut ini yang dibuat dengan cara yang telah diuraikan di atas?"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-5.webp",
+    "w": 931,
+    "h": 61
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": ""
+   },
+   {
+    "label": "B",
+    "text": ""
+   },
+   {
+    "label": "C",
+    "text": "d)"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang tepat adalah d) Gelang mulai dibuat dengan dua kurung, menaruh sepasang di antaranya, kemudian menaruh pasangan lain di antara pasangan yang kedua. Semua gelang yang lain tidak dibentuk berdasarkan cara yang telah dijelaskan: A. Posisi 3 salah: sisi kanan dari hiasan 2 ditempatkan sebelum sisi kanan dari hiasan 1. B. Posisi 1 salah: dimulai dengan sisi kanan hiasan, seharusnya dari sisi kiri. C. Posisi 2 salah: susunan terdiri dari 3 sisi kiri dari satu hiasan dan kemudian 3 sisi kanan dari hiasan yang lain, jadi tidak disusun secara berpasangan.",
+  "explanation": [
+   {
+    "type": "p",
+    "text": "Jawaban: Jawaban yang tepat adalah d)"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-14-6.webp",
+    "w": 198,
+    "h": 73
+   },
+   {
+    "type": "p",
+    "text": "Gelang mulai dibuat dengan dua kurung, menaruh sepasang di antaranya, kemudian menaruh pasangan lain di antara pasangan yang kedua. Semua gelang yang lain tidak dibentuk berdasarkan cara yang telah dijelaskan:"
+   },
+   {
+    "type": "p",
+    "text": "A. Posisi 3 salah: sisi kanan dari hiasan 2 ditempatkan sebelum sisi kanan dari hiasan 1."
+   },
+   {
+    "type": "p",
+    "text": "B. Posisi 1 salah: dimulai dengan sisi kanan hiasan, seharusnya dari sisi kiri."
+   },
+   {
+    "type": "p",
+    "text": "C. Posisi 2 salah: susunan terdiri dari 3 sisi kiri dari satu hiasan dan kemudian 3 sisi kanan dari hiasan yang lain, jadi tidak disusun secara berpasangan."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Aturan untuk membuat gelang yang dijelaskan pada tantangan ini sama persis seperti aturan menyusun ekspresi kurung. Ilmuwan/Ahli Informatika menyebut ekspresi yang benar dengan \"formula-benar\" (“well formed formula”). Ekspresi yang mengandung kesalahan disebut \"formula-salah\". Suatu ekspresi yang merupakan \"formula-benar\" juga disebut \"benar secara sintaks\", yang berarti ekspresi taat pada aturan sintaks (aturan tata bahasa) yang ditentukan. Walaupun kesalahan sintaks mungkin akan sulit dikenali pada sebuah ekspresi yang rumit, kesalahan sintaks secara umum lebih mudah ditemukan dibandingkan \"kesalahan semantik\", yaitu kesalahan logika yang dibuat oleh pemrogram."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-14-asli-1.webp",
+    "w": 990,
+    "h": 1391
+   },
+   {
+    "src": "/soal/2017/2017-14-asli-2.webp",
+    "w": 990,
+    "h": 93
+   }
+  ],
+  "figureCount": 6,
+  "flags": []
+ },
+ {
+  "id": "2017-15",
+  "number": 15,
+  "code": "2017-DE-06a",
+  "year": 2017,
+  "title": "Jembatan Honomakato",
+  "country": "DE",
+  "pages": [
+   33
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-15-1.webp",
+    "w": 296,
+    "h": 280
+   },
+   {
+    "type": "p",
+    "text": "Kepulauan Honomakato terdiri dari lima pulau yang indah yaitu Ho, No, Ma, Ka, dan To. Pulau terbesar yaitu Ho terhubung ke daratan (pulau utama) oleh sebuah jembatan besar terbuat dari besi yang kokoh. Selain itu, terdapat jembatan-jembatan kayu yang menghubungkan Ho dengan No, Ho dengan Ka, Ka dengan Ma, dan Ka dengan To."
+   },
+   {
+    "type": "p",
+    "text": "Penduduk kepulauan Honomakato berharap dibangun dua jembatan kayu lagi agar jika salah satu jembatan kayu putus, setiap pulau tetap masih bisa mencapai daratan lewat pulau Ho, karena jembatan dari Ho ke daratan tak mungkin rusak."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Jembatan yang mana?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Ho dengan To, dan No dengan Ma."
+   },
+   {
+    "label": "B",
+    "text": "Ka dengan No, dan No dengan Ma."
+   },
+   {
+    "label": "C",
+    "text": "Ho dengan To, dan Ma dengan To."
+   },
+   {
+    "label": "D",
+    "text": "Dua jembatan kayu tidak cukup untuk itu."
+   }
+  ],
+  "answer": "A",
+  "answerText": "Jawaban: Jawaban yang benar adalah a) Ho dengan To, dan No dengan Ma. Kalau ada jembatan Ho-To, jika Ho-Ka atau Ka-To terputus, To masih terhubung. Selain itu, Ka masih terhubung juga melalui To kalau jembatan Ho-Ka putus. Kalau ada jembatan No dan Ma: • Ma masih terhubung melalui No, jika jembatan Ho-Ka atau Ka-Ma terputus. • No terhubung dengan Ka dan Ma, jika jembatan Ho-No terputus. • Ka masih terhubung melalui No dan Ma, jika jembatan Ho-Ka putus. Jembatan Ma-To tidak dapat menghubungkan No kalau jembatan Ho-No terputus. Jembatan Ka-No tidak dapat menghubungkan To jika jembatan Ho-Ka atau Ka-To putus. Ini Informatik! Jaringan kabel yang dibuat untuk kepulauan Honomakato menggambarkan hanya sebagian kecil dari seluruh internet. Strukturnya menunjukkan contoh dari semua jaringan internat secara global: komputer, HP, televisi, CCTV, dan apapun yang terkoneksi ke Internet saat ini, dapat digambarkan sebagai jejaring dari simpul, seperti pulau-pulau pada jaringan Honomakato. Pada tahun 1960, motivasi utama dari penemuan internet adalah untuk membangun sebuah jejaring yang dengan cepat pulih jika ada masalah (“resilien”). Khususnya, tidak berfungsinya sebuah simpul tidak menyebabkah seluruh jaringan menjadi lumpuh (tak berfungsi). Jenis jejaring selain internet, misalnya jejaring lalulintas antar kota, pengiriman logistik, juga sama pentingnya agar tidak mempunyai satu simpul yang jika lumpuh dapat menyebabkan semua jaringan lumpuh. Ilmuwan/Ahli informatika menggunakan teori graf untuk menalarkan sebuah jaringan. Sebuah graf adalah sebuah jaringan terdiri dari simpul dan penghubung (jalur) antar simpul. Sebuah graf disebut “terhubung”, jika setiap pasangan A dan B terhubung, yaitu dapat mencapai A dari B melalui satu atau lebih simpul. Jika ada sebuah simpul yang harus ada untuk membuat graf tersebut terhubung, maka simpul tersebut disebut “jembatan”. Dalam sebuah jaringan yang cepat pulih terhubung kembali saat sebuah simpul gagal berfungsi, harus dihindari adanya simpul “jembatan”. Untungnya, ada algoritma untuk mengenali simpul “jembatan”. Robert Tarjan menemukan sebuah algoritma mendeteksi simpul jembatan yang efisien – dan juga banyak algoritma lainnya.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah a) Ho dengan To, dan No dengan Ma."
+   },
+   {
+    "type": "p",
+    "text": "Kalau ada jembatan Ho-To, jika Ho-Ka atau Ka-To terputus, To masih terhubung. Selain itu, Ka masih terhubung juga melalui To kalau jembatan Ho-Ka putus."
+   },
+   {
+    "type": "p",
+    "text": "Kalau ada jembatan No dan Ma:"
+   },
+   {
+    "type": "li",
+    "text": "Ma masih terhubung melalui No, jika jembatan Ho-Ka atau Ka-Ma terputus."
+   },
+   {
+    "type": "li",
+    "text": "No terhubung dengan Ka dan Ma, jika jembatan Ho-No terputus."
+   },
+   {
+    "type": "li",
+    "text": "Ka masih terhubung melalui No dan Ma, jika jembatan Ho-Ka putus."
+   },
+   {
+    "type": "p",
+    "text": "Jembatan Ma-To tidak dapat menghubungkan No kalau jembatan Ho-No terputus."
+   },
+   {
+    "type": "p",
+    "text": "Jembatan Ka-No tidak dapat menghubungkan To jika jembatan Ho-Ka atau Ka-To putus."
+   },
+   {
+    "type": "p",
+    "text": "Ini Informatik!"
+   },
+   {
+    "type": "p",
+    "text": "Jaringan kabel yang dibuat untuk kepulauan Honomakato menggambarkan hanya sebagian kecil dari seluruh internet. Strukturnya menunjukkan contoh dari semua jaringan internat secara global: komputer, HP, televisi, CCTV, dan apapun yang terkoneksi ke Internet saat ini, dapat digambarkan sebagai jejaring dari simpul, seperti pulau-pulau pada jaringan Honomakato."
+   },
+   {
+    "type": "p",
+    "text": "Pada tahun 1960, motivasi utama dari penemuan internet adalah untuk membangun sebuah jejaring yang dengan cepat pulih jika ada masalah (“resilien”). Khususnya, tidak berfungsinya sebuah simpul tidak menyebabkah seluruh jaringan menjadi lumpuh (tak berfungsi). Jenis jejaring selain internet, misalnya jejaring lalulintas antar kota, pengiriman logistik, juga sama pentingnya agar tidak mempunyai satu simpul yang jika lumpuh dapat menyebabkan semua jaringan lumpuh."
+   },
+   {
+    "type": "p",
+    "text": "Ilmuwan/Ahli informatika menggunakan teori graf untuk menalarkan sebuah jaringan. Sebuah graf adalah sebuah jaringan terdiri dari simpul dan penghubung (jalur) antar simpul. Sebuah graf disebut “terhubung”, jika setiap pasangan A dan B terhubung, yaitu dapat mencapai A dari B melalui satu atau lebih simpul. Jika ada sebuah simpul yang harus ada untuk membuat graf tersebut terhubung, maka simpul tersebut disebut “jembatan”. Dalam sebuah jaringan yang cepat pulih terhubung kembali saat sebuah simpul gagal berfungsi, harus dihindari adanya simpul “jembatan”. Untungnya, ada algoritma untuk mengenali simpul “jembatan”. Robert Tarjan menemukan sebuah algoritma mendeteksi simpul jembatan yang efisien – dan juga banyak algoritma lainnya."
+   }
+  ],
+  "informatics": [],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-15-asli-1.webp",
+    "w": 990,
+    "h": 571
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-16",
+  "number": 16,
+  "code": "2017-HU-11",
+  "year": 2017,
+  "title": "Majalah Dinding",
+  "country": "HU",
+  "pages": [
+   34,
+   35
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Sepuluh siswa sedang bekerja untuk menerbitkan majalah dinding sekolah. Setiap hari Jumat, mereka menulis dan memperbaiki artikel majalah dinding. Sebagian pekerjaan membutuhkan komputer. Pada tabel di bawah, sel yang berwarna menunjukkan bahwa seorang siswa membutuhkan komputer. Pada satu jam yang sama, satu komputer hanya dapat digunakan oleh seorang siswa."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-16-1.webp",
+    "w": 573,
+    "h": 268
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapa jumlah minimum komputer yang dibutuhkan supaya mereka dapat bekerja sesuai dengan tabel di atas?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "4"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "10"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang tepat adalah b) 5. Pada jam 09:00 dan 10:00, 5 siswa memerlukan sebuah komputer. Berarti, paling sedikit kita membutuhkan 5 komputer supaya mereka semua bisa bekerja. Kalau kita mengatur jadwalnya dengan benar, seperti di tabel berikut ini, 5 kompouter akan cukup. Ketika siswa datang untuk memakai komputer, mereka duduk di depan komputer yang pertama tersedia. Saat mereka selesai, siswa yang lain bisa datang dan duduk di komputer tersebut.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang tepat adalah b) 5."
+   },
+   {
+    "type": "p",
+    "text": "Pada jam 09:00 dan 10:00, 5 siswa memerlukan sebuah komputer. Berarti, paling sedikit kita membutuhkan 5 komputer supaya mereka semua bisa bekerja."
+   },
+   {
+    "type": "p",
+    "text": "Kalau kita mengatur jadwalnya dengan benar, seperti di tabel berikut ini, 5 kompouter akan cukup."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-16-2.webp",
+    "w": 562,
+    "h": 263
+   },
+   {
+    "type": "p",
+    "text": "Ketika siswa datang untuk memakai komputer, mereka duduk di depan komputer yang pertama tersedia. Saat mereka selesai, siswa yang lain bisa datang dan duduk di komputer tersebut."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Untuk memahami sejumlah besar data dan hubungan antara bermacam-macam tipe data, jalan yang terbaik adalah dengan menciptakan metode representasi data, contohnya dengan menggunakan tabel, grafik atau diagram."
+   },
+   {
+    "type": "p",
+    "text": "Tergantung pada informasi yang dicari, kita bisa menunjukkan data yang sama secara berbeda. Dalam tantangan ini, kita bisa juga menunjukkan data yang sama dengan tabel lain seperti berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-16-3.webp",
+    "w": 924,
+    "h": 207
+   },
+   {
+    "type": "p",
+    "text": "Penjadwalan dan penggunaan sumber daya yang optimal seringkali merupakan persoalan dalam kehidupan sehari-hari. Contoh: pemesanan kamar hotel, di mana satu kamar hanya boleh dipesan oleh satu pelanggan, dan alokasi kamar harus optimal, sebuah jadwal dalam bentuk tabel pemakaian yang optimal akan membantu."
+   },
+   {
+    "type": "p",
+    "text": "Cara lain untuk merepresentasi data adalah dalam bentuk graf, di mana simpul adalah interval, dan di antara dua simpul ada jalur yang merepresentasi bahwa kedua simpul beririsan (ada interseksi). Graf ini disebut graf interval Sebuah pewarnaan graf interval yang optimal menyatakan penugasan/alokasi pemakaian sumber daya, yang memenuhi semua permintaan dengan sumberdaya yang paling sedikit” (Wikipedia)"
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Table_(information)"
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Interval_graph"
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-16-asli-1.webp",
+    "w": 990,
+    "h": 761
+   }
+  ],
+  "figureCount": 3,
+  "flags": []
+ },
+ {
+  "id": "2017-17",
+  "number": 17,
+  "code": "2017-AT-02",
+  "year": 2017,
+  "title": "Membangun Bendungan",
+  "country": "AT",
+  "pages": [
+   36,
+   37
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Empat berang-berang sedang membangun bendungan. Mereka merencanakan tugas seperti gambar di bawah ini. Urutan tugas yang harus dilakukan ditunjukkan dengan tanda anak panah dan boleh dimulai setelah tugas sebelumnya selesai. Bilangan di dalam lingkaran kuning menunjukkan berapa jam waktu yang diperlukan untuk menyelesaikan suatu tugas. Setiap tugas dilakukan oleh seekor berang-berang."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-17-1.webp",
+    "w": 1034,
+    "h": 359
+   },
+   {
+    "type": "p",
+    "text": "Setelah berang-berang menemukan tempat terbaik untuk membangun bendungan, seekor berang-berang memutuskan untuk tidur siang dahulu selama 4 jam, sehingga tugasnya akan tertunda selama 4 jam."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Pilihlah satu dari empat tugas yang harus ditunda supaya waktu tunggu dalam penyelesaian bendungan menjadi minimal."
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "Mengumpulkan cabang-cabang besar"
+   },
+   {
+    "label": "B",
+    "text": "Mengumpulkan cabang-cabang kecil"
+   },
+   {
+    "label": "C",
+    "text": "Mengumpulkan batu-batuan"
+   },
+   {
+    "label": "D",
+    "text": "Mengumpulkan lumpur"
+   }
+  ],
+  "answer": "B",
+  "answerText": "Jawaban: Jawaban yang paling benar adalah b) Mengumpulkan cabang-cabang kecil. ”Penundaan 4 jam pada tugas A, C atau D akan menunda proyek keseluruhan dengan 4 jam. Tugas “B – Mengumpulkan cabang kecil” mempunyai kelonggaran waktu (slack time) sebesar satu jam. Jika tugas ini ditunda selama 4 jam, maka waktu total untuk menyelesaikan proyek hanya akan bertambah 3 jam. “A. Mengumpulkan cabang besar”, “C. Mengumpulkan lumpur”, “D. Mengumpulkan batu-batuan“ adalah tugas yang berada di jalur kritis dari proyek. Hal ini berarti setiap penundaan tidak peduli berapa panjangnya akan mempengaruhi waktu total yang diperlukan untuk proyek. Jawaban benar adalah “B. Mengumpulkan cabang kecil.” bukanlah bagian dari jalur kritis. Hal ini berarti terdapat slack time untuk tugas ini, dalam hal ini slack time adalah satu jam.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang paling benar adalah b) Mengumpulkan cabang-cabang kecil."
+   },
+   {
+    "type": "p",
+    "text": "”Penundaan 4 jam pada tugas A, C atau D akan menunda proyek keseluruhan dengan 4 jam. Tugas “B – Mengumpulkan cabang kecil” mempunyai kelonggaran waktu (slack time) sebesar satu jam. Jika tugas ini ditunda selama 4 jam, maka waktu total untuk menyelesaikan proyek hanya akan bertambah 3 jam. “A. Mengumpulkan cabang besar”, “C. Mengumpulkan lumpur”, “D. Mengumpulkan batu-batuan“ adalah tugas yang berada di jalur kritis dari proyek. Hal ini berarti setiap penundaan tidak peduli berapa panjangnya akan mempengaruhi waktu total yang diperlukan untuk proyek. Jawaban benar adalah “B. Mengumpulkan cabang kecil.” bukanlah bagian dari jalur kritis. Hal ini berarti terdapat slack time untuk tugas ini, dalam hal ini slack time adalah satu jam."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Pemrosesan tugas-tugas, dengan memperhatikan kebergantungannya, adalah salah satu tipe masalah dalam informatika. Misalnya sistem operasi dari komputer modern memungkinkan beberapa program untuk berjalan secara simultan pada saat yang bersamaan. Sebaliknya, perangkat keras sering hanya memungkinkan untuk menjalankan satu operasi saja pada satu saat. Oleh karena itu, sistem operasi mempunyai suatu modul perangkat lunak rumit (disebut penjadwal/scheduler) yang memutuskan operasi mana yang harus dijalankan berikutnya, dengan mempertimbangkan bahwa keterbatasan sumber daya perangkat keras yang tersedia dan kebergantungan sebuah tugas dengan tugas-tugas lainnya."
+   },
+   {
+    "type": "p",
+    "text": "https://en.wikipedia.org/wiki/Critical_path_method https://en.wikipedia.org/wiki/Scheduling_%28computing%29"
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-17-asli-1.webp",
+    "w": 990,
+    "h": 945
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-18",
+  "number": 18,
+  "code": "2017-CA-02",
+  "year": 2017,
+  "title": "Barisan Anjing",
+  "country": "CA",
+  "pages": [
+   38
+  ],
+  "format": "single_choice",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Terdapat dua jenis anjing yang berbaris seperti tampak dalam gambar berikut ini:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-18-1.webp",
+    "w": 599,
+    "h": 105
+   },
+   {
+    "type": "p",
+    "text": "Suatu pertukaran tempat dapat terjadi antara dua anjing yang berdiri bersebelahan. Akan dilakukan beberapa kali pertukaran tempat, sehingga tiga anjing besar akan berdiri dalam tiga posisi yang bersebelahan."
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Berapakah banyaknya pertukaran sesedikit mungkin yang diperlukan?"
+   }
+  ],
+  "options": [
+   {
+    "label": "A",
+    "text": "7"
+   },
+   {
+    "label": "B",
+    "text": "5"
+   },
+   {
+    "label": "C",
+    "text": "6"
+   },
+   {
+    "label": "D",
+    "text": "8"
+   }
+  ],
+  "answer": "C",
+  "answerText": "Jawaban: Jawaban yang benar adalah 6. Ketiga anjing besar akan berdiri dalam tiga posisi yang bersebelahan dengan cara: • Pertukaran pertama antara anjing besar pertama ke sebelah kanan sebanyak dua kali, kemudian • Pertukaran anjing besar terakhir ke sebelah kiri sebanyak empat kali. Setiap anjing kecil harus dilibatkan dalam pertukaran karena setiap anjing kecil diletakkan di antara dua anjing besar. Pertukaran dua anjing kecil tidak akan ada dampaknya sehingga pertukaran harus dilakukan antara satu anjing kecil dengan satu anjing besar. Karena terdapat enam anjing kecil, berarti harus ada paling sedikit enam pertukaran. Perhatikan bahwa percobaan untuk memindahkan ketiga anjing besar ke sebelah kiri atau ke sebelah kanan akan membutuhkan pertukaran lebih dari enam kali.",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "p",
+    "text": "Jawaban yang benar adalah 6."
+   },
+   {
+    "type": "p",
+    "text": "Ketiga anjing besar akan berdiri dalam tiga posisi yang bersebelahan dengan cara:"
+   },
+   {
+    "type": "li",
+    "text": "Pertukaran pertama antara anjing besar pertama ke sebelah kanan sebanyak dua kali, kemudian"
+   },
+   {
+    "type": "li",
+    "text": "Pertukaran anjing besar terakhir ke sebelah kiri sebanyak empat kali."
+   },
+   {
+    "type": "p",
+    "text": "Setiap anjing kecil harus dilibatkan dalam pertukaran karena setiap anjing kecil diletakkan di antara dua anjing besar. Pertukaran dua anjing kecil tidak akan ada dampaknya sehingga pertukaran harus dilakukan antara satu anjing kecil dengan satu anjing besar. Karena terdapat enam anjing kecil, berarti harus ada paling sedikit enam pertukaran. Perhatikan bahwa percobaan untuk memindahkan ketiga anjing besar ke sebelah kiri atau ke sebelah kanan akan membutuhkan pertukaran lebih dari enam kali."
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Data tersimpan dalam memori kompute. Hal ini mencakup memori internal yang disebut RAM dan memori eksternal yang misalnya bisa berbentuk hard drive atau USB. Komputer dapat mengakses data dalam memori internal dengan sangat cepat tetapi memori eksternal lebih murah dibandingkan memori interna. Hal ini berarti computer modern biasanya mempunyai lebih banyak memori eksternal, tetapi ilmuwan computer mencoba untuk menemukan cara untuk menggunakan memori internal sedapat mungkin."
+   },
+   {
+    "type": "p",
+    "text": "Untuk masalah ini, operasi yang dipertimbangkan adalah hanya pertukaran (swap). Jika kita memandang anjing-anjing tersebut sebagai data yang tersimpan di memori computer, maka suatu pertukaran melibatkan perubahan lokasi dari dua buah data. Jika data ini ada di memori eksternal, maka tujuan sesedikit mungkin pertukaran adalah yang kita perlukan untuk melaksanakan seluruh tugas secepat mungkin. Pertukaran juga digunakan dalam beberapa algoritma pengurutan (sorting), yaitu mengurutkan data secara membesar (ascending) atau mengecil (descending). Sebagai contoh dalam bubble sort: dalam setiap pass kita menukar dua data yang bersebelahan yang tidak berurutan."
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-18-asli-1.webp",
+    "w": 990,
+    "h": 581
+   }
+  ],
+  "figureCount": 1,
+  "flags": []
+ },
+ {
+  "id": "2017-19",
+  "number": 19,
+  "code": "2017-SK-12b",
+  "year": 2017,
+  "title": "Robot",
+  "country": "SK",
+  "pages": [
+   39,
+   40,
+   41
+  ],
+  "format": "short_answer",
+  "stem": [
+   {
+    "type": "p",
+    "text": "Milan berhasil mengembangkan robot yang mampu membaca petak berwarna, mengubah warnanya dan berpindah 1 petak ke kiri atau ke kanannya. Robot tersebut bergerak dengan aturan yang digambar dan diartikan sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-1.webp",
+    "w": 937,
+    "h": 188
+   },
+   {
+    "type": "p",
+    "text": "menemukan aturan yang berkaitan dengan warna tersebut, dan berpindah sesuai aturan tersebut. Kemudian robot akan mengulangnya dari petak di mana ia berada. Jika ia tak dapat menemukan aturan, maka berhenti dan keluar dari petak."
+   },
+   {
+    "type": "p",
+    "text": "Diberikan sederet petak sebagai berikut:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-2.webp",
+    "w": 513,
+    "h": 62
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-3.webp",
+    "w": 215,
+    "h": 31
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-4.webp",
+    "w": 470,
+    "h": 89
+   },
+   {
+    "type": "h",
+    "text": "Tantangan"
+   },
+   {
+    "type": "p",
+    "text": "Pilihlah keadaaan petak saat robot berhenti:"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-5.webp",
+    "w": 508,
+    "h": 63
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-6.webp",
+    "w": 508,
+    "h": 66
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-7.webp",
+    "w": 509,
+    "h": 68
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-8.webp",
+    "w": 509,
+    "h": 69
+   }
+  ],
+  "options": [],
+  "answer": null,
+  "answerText": "Jawaban:",
+  "explanation": [
+   {
+    "type": "h",
+    "text": "Jawaban"
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-9.webp",
+    "w": 469,
+    "h": 69
+   }
+  ],
+  "informatics": [
+   {
+    "type": "p",
+    "text": "Dalam bidang informatika, model komputasi memegang peranan sangat penting. Model komputasi adalah aturan dan struktur yang harus ditaati."
+   },
+   {
+    "type": "p",
+    "text": "Contohnya, model komputasi dari sebuah program komputer (software), adalah sekumpulan teks berisi instruksi dalam bahasa programming yang dipakai untuk menulis program tersebut."
+   },
+   {
+    "type": "p",
+    "text": "Tantangan yang diberikan di atas sangat mirip dengan model mesin Turing. Mesin Turing adalah model yang sangat berguna sebagai model komputasi karena walaupun sederhana, model ini setara dengan berbagai macam bahasa programming. Artinya, kita bisa menerjemahkan berbagai macam program komputer ke dalam mesin Turing, dan sebaliknya."
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-10.webp",
+    "w": 350,
+    "h": 435
+   },
+   {
+    "type": "img",
+    "src": "/soal/2017/2017-19-11.webp",
+    "w": 356,
+    "h": 58
+   }
+  ],
+  "credit": "",
+  "original": [
+   {
+    "src": "/soal/2017/2017-19-asli-1.webp",
+    "w": 990,
+    "h": 1406
+   },
+   {
+    "src": "/soal/2017/2017-19-asli-2.webp",
+    "w": 990,
+    "h": 93
+   }
+  ],
+  "figureCount": 11,
+  "flags": [
+   "kunci jawaban belum terbaca"
+  ]
+ }
+]
